@@ -151,6 +151,7 @@ i386/libsa/zalloc.c -text
 i386/libsaio/Makefile -text
 i386/libsaio/SMBIOS.h -text
 i386/libsaio/acpi.h -text
+i386/libsaio/allocate.c -text
 i386/libsaio/asm.s -text
 i386/libsaio/ati.c -text
 i386/libsaio/ati.h -text
@@ -161,6 +162,8 @@ i386/libsaio/bootstruct.c -text
 i386/libsaio/bootstruct.h -text
 i386/libsaio/cache.c -text
 i386/libsaio/console.c -text
+i386/libsaio/cpu.c -text
+i386/libsaio/cpu.h -text
 i386/libsaio/device_inject.c -text
 i386/libsaio/device_inject.h -text
 i386/libsaio/device_tree.c -text
@@ -184,6 +187,8 @@ i386/libsaio/io_inline.h -text
 i386/libsaio/libsaio.h -text
 i386/libsaio/load.c -text
 i386/libsaio/md5c.c -text
+i386/libsaio/mem.c -text
+i386/libsaio/mem.h -text
 i386/libsaio/misc.c -text
 i386/libsaio/msdos.c -text
 i386/libsaio/msdos.h -text
