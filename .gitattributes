@@ -1,5 +1,6 @@
 * text=auto !eol
 /APPLE_LICENSE -text
+/CHANGES -text
 /Makefile -text
 artwork/themes/bullet/background.png -text
 artwork/themes/bullet/boot.png -text
@@ -199,6 +200,8 @@ i386/libsaio/nvidia.c -text
 i386/libsaio/nvidia.h -text
 i386/libsaio/pci.c -text
 i386/libsaio/pci.h -text
+i386/libsaio/pci_root.c -text
+i386/libsaio/pci_root.h -text
 i386/libsaio/pci_setup.c -text
 i386/libsaio/platform.c -text
 i386/libsaio/platform.h -text
