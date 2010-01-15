@@ -174,8 +174,6 @@ i386/libsaio/ext2fs.h -text
 i386/libsaio/fake_efi.c -text
 i386/libsaio/fake_efi.h -text
 i386/libsaio/fdisk.h -text
-i386/libsaio/freq_detect.c -text
-i386/libsaio/freq_detect.h -text
 i386/libsaio/hfs.c -text
 i386/libsaio/hfs.h -text
 i386/libsaio/hfs_CaseTables.h -text
@@ -186,7 +184,6 @@ i386/libsaio/io_inline.h -text
 i386/libsaio/libsaio.h -text
 i386/libsaio/load.c -text
 i386/libsaio/md5c.c -text
-i386/libsaio/memory.c -text
 i386/libsaio/misc.c -text
 i386/libsaio/msdos.c -text
 i386/libsaio/msdos.h -text
