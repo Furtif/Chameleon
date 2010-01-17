@@ -71,6 +71,7 @@ artwork/themes/pinktink/theme.plist -text
 artwork/themes/twilight/font_small.png -text
 artwork/themes/twilight/logo.png -text
 artwork/themes/twilight/theme.plist -text
+/coding_standards.txt -text
 doc/BootHelp.txt -text
 doc/README -text
 doc/User_Guide_src/Chameleon[!!-~]2[!!-~]v0.4.xml -text
