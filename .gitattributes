@@ -1,5 +1,6 @@
 * text=auto !eol
 /APPLE_LICENSE -text
+/CHANGES -text
 /Makefile -text
 artwork/themes/bullet/background.png -text
 artwork/themes/bullet/boot.png -text
@@ -70,6 +71,7 @@ artwork/themes/pinktink/theme.plist -text
 artwork/themes/twilight/font_small.png -text
 artwork/themes/twilight/logo.png -text
 artwork/themes/twilight/theme.plist -text
+/coding_standards.txt -text
 doc/BootHelp.txt -text
 doc/README -text
 doc/User_Guide_src/Chameleon[!!-~]2[!!-~]v0.4.xml -text
@@ -150,6 +152,7 @@ i386/libsa/zalloc.c -text
 i386/libsaio/Makefile -text
 i386/libsaio/SMBIOS.h -text
 i386/libsaio/acpi.h -text
+i386/libsaio/allocate.c -text
 i386/libsaio/asm.s -text
 i386/libsaio/ati.c -text
 i386/libsaio/ati.h -text
@@ -160,6 +163,8 @@ i386/libsaio/bootstruct.c -text
 i386/libsaio/bootstruct.h -text
 i386/libsaio/cache.c -text
 i386/libsaio/console.c -text
+i386/libsaio/cpu.c -text
+i386/libsaio/cpu.h -text
 i386/libsaio/device_inject.c -text
 i386/libsaio/device_inject.h -text
 i386/libsaio/device_tree.c -text
@@ -173,8 +178,6 @@ i386/libsaio/ext2fs.h -text
 i386/libsaio/fake_efi.c -text
 i386/libsaio/fake_efi.h -text
 i386/libsaio/fdisk.h -text
-i386/libsaio/freq_detect.c -text
-i386/libsaio/freq_detect.h -text
 i386/libsaio/hfs.c -text
 i386/libsaio/hfs.h -text
 i386/libsaio/hfs_CaseTables.h -text
@@ -185,7 +188,8 @@ i386/libsaio/io_inline.h -text
 i386/libsaio/libsaio.h -text
 i386/libsaio/load.c -text
 i386/libsaio/md5c.c -text
-i386/libsaio/memory.c -text
+i386/libsaio/mem.c -text
+i386/libsaio/mem.h -text
 i386/libsaio/misc.c -text
 i386/libsaio/msdos.c -text
 i386/libsaio/msdos.h -text
@@ -199,6 +203,8 @@ i386/libsaio/nvidia.c -text
 i386/libsaio/nvidia.h -text
 i386/libsaio/pci.c -text
 i386/libsaio/pci.h -text
+i386/libsaio/pci_root.c -text
+i386/libsaio/pci_root.h -text
 i386/libsaio/pci_setup.c -text
 i386/libsaio/platform.c -text
 i386/libsaio/platform.h -text
