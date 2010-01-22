@@ -161,6 +161,8 @@ i386/libsaio/fake_efi.h -text
 i386/libsaio/fdisk.h -text
 i386/libsaio/freq_detect.c -text
 i386/libsaio/freq_detect.h -text
+i386/libsaio/gma.c -text
+i386/libsaio/gma.h -text
 i386/libsaio/hfs.c -text
 i386/libsaio/hfs.h -text
 i386/libsaio/hfs_CaseTables.h -text
