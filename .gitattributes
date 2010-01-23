@@ -2,6 +2,7 @@
 /APPLE_LICENSE -text
 /CHANGES -text
 /Makefile -text
+/TODO -text
 artwork/themes/bullet/background.png -text
 artwork/themes/bullet/boot.png -text
 artwork/themes/bullet/device_cdrom.png -text
