@@ -1,6 +1,7 @@
 * text=auto !eol
 /APPLE_LICENSE -text
 /CHANGES -text
+/CREDITS -text
 /Makefile -text
 /TODO -text
 artwork/themes/bullet/background.png -text
