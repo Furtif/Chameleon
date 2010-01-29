@@ -165,6 +165,8 @@ i386/libsaio/bootstruct.c -text
 i386/libsaio/bootstruct.h -text
 i386/libsaio/cache.c -text
 i386/libsaio/console.c -text
+i386/libsaio/convert.c -text
+i386/libsaio/convert.h -text
 i386/libsaio/cpu.c -text
 i386/libsaio/cpu.h -text
 i386/libsaio/device_inject.c -text
