@@ -252,17 +252,4 @@ package/buildpkg -text
 package/fdisk -text
 package/smbios.plist -text
 /revision -text
-sym/i386/art.h -text
-sym/i386/boot -text
-sym/i386/boot.sys -text
-sym/i386/boot0 -text
-sym/i386/boot1f32 -text
-sym/i386/boot1h -text
-sym/i386/boot1he -text
-sym/i386/boot1hp -text
-sym/i386/cdboot -text
-sym/i386/chain0 -text
-sym/i386/embedded.h -text
-sym/i386/machOconv -text
-sym/i386/vers.h -text
 /version -text
