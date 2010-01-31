@@ -133,6 +133,8 @@ i386/libsa/string.c -text
 i386/libsa/strtol.c -text
 i386/libsa/zalloc.c -text
 i386/libsaio/._device_inject.c -text
+i386/libsaio/915resolution.c -text
+i386/libsaio/915resolution.h -text
 i386/libsaio/Makefile -text
 i386/libsaio/SMBIOS.h -text
 i386/libsaio/acpi.h -text
@@ -145,6 +147,7 @@ i386/libsaio/biosfn.c -text
 i386/libsaio/bootstruct.c -text
 i386/libsaio/bootstruct.h -text
 i386/libsaio/cache.c -text
+i386/libsaio/cddrvr.c -text svneol=unset#unset
 i386/libsaio/console.c -text
 i386/libsaio/device_inject.c -text
 i386/libsaio/device_inject.h -text
@@ -153,6 +156,8 @@ i386/libsaio/device_tree.h -text
 i386/libsaio/disk.c -text
 i386/libsaio/dsdt_patcher.c -text
 i386/libsaio/dsdt_patcher.h -text
+i386/libsaio/edid.c -text
+i386/libsaio/edid.h -text
 i386/libsaio/efi.h -text
 i386/libsaio/ext2fs.c -text
 i386/libsaio/ext2fs.h -text
@@ -174,6 +179,8 @@ i386/libsaio/libsaio.h -text
 i386/libsaio/load.c -text
 i386/libsaio/md5c.c -text
 i386/libsaio/memory.c -text
+i386/libsaio/mindrvr.c -text
+i386/libsaio/mindrvr.h -text
 i386/libsaio/misc.c -text
 i386/libsaio/msdos.c -text
 i386/libsaio/msdos.h -text
