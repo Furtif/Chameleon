@@ -194,6 +194,7 @@ i386/libsaio/load.c -text
 i386/libsaio/md5c.c -text
 i386/libsaio/mem.c -text
 i386/libsaio/mem.h -text
+i386/libsaio/memvendors.h -text
 i386/libsaio/misc.c -text
 i386/libsaio/msdos.c -text
 i386/libsaio/msdos.h -text
