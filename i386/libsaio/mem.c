@@ -34,6 +34,7 @@ void dumpPhysAddr(const char * title, void * a, int len)
     if(ad==NULL) return;
 
     printf("%s addr=0x%08x len=%04d\n",title ? title : "Dump of ", a, len);
+    printf("Ofs-00-01-02-03-04-05-06-07-08-09-0A-0B-0C-0D-0E-0F       ASCII\n");
     i = (len/STEP)*STEP;
     for (j=0; j < i; j+=STEP)
     {
@@ -63,29 +64,78 @@ void dumpPhysAddr(const char * title, void * a, int len)
     printf("%s\n",buffer);
 }
 
+void dumpAllTablesOfType(int i)
+{
+    char title[32];
+        struct DMIHeader * dmihdr;
+        for(dmihdr = FindFirstDmiTableOfType(i, 4);
+            dmihdr;
+            dmihdr = FindNextDmiTableOfType(i, 4)) {
+            sprintf(title,"Table (type %d) :" , i); 
+            dumpPhysAddr(title, dmihdr, dmihdr->length+32);
+        }
+}
+
+const char * getDMIString(struct DMIHeader * dmihdr, uint8_t strNum)
+{
+    const char * ret =NULL;
+    const char * startAddr = (const char *) dmihdr;
+    const char * limit = NULL;
+
+    if (!dmihdr || dmihdr->length<4 || strNum==0) return NULL;
+    startAddr += dmihdr->length;
+    limit = startAddr + 256;
+    for(; strNum; strNum--) {
+        if ((*startAddr)==0 && *(startAddr+1)==0) break;
+        if (*startAddr && strNum<=1) {
+            ret = startAddr; // current str
+            break;
+        }
+        while(*startAddr && startAddr<limit) startAddr++;
+        if (startAddr==limit) break; // no terminator found
+        else if((*startAddr==0) && *(startAddr+1)==0) break;
+        else startAddr++;
+    }
+
+    return ret;
+}
+
 void scan_memory(PlatformInfo_t *p)
 {
- #if 0
-    	struct SMBEntryPoint	*smbios;
-        //struct DMIHeader * dmihdr;
-        
-        struct DMIMemoryControllerInfo* ctrlInfo;
-        struct DMIMemoryModuleInfo* memInfo;
-        struct DMIPhysicalMemoryArray* physMemArray;
-        struct DMIMemoryDevice* memDev;
+    int i=0;
+    struct DMIHeader * dmihdr = NULL;
+    
+    struct DMIMemoryModuleInfo* memInfo[MAX_RAM_SLOTS]; // 6
+    struct DMIPhysicalMemoryArray* physMemArray; // 16
+    struct DMIMemoryDevice* memDev[MAX_RAM_SLOTS]; //17
 
-	smbios = getSmbios(SMBIOS_ORIGINAL);	/* checks for _SM_ anchor and table header checksum */
-	if (smbios==NULL) return ; // getSmbios() return a non null value if smbios is found
-        
-        ctrlInfo = (struct DMIMemoryControllerInfo*) getSmbiosTableStructure(smbios, 5, 0x1);
-        memInfo = (struct DMIMemoryModuleInfo*) getSmbiosTableStructure(smbios, 6, 0x1);
-        physMemArray = (struct DMIPhysicalMemoryArray*) getSmbiosTableStructure(smbios, 16, 0x1);
-        memDev = (struct DMIMemoryDevice*) getSmbiosTableStructure(smbios, 17, 0x1);
-
-        dumpPhysAddr("Memory Controller Info (05):", ctrlInfo, ctrlInfo->dmiHeader.length);
-        dumpPhysAddr("Memory Module Info (06):",memInfo, memInfo->dmiHeader.length);
-        dumpPhysAddr("Physical Memory Array (16):",physMemArray, physMemArray->dmiHeader.length);
-        dumpPhysAddr("Memory Device (17):",memDev, memDev->dmiHeader.length);
-        getc();
+    /* We mainly don't use obsolete tables 5,6 because most of computers don't handle it anymore */
+     Platform.DMI.MemoryModules = 0;
+    /* Now lets peek info rom table 16,17 as for some bios, table 5 & 6 are not used */
+    physMemArray = (struct DMIPhysicalMemoryArray*) FindFirstDmiTableOfType(16, 4);
+    Platform.DMI.MaxMemorySlots = physMemArray ? physMemArray->numberOfMemoryDevices :  0;
+ 
+    i = 0;
+    for(dmihdr = FindFirstDmiTableOfType(17, 4);
+        dmihdr;
+        dmihdr = FindNextDmiTableOfType(17, 4) ) {
+        memDev[i] = (struct DMIMemoryDevice*) dmihdr;
+        if (memDev[i]->size !=0 ) Platform.DMI.MemoryModules++;
+        if (memDev[i]->speed>0) Platform.RAM.DIMM[i].Frequency = memDev[i]->speed; // take it here for now but we'll check spd and dmi table 6 as well
+        i++;
+    }
+    // for table 6, we only have a look at the current speed
+    i = 0;
+    for(dmihdr = FindFirstDmiTableOfType(6, 4);
+        dmihdr;
+        dmihdr = FindNextDmiTableOfType(6, 4) ) {
+        memInfo[i] = (struct DMIMemoryModuleInfo*) dmihdr;
+        if (memInfo[i]->currentSpeed > Platform.RAM.DIMM[i].Frequency) 
+            Platform.RAM.DIMM[i].Frequency = memInfo[i]->currentSpeed; // favor real overclocked speed if any
+        i++;
+    }
+#if 0
+    dumpAllTablesOfType(17);
+    getc();
 #endif
 }

@@ -21,9 +21,13 @@
 #define DBG(x...)
 #endif
 
+typedef struct {
+    const char* key;
+    const char* value;
+} SMStrEntryPair;
 
 // defaults for a MacBook
-static char sm_macbook_defaults[][2][40]={
+static const SMStrEntryPair const sm_macbook_defaults[]={
 	{"SMbiosvendor",	"Apple Inc."			},
 	{"SMbiosversion",	"MB41.88Z.0073.B00.0809221748"	},
 	{"SMbiosdate",		"04/01/2008"			},
@@ -38,7 +42,7 @@ static char sm_macbook_defaults[][2][40]={
 };
 
 // defaults for a MacBook Pro
-static char sm_macbookpro_defaults[][2][40]={
+static const SMStrEntryPair const sm_macbookpro_defaults[]={
 	{"SMbiosvendor",	"Apple Inc."			},
 	{"SMbiosversion",	"MBP41.88Z.0073.B00.0809221748"	},
 	{"SMbiosdate",		"04/01/2008"			},
@@ -53,7 +57,7 @@ static char sm_macbookpro_defaults[][2][40]={
 };
 
 // defaults for a Mac mini 
-static char sm_macmini_defaults[][2][40]={
+static const SMStrEntryPair const sm_macmini_defaults[]={
 	{"SMbiosvendor",	"Apple Inc."			},
 	{"SMbiosversion",	"MM21.88Z.009A.B00.0706281359"	},
 	{"SMbiosdate",		"04/01/2008"			},
@@ -68,7 +72,7 @@ static char sm_macmini_defaults[][2][40]={
 };
 
 // defaults for an iMac
-static char sm_imac_defaults[][2][40]={
+static const SMStrEntryPair const sm_imac_defaults[]={
 	{"SMbiosvendor",	"Apple Inc."			},
 	{"SMbiosversion",	"IM81.88Z.00C1.B00.0802091538"	},
 	{"SMbiosdate",		"04/01/2008"			},
@@ -83,7 +87,7 @@ static char sm_imac_defaults[][2][40]={
 };
 
 // defaults for a Mac Pro
-static char sm_macpro_defaults[][2][40]={
+static const SMStrEntryPair const sm_macpro_defaults[]={
 	{"SMbiosvendor",	"Apple Computer, Inc."		},
 	{"SMbiosversion",	"MP31.88Z.006C.B05.0802291410"	},
 	{"SMbiosdate",		"04/01/2008"			},
@@ -97,10 +101,10 @@ static char sm_macpro_defaults[][2][40]={
 	{ "",""	}
 };
 
-static char *sm_get_defstr(char *name, int table_num)
+static const char* sm_get_defstr(const char * key, int table_num)
 {
 	int	i;
-	char	(*sm_defaults)[2][40];
+	const SMStrEntryPair*	sm_defaults;
 
 	if (platformCPUFeature(CPU_FEATURE_MOBILE)) {
 		if (Platform.CPU.NoCores > 1) {
@@ -116,29 +120,29 @@ static char *sm_get_defstr(char *name, int table_num)
 		}
 	}
 
-	for (i=0;sm_defaults[i][0][0];i++) {
-		if (!strcmp (sm_defaults[i][0],name)) {
-			return sm_defaults[i][1];
+	for (i=0; sm_defaults[i].key[0]; i++) {
+		if (!strcmp (sm_defaults[i].key, key)) {
+			return sm_defaults[i].value;
 		}
 	}
 
 	// Shouldn't happen
-	printf ("Error: no default for '%s' known\n", name);
+	printf ("Error: no default for '%s' known\n", key);
 	sleep (2);
 	return "";
 }
 
-static int sm_get_fsb(char *name, int table_num)
+static int sm_get_fsb(const char *name, int table_num)
 {
 	return Platform.CPU.FSBFrequency/1000000;
 }
 
-static int sm_get_cpu (char *name, int table_num)
+static int sm_get_cpu (const char *name, int table_num)
 {
 	return Platform.CPU.CPUFrequency/1000000;
 }
 
-static int sm_get_cputype (char *name, int table_num)
+static int sm_get_cputype (const char *name, int table_num)
 {
 	if (Platform.CPU.NoCores == 1) {
 		return 0x0101;   // <01 01> Intel Core Solo?
@@ -151,7 +155,7 @@ static int sm_get_cputype (char *name, int table_num)
 	}
 }
 
-static int sm_get_memtype (char *name, int table_num)
+static int sm_get_memtype (const char *name, int table_num)
 {
 	int	map;
 
@@ -165,7 +169,7 @@ static int sm_get_memtype (char *name, int table_num)
 	return SMB_MEM_TYPE_DDR2;
 }
 
-static int sm_get_memspeed (char *name, int table_num)
+static int sm_get_memspeed (const char *name, int table_num)
 {
 	int	map;
 
@@ -180,7 +184,7 @@ static int sm_get_memspeed (char *name, int table_num)
 	return 800;
 }
 
-static char *sm_get_memvendor (char *name, int table_num)
+static const char *sm_get_memvendor (const char *name, int table_num)
 {
 	int	map;
 
@@ -194,7 +198,7 @@ static char *sm_get_memvendor (char *name, int table_num)
 	return "N/A";
 }
 	
-static char *sm_get_memserial (char *name, int table_num)
+static const char *sm_get_memserial (const char *name, int table_num)
 {
 	int	map;
 
@@ -209,7 +213,7 @@ static char *sm_get_memserial (char *name, int table_num)
 	return "N/A";
 }
 
-static char *sm_get_mempartno (char *name, int table_num)
+static const char *sm_get_mempartno (const char *name, int table_num)
 {
 	int	map;
 
@@ -758,6 +762,43 @@ struct SMBEntryPoint *getSmbios(int which)
 	}
 }
 
+#define MAX_DMI_TABLES 64
+typedef struct DmiNumAssocTag {
+    struct DMIHeader * dmi;
+    uint8_t type;
+} DmiNumAssoc;
+
+static DmiNumAssoc DmiTablePair[MAX_DMI_TABLES];
+static int DmiTablePairCount = 0;
+static int current_pos=0;
+static bool ftTablePairInit = true;
+
+/** Find first original dmi Table with a particular type */
+struct DMIHeader* FindFirstDmiTableOfType(int type, int minlength)
+{
+    if (ftTablePairInit)
+        return getSmbiosTableStructure(getSmbios(SMBIOS_ORIGINAL), 
+                                       type, minlength);
+    current_pos = 0;
+    return FindNextDmiTableOfType(type, minlength);
+};
+
+/** Find next original dmi Table with a particular type */
+struct DMIHeader* FindNextDmiTableOfType(int type, int minlength)
+{
+    int i;
+
+    for (i=current_pos; i < DmiTablePairCount; i++) {
+        if (type == DmiTablePair[i].type && 
+            DmiTablePair[i].dmi &&
+            DmiTablePair[i].dmi->length >= minlength ) {
+            current_pos = i+1;
+            return DmiTablePair[i].dmi;
+        }
+    }
+    return NULL; // not found
+};
+
 /** 
  * Get a table structure entry from a type specification and a smbios address
  * return NULL if table is not found
@@ -765,39 +806,45 @@ struct SMBEntryPoint *getSmbios(int which)
 struct DMIHeader *getSmbiosTableStructure(struct SMBEntryPoint	*smbios, int type, int min_length)
 {
     struct DMIHeader * dmihdr=NULL;
-    bool found = false;
     SMBByte* p;
     int i;
 
-    if (smbios == NULL || type < 0 ) return NULL;
+    if (!ftTablePairInit) {
+        return FindFirstDmiTableOfType(type, min_length);
+    } else {
+        ftTablePairInit = false;
+        bzero(DmiTablePair, sizeof(DmiTablePair));
+
+        if (smbios == NULL || type < 0 ) return NULL;
 #if DEBUG_SMBIOS
-    printf(">>> SMBIOSAddr=0x%08x\n", smbios);
-    printf(">>> DMI: addr=0x%08x, len=%d, count=%d\n", smbios->dmi.tableAddress, 
-           smbios->dmi.tableLength, smbios->dmi.structureCount);
+        printf(">>> SMBIOSAddr=0x%08x\n", smbios);
+        printf(">>> DMI: addr=0x%08x, len=%d, count=%d\n", smbios->dmi.tableAddress, 
+               smbios->dmi.tableLength, smbios->dmi.structureCount);
 #endif
-    p = (SMBByte *) smbios->dmi.tableAddress;
-    for (i=0; i < smbios->dmi.structureCount && p + 4 <= (SMBByte *)smbios->dmi.tableAddress + smbios->dmi.tableLength; i++) 
-	{
+        p = (SMBByte *) smbios->dmi.tableAddress;
+        for (i=0; 
+             i < smbios->dmi.structureCount && 
+             p + 4 <= (SMBByte *)smbios->dmi.tableAddress + smbios->dmi.tableLength; 
+             i++)   {
             dmihdr = (struct DMIHeader *) p;
+                
 #if DEBUG_SMBIOS
             // verbose(">>>>>> DMI(%d): type=0x%02x, len=0x%d\n",i,dmihdr->type,dmihdr->length);
 #endif
             if (dmihdr->length < 4 || dmihdr->type == 127 /* EOT */) break;
-            if (dmihdr->type == type) 	/* 3.3.2 System Information */
-            {	
-                if (dmihdr->length >= min_length) found = true;
-                break;
-	    }
+            DmiTablePair[DmiTablePairCount].dmi = dmihdr;
+            DmiTablePair[DmiTablePairCount].type = dmihdr->type;
+            DmiTablePairCount++;
+#if DEBUG_SMBIOS
+            printf("DMI header found for table type %d, length = %d\n", dmihdr->type, dmihdr->length);
+#endif
             p = p + dmihdr->length;
-            while ((p - (SMBByte *)smbios->dmi.tableAddress + 1 < smbios->dmi.tableLength) && (p[0] != 0x00 || p[1] != 0x00)) 
-	    {
-                    p++;
+            while ((p - (SMBByte *)smbios->dmi.tableAddress + 1 < smbios->dmi.tableLength) && (p[0] != 0x00 || p[1] != 0x00))  {
+                p++;
 	    }
             p += 2;
 	}
-
-#if DEBUG_SMBIOS
-        printf("DMI header found for table type %d, length = %d\n", type, dmihdr->type, dmihdr->length);
-#endif
-	return found ? dmihdr : NULL;
- }
+        
+    }
+    return FindFirstDmiTableOfType(type, min_length);
+}
