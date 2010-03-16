@@ -151,6 +151,8 @@ i386/libsa/setjmp.s -text
 i386/libsa/string.c -text
 i386/libsa/strtol.c -text
 i386/libsa/zalloc.c -text
+i386/libsaio/915resolution.c -text
+i386/libsaio/915resolution.h -text
 i386/libsaio/Makefile -text
 i386/libsaio/SMBIOS.h -text
 i386/libsaio/acpi.h -text
@@ -176,6 +178,8 @@ i386/libsaio/device_tree.h -text
 i386/libsaio/disk.c -text
 i386/libsaio/dsdt_patcher.c -text
 i386/libsaio/dsdt_patcher.h -text
+i386/libsaio/edid.c -text
+i386/libsaio/edid.h -text
 i386/libsaio/efi.h -text
 i386/libsaio/ext2fs.c -text
 i386/libsaio/ext2fs.h -text
@@ -215,6 +219,7 @@ i386/libsaio/platform.c -text
 i386/libsaio/platform.h -text
 i386/libsaio/saio_internal.h -text
 i386/libsaio/saio_types.h -text
+i386/libsaio/shortatombios.h -text
 i386/libsaio/sl.h -text
 i386/libsaio/smbios_patcher.c -text
 i386/libsaio/smbios_patcher.h -text
