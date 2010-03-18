@@ -1698,7 +1698,7 @@ void drawBootGraphics(void)
 		loadBootGraphics();
 	}
 
-	if (autoResolution = FALSE) {
+	if (autoResolution = TRUE) {
  		VBEModeInfoBlock  minfo;
  		unsigned short    mode_n;
  		unsigned short    vesaVersion;

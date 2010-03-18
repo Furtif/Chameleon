@@ -169,7 +169,7 @@ char detect_bios_type(vbios_map * map, char modeline, int entry_size) {
 			}
 		}
 		
-		/*printf("r1 = %d  r2 = %d\n", r1, r2);*/
+		/* printf("r1 = %d  r2 = %d\n", r1, r2); */
 	}
 
 	return (r2-r1-6) % entry_size == 0;
@@ -187,7 +187,7 @@ vbios_map * open_vbios(chipset_type forced_chipset) {
 	for(z=0; z<sizeof(vbios_map); z++) ((char*)map)[z]=0;
 	/*
 	 * Determine chipset
-		  +     */
+	*/
 	
 	if (forced_chipset == CT_UNKWN) {
 		map->chipset_id = get_chipset_id();
@@ -224,7 +224,7 @@ vbios_map * open_vbios(chipset_type forced_chipset) {
 	 */
 	if (map->bios != BT_ATI_1) {
 		int i = 0;
-		while (i < 512) { // we don't need to look through the whole bios, just the firs 512 bytes
+		while (i < 512) { // we don't need to look through the whole bios, just the first 512 bytes
 			if ((map->bios_ptr[i] == 'N') 
 				&& (map->bios_ptr[i+1] == 'V') 
 				&& (map->bios_ptr[i+2] == 'I') 
@@ -910,7 +910,6 @@ void set_mode(vbios_map * map, UInt32 x, UInt32 y, UInt32 bp, UInt32 htotal, UIn
 						mode_timing[i].usH_Active = x;
 						mode_timing[i].usH_Active_minus_One = x - 1;
 						mode_timing[i].usH_Active_minus_One_ = x - 1;
-						mode_timing[i].usH_Active = y;
 						mode_timing[i].usH_SyncStart = modeliner->hsyncstart;
 						mode_timing[i].usH_SyncEnd = modeliner->hsyncend;
 						
