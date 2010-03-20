@@ -151,8 +151,6 @@ i386/libsa/setjmp.s -text
 i386/libsa/string.c -text
 i386/libsa/strtol.c -text
 i386/libsa/zalloc.c -text
-i386/libsaio/915resolution.c -text
-i386/libsaio/915resolution.h -text
 i386/libsaio/Makefile -text
 i386/libsaio/SMBIOS.h -text
 i386/libsaio/acpi.h -text
@@ -160,6 +158,10 @@ i386/libsaio/allocate.c -text
 i386/libsaio/asm.s -text
 i386/libsaio/ati.c -text
 i386/libsaio/ati.h -text
+i386/libsaio/ati_resolution.c -text
+i386/libsaio/ati_resolution.h -text
+i386/libsaio/autoresolution.c -text
+i386/libsaio/autoresolution.h -text
 i386/libsaio/bios.h -text
 i386/libsaio/bios.s -text
 i386/libsaio/biosfn.c -text
@@ -186,6 +188,8 @@ i386/libsaio/ext2fs.h -text
 i386/libsaio/fake_efi.c -text
 i386/libsaio/fake_efi.h -text
 i386/libsaio/fdisk.h -text
+i386/libsaio/gma_resolution.c -text
+i386/libsaio/gma_resolution.h -text
 i386/libsaio/hfs.c -text
 i386/libsaio/hfs.h -text
 i386/libsaio/hfs_CaseTables.h -text
@@ -210,6 +214,8 @@ i386/libsaio/ntfs.h -text
 i386/libsaio/ntfs_private.h -text
 i386/libsaio/nvidia.c -text
 i386/libsaio/nvidia.h -text
+i386/libsaio/nvidia_resolution.c -text
+i386/libsaio/nvidia_resolution.h -text
 i386/libsaio/pci.c -text
 i386/libsaio/pci.h -text
 i386/libsaio/pci_root.c -text
