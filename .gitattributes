@@ -225,7 +225,6 @@ i386/libsaio/platform.c -text
 i386/libsaio/platform.h -text
 i386/libsaio/saio_internal.h -text
 i386/libsaio/saio_types.h -text
-i386/libsaio/shortatombios.h -text
 i386/libsaio/sl.h -text
 i386/libsaio/smbios_patcher.c -text
 i386/libsaio/smbios_patcher.h -text
