@@ -92,7 +92,6 @@ doc/archive/UsersGuide-v0.2.pdf -text
 doc/archive/Users_Guide0.4.pdf -text
 doc/archive/Users_Guide_v0.3.pdf -text
 doc/themeinfo.png -text
-/efisysinst.sh -text
 i386/MakeInc.dir -text
 i386/MakePaths.dir -text
 i386/Makefile -text
@@ -102,6 +101,7 @@ i386/boot0/chain0.s -text
 i386/boot1/Makefile -text
 i386/boot1/boot1.asm -text
 i386/boot1/boot1.s -text
+i386/boot1/boot1f32-install.sh -text
 i386/boot1/boot1f32.s -text
 i386/boot1/boot1he.s -text
 i386/boot1/boot1hp.s -text
