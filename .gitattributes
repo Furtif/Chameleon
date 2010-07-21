@@ -2,6 +2,7 @@
 /APPLE_LICENSE -text
 /CHANGES -text
 /CREDITS -text
+Chameleon.xcodeproj/project.pbxproj -text
 /Makefile -text
 /TODO -text
 artwork/themes/bullet/background.png -text
@@ -154,7 +155,11 @@ i386/libsa/zalloc.c -text
 i386/libsaio/Makefile -text
 i386/libsaio/SMBIOS.h -text
 i386/libsaio/acpi.h -text
+i386/libsaio/acpi_patcher.c -text
+i386/libsaio/acpi_patcher.h -text
 i386/libsaio/allocate.c -text
+i386/libsaio/aml_generator.c -text
+i386/libsaio/aml_generator.h -text
 i386/libsaio/asm.s -text
 i386/libsaio/ati.c -text
 i386/libsaio/ati.h -text
@@ -174,8 +179,6 @@ i386/libsaio/device_inject.h -text
 i386/libsaio/device_tree.c -text
 i386/libsaio/device_tree.h -text
 i386/libsaio/disk.c -text
-i386/libsaio/dsdt_patcher.c -text
-i386/libsaio/dsdt_patcher.h -text
 i386/libsaio/efi.h -text
 i386/libsaio/ext2fs.c -text
 i386/libsaio/ext2fs.h -text
