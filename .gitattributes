@@ -5,6 +5,7 @@
 Chameleon.xcodeproj/project.pbxproj -text
 /MEMTEST86_LICENSE -text
 /Makefile -text
+/README -text
 /TODO -text
 artwork/themes/bullet/background.png -text
 artwork/themes/bullet/boot.png -text
