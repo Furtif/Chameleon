@@ -3,7 +3,10 @@
 /CHANGES -text
 /CREDITS -text
 Chameleon.xcodeproj/project.pbxproj -text
+/GPL_V2_LICENSE -text
+/MEMTEST86_LICENSE -text
 /Makefile -text
+/README -text
 /TODO -text
 artwork/themes/bullet/background.png -text
 artwork/themes/bullet/boot.png -text
@@ -179,6 +182,8 @@ i386/libsaio/device_inject.h -text
 i386/libsaio/device_tree.c -text
 i386/libsaio/device_tree.h -text
 i386/libsaio/disk.c -text
+i386/libsaio/dram_controllers.c -text
+i386/libsaio/dram_controllers.h -text
 i386/libsaio/efi.h -text
 i386/libsaio/ext2fs.c -text
 i386/libsaio/ext2fs.h -text
