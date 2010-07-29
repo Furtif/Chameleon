@@ -46,7 +46,6 @@ artwork/themes/default/device_ext3.png -text
 artwork/themes/default/device_fat.png -text
 artwork/themes/default/device_generic.png -text
 artwork/themes/default/device_hfsplus.png -text
-artwork/themes/default/device_hfsraid.png -text
 artwork/themes/default/device_ntfs.png -text
 artwork/themes/default/device_scroll_next.png -text
 artwork/themes/default/device_scroll_prev.png -text
