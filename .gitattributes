@@ -181,6 +181,7 @@ i386/libsaio/device_inject.h -text
 i386/libsaio/device_tree.c -text
 i386/libsaio/device_tree.h -text
 i386/libsaio/disk.c -text
+i386/libsaio/disk.h -text
 i386/libsaio/dram_controllers.c -text
 i386/libsaio/dram_controllers.h -text
 i386/libsaio/efi.h -text
