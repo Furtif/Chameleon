@@ -46,6 +46,7 @@ Chazileon/artwork/themes/default/device_ext3.png -text
 Chazileon/artwork/themes/default/device_fat.png -text
 Chazileon/artwork/themes/default/device_generic.png -text
 Chazileon/artwork/themes/default/device_hfsplus.png -text
+Chazileon/artwork/themes/default/device_hfsraid.png -text
 Chazileon/artwork/themes/default/device_ntfs.png -text
 Chazileon/artwork/themes/default/device_scroll_next.png -text
 Chazileon/artwork/themes/default/device_scroll_prev.png -text
@@ -379,6 +380,7 @@ CleanCut/artwork/themes/default/device_ext3.png -text
 CleanCut/artwork/themes/default/device_fat.png -text
 CleanCut/artwork/themes/default/device_generic.png -text
 CleanCut/artwork/themes/default/device_hfsplus.png -text
+CleanCut/artwork/themes/default/device_hfsraid.png -text
 CleanCut/artwork/themes/default/device_ntfs.png -text
 CleanCut/artwork/themes/default/device_scroll_next.png -text
 CleanCut/artwork/themes/default/device_scroll_prev.png -text
