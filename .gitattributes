@@ -605,6 +605,7 @@ CleanCut/i386/libsaio/vbe.h -text
 CleanCut/i386/libsaio/xml.c -text
 CleanCut/i386/libsaio/xml.h -text
 CleanCut/i386/util/Makefile -text
+CleanCut/i386/util/bdmesg.c -text
 CleanCut/i386/util/machOconv.c -text
 CleanCut/package/Distribution -text
 CleanCut/package/Kexts/AHCIPortInjector.kext/Contents/Info.plist -text
