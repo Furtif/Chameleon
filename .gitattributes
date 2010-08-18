@@ -270,6 +270,7 @@ i386/libsaio/vbe.h -text
 i386/libsaio/xml.c -text
 i386/libsaio/xml.h -text
 i386/util/Makefile -text
+i386/util/bdmesg.c -text
 i386/util/machOconv.c -text
 package/Distribution -text
 package/Kexts/AHCIPortInjector.kext/Contents/Info.plist -text
