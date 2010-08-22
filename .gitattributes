@@ -255,6 +255,7 @@ Chazileon/i386/libsaio/device_inject.h -text
 Chazileon/i386/libsaio/device_tree.c -text
 Chazileon/i386/libsaio/device_tree.h -text
 Chazileon/i386/libsaio/disk.c -text
+Chazileon/i386/libsaio/disk.h -text
 Chazileon/i386/libsaio/dram_controllers.c -text
 Chazileon/i386/libsaio/dram_controllers.h -text
 Chazileon/i386/libsaio/edid.c -text
@@ -622,6 +623,7 @@ CleanCut/i386/libsaio/device_inject.h -text
 CleanCut/i386/libsaio/device_tree.c -text
 CleanCut/i386/libsaio/device_tree.h -text
 CleanCut/i386/libsaio/disk.c -text
+CleanCut/i386/libsaio/disk.h -text
 CleanCut/i386/libsaio/dram_controllers.c -text
 CleanCut/i386/libsaio/dram_controllers.h -text
 CleanCut/i386/libsaio/efi.h -text
