@@ -2,7 +2,6 @@
 Chazileon/APPLE_LICENSE -text
 Chazileon/CHANGES -text
 Chazileon/CREDITS -text
-Chazileon/Chameleon.xcodeproj/project.pbxproj -text
 Chazileon/GPL_V2_LICENSE -text
 Chazileon/MEMTEST86_LICENSE -text
 Chazileon/Makefile -text
@@ -376,7 +375,6 @@ Chazileon/version -text
 CleanCut/APPLE_LICENSE -text
 CleanCut/CHANGES -text
 CleanCut/CREDITS -text
-CleanCut/Chameleon.xcodeproj/project.pbxproj -text
 CleanCut/GPL_V2_LICENSE -text
 CleanCut/MEMTEST86_LICENSE -text
 CleanCut/Makefile -text
