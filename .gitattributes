@@ -209,7 +209,6 @@ i386/libsa/string.c -text
 i386/libsa/strtol.c -text
 i386/libsa/zalloc.c -text
 i386/libsaio/Makefile -text
-i386/libsaio/SMBIOS.h -text
 i386/libsaio/acpi.h -text
 i386/libsaio/acpi_patcher.c -text
 i386/libsaio/acpi_patcher.h -text
@@ -254,8 +253,6 @@ i386/libsaio/io_inline.h -text
 i386/libsaio/libsaio.h -text
 i386/libsaio/load.c -text
 i386/libsaio/md5c.c -text
-i386/libsaio/mem.c -text
-i386/libsaio/mem.h -text
 i386/libsaio/memvendors.h -text
 i386/libsaio/misc.c -text
 i386/libsaio/msdos.c -text
@@ -278,8 +275,11 @@ i386/libsaio/platform.h -text
 i386/libsaio/saio_internal.h -text
 i386/libsaio/saio_types.h -text
 i386/libsaio/sl.h -text
-i386/libsaio/smbios_patcher.c -text
-i386/libsaio/smbios_patcher.h -text
+i386/libsaio/smbios.c -text
+i386/libsaio/smbios.h -text
+i386/libsaio/smbios_decode.c -text
+i386/libsaio/smbios_getters.c -text
+i386/libsaio/smbios_getters.h -text
 i386/libsaio/spd.c -text
 i386/libsaio/spd.h -text
 i386/libsaio/stringTable.c -text
