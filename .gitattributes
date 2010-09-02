@@ -76,6 +76,7 @@ Chazi/artwork/themes/default/progress_bar_background.png -text
 Chazi/artwork/themes/default/text_scroll_next.png -text
 Chazi/artwork/themes/default/text_scroll_prev.png -text
 Chazi/artwork/themes/default/theme.plist -text
+Chazi/artwork/themes/default/thumb.png -text
 Chazi/artwork/themes/embed/background.png -text
 Chazi/artwork/themes/embed/boot.png -text
 Chazi/artwork/themes/embed/device_cdrom.png -text
@@ -353,6 +354,11 @@ Chazi/package/Resources/Italian.lproj/Description.html -text
 Chazi/package/Resources/Italian.lproj/License.rtf -text
 Chazi/package/Resources/Italian.lproj/Localizable.strings -text
 Chazi/package/Resources/Italian.lproj/Welcome.rtfd/TXT.rtf -text
+Chazi/package/Resources/Portuguese.lproj/Conclusion.rtfd/TXT.rtf -text
+Chazi/package/Resources/Portuguese.lproj/Description.html -text
+Chazi/package/Resources/Portuguese.lproj/License.rtf -text
+Chazi/package/Resources/Portuguese.lproj/Localizable.strings -text
+Chazi/package/Resources/Portuguese.lproj/Welcome.rtfd/TXT.rtf -text
 Chazi/package/Resources/Spanish.lproj/Conclusion.rtfd/TXT.rtf -text
 Chazi/package/Resources/Spanish.lproj/Description.html -text
 Chazi/package/Resources/Spanish.lproj/License.rtf -text
@@ -451,6 +457,7 @@ CleanCut/artwork/themes/default/progress_bar_background.png -text
 CleanCut/artwork/themes/default/text_scroll_next.png -text
 CleanCut/artwork/themes/default/text_scroll_prev.png -text
 CleanCut/artwork/themes/default/theme.plist -text
+CleanCut/artwork/themes/default/thumb.png -text
 CleanCut/artwork/themes/embed/background.png -text
 CleanCut/artwork/themes/embed/boot.png -text
 CleanCut/artwork/themes/embed/device_cdrom.png -text
@@ -716,6 +723,11 @@ CleanCut/package/Resources/Italian.lproj/Description.html -text
 CleanCut/package/Resources/Italian.lproj/License.rtf -text
 CleanCut/package/Resources/Italian.lproj/Localizable.strings -text
 CleanCut/package/Resources/Italian.lproj/Welcome.rtfd/TXT.rtf -text
+CleanCut/package/Resources/Portuguese.lproj/Conclusion.rtfd/TXT.rtf -text
+CleanCut/package/Resources/Portuguese.lproj/Description.html -text
+CleanCut/package/Resources/Portuguese.lproj/License.rtf -text
+CleanCut/package/Resources/Portuguese.lproj/Localizable.strings -text
+CleanCut/package/Resources/Portuguese.lproj/Welcome.rtfd/TXT.rtf -text
 CleanCut/package/Resources/Spanish.lproj/Conclusion.rtfd/TXT.rtf -text
 CleanCut/package/Resources/Spanish.lproj/Description.html -text
 CleanCut/package/Resources/Spanish.lproj/License.rtf -text
