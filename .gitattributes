@@ -77,6 +77,7 @@ artwork/themes/default/progress_bar_background.png -text
 artwork/themes/default/text_scroll_next.png -text
 artwork/themes/default/text_scroll_prev.png -text
 artwork/themes/default/theme.plist -text
+artwork/themes/default/thumb.png -text
 artwork/themes/embed/background.png -text
 artwork/themes/embed/boot.png -text
 artwork/themes/embed/device_cdrom.png -text
