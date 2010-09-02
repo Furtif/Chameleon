@@ -200,6 +200,8 @@ Chazi/i386/boot2/gui.h -text
 Chazi/i386/boot2/lzss.c -text
 Chazi/i386/boot2/mboot.c -text
 Chazi/i386/boot2/mboot.h -text
+Chazi/i386/boot2/modules.c -text
+Chazi/i386/boot2/modules.h -text
 Chazi/i386/boot2/multiboot.h -text
 Chazi/i386/boot2/options.c -text
 Chazi/i386/boot2/picopng.c -text
@@ -324,6 +326,15 @@ Chazi/i386/libsaio/vbe.c -text
 Chazi/i386/libsaio/vbe.h -text
 Chazi/i386/libsaio/xml.c -text
 Chazi/i386/libsaio/xml.h -text
+Chazi/i386/modules/HelloWorld/HelloWorld.c -text
+Chazi/i386/modules/HelloWorld/Makefile -text
+Chazi/i386/modules/KernelPatcher/Makefile -text
+Chazi/i386/modules/KernelPatcher/kernel_patcher.c -text
+Chazi/i386/modules/KernelPatcher/kernel_patcher.h -text
+Chazi/i386/modules/Makefile -text
+Chazi/i386/modules/Symbols/Makefile -text
+Chazi/i386/modules/Symbols/Symbols.c -text
+Chazi/i386/modules/Symbols/Symbols.h -text
 Chazi/i386/util/Makefile -text
 Chazi/i386/util/bdmesg.c -text
 Chazi/i386/util/machOconv.c -text
