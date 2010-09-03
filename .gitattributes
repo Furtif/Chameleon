@@ -345,6 +345,11 @@ Chazi/package/Kexts/Disabler.kext/Contents/Info.plist -text
 Chazi/package/Kexts/Disabler.kext/Contents/MacOS/Disabler -text
 Chazi/package/Kexts/IOAHCIBlockStorageInjector.kext/Contents/Info.plist -text
 Chazi/package/Kexts/JMicronATAInjector.kext/Contents/Info.plist -text
+Chazi/package/Resources/Bulgarian.lproj/Conclusion.rtfd/TXT.rtf -text
+Chazi/package/Resources/Bulgarian.lproj/Description.html -text
+Chazi/package/Resources/Bulgarian.lproj/License.rtf -text
+Chazi/package/Resources/Bulgarian.lproj/Localizable.strings -text
+Chazi/package/Resources/Bulgarian.lproj/Welcome.rtfd/TXT.rtf -text
 Chazi/package/Resources/English.lproj/Conclusion.rtfd/TXT.rtf -text
 Chazi/package/Resources/English.lproj/Description.html -text
 Chazi/package/Resources/English.lproj/License.rtf -text
@@ -714,6 +719,11 @@ CleanCut/package/Kexts/Disabler.kext/Contents/Info.plist -text
 CleanCut/package/Kexts/Disabler.kext/Contents/MacOS/Disabler -text
 CleanCut/package/Kexts/IOAHCIBlockStorageInjector.kext/Contents/Info.plist -text
 CleanCut/package/Kexts/JMicronATAInjector.kext/Contents/Info.plist -text
+CleanCut/package/Resources/Bulgarian.lproj/Conclusion.rtfd/TXT.rtf -text
+CleanCut/package/Resources/Bulgarian.lproj/Description.html -text
+CleanCut/package/Resources/Bulgarian.lproj/License.rtf -text
+CleanCut/package/Resources/Bulgarian.lproj/Localizable.strings -text
+CleanCut/package/Resources/Bulgarian.lproj/Welcome.rtfd/TXT.rtf -text
 CleanCut/package/Resources/English.lproj/Conclusion.rtfd/TXT.rtf -text
 CleanCut/package/Resources/English.lproj/Description.html -text
 CleanCut/package/Resources/English.lproj/License.rtf -text
