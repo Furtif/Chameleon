@@ -334,7 +334,6 @@ Chazi/i386/modules/KernelPatcher/kernel_patcher.h -text
 Chazi/i386/modules/Makefile -text
 Chazi/i386/modules/Symbols/Makefile -text
 Chazi/i386/modules/Symbols/Symbols.c -text
-Chazi/i386/modules/Symbols/Symbols.h -text
 Chazi/i386/util/Makefile -text
 Chazi/i386/util/bdmesg.c -text
 Chazi/i386/util/machOconv.c -text
