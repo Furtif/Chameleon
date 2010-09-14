@@ -238,8 +238,6 @@ Chazi/i386/libsaio/allocate.c -text
 Chazi/i386/libsaio/aml_generator.c -text
 Chazi/i386/libsaio/aml_generator.h -text
 Chazi/i386/libsaio/asm.s -text
-Chazi/i386/libsaio/ati.c -text
-Chazi/i386/libsaio/ati.h -text
 Chazi/i386/libsaio/ati_resolution.c -text
 Chazi/i386/libsaio/ati_resolution.h -text
 Chazi/i386/libsaio/autoresolution.c -text
@@ -271,8 +269,6 @@ Chazi/i386/libsaio/ext2fs.h -text
 Chazi/i386/libsaio/fake_efi.c -text
 Chazi/i386/libsaio/fake_efi.h -text
 Chazi/i386/libsaio/fdisk.h -text
-Chazi/i386/libsaio/gma.c -text
-Chazi/i386/libsaio/gma.h -text
 Chazi/i386/libsaio/gma_resolution.c -text
 Chazi/i386/libsaio/gma_resolution.h -text
 Chazi/i386/libsaio/hfs.c -text
@@ -297,8 +293,6 @@ Chazi/i386/libsaio/nbp_cmd.h -text
 Chazi/i386/libsaio/ntfs.c -text
 Chazi/i386/libsaio/ntfs.h -text
 Chazi/i386/libsaio/ntfs_private.h -text
-Chazi/i386/libsaio/nvidia.c -text
-Chazi/i386/libsaio/nvidia.h -text
 Chazi/i386/libsaio/nvidia_resolution.c -text
 Chazi/i386/libsaio/nvidia_resolution.h -text
 Chazi/i386/libsaio/pci.c -text
@@ -327,6 +321,14 @@ Chazi/i386/libsaio/vbe.c -text
 Chazi/i386/libsaio/vbe.h -text
 Chazi/i386/libsaio/xml.c -text
 Chazi/i386/libsaio/xml.h -text
+Chazi/i386/modules/GraphicsEnabler/GraphicsEnabler.c -text
+Chazi/i386/modules/GraphicsEnabler/Makefile -text
+Chazi/i386/modules/GraphicsEnabler/ati.c -text
+Chazi/i386/modules/GraphicsEnabler/ati.h -text
+Chazi/i386/modules/GraphicsEnabler/gma.c -text
+Chazi/i386/modules/GraphicsEnabler/gma.h -text
+Chazi/i386/modules/GraphicsEnabler/nvidia.c -text
+Chazi/i386/modules/GraphicsEnabler/nvidia.h -text
 Chazi/i386/modules/HelloWorld/HelloWorld.c -text
 Chazi/i386/modules/HelloWorld/Makefile -text
 Chazi/i386/modules/KernelPatcher/Makefile -text
