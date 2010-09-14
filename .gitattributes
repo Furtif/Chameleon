@@ -259,8 +259,6 @@ Chazi/i386/libsaio/device_tree.c -text
 Chazi/i386/libsaio/device_tree.h -text
 Chazi/i386/libsaio/disk.c -text
 Chazi/i386/libsaio/disk.h -text
-Chazi/i386/libsaio/dram_controllers.c -text
-Chazi/i386/libsaio/dram_controllers.h -text
 Chazi/i386/libsaio/edid.c -text
 Chazi/i386/libsaio/edid.h -text
 Chazi/i386/libsaio/efi.h -text
@@ -281,8 +279,6 @@ Chazi/i386/libsaio/io_inline.h -text
 Chazi/i386/libsaio/libsaio.h -text
 Chazi/i386/libsaio/load.c -text
 Chazi/i386/libsaio/md5c.c -text
-Chazi/i386/libsaio/mem.c -text
-Chazi/i386/libsaio/mem.h -text
 Chazi/i386/libsaio/memvendors.h -text
 Chazi/i386/libsaio/misc.c -text
 Chazi/i386/libsaio/msdos.c -text
@@ -307,8 +303,6 @@ Chazi/i386/libsaio/saio_types.h -text
 Chazi/i386/libsaio/sl.h -text
 Chazi/i386/libsaio/smbios_patcher.c -text
 Chazi/i386/libsaio/smbios_patcher.h -text
-Chazi/i386/libsaio/spd.c -text
-Chazi/i386/libsaio/spd.h -text
 Chazi/i386/libsaio/stringTable.c -text
 Chazi/i386/libsaio/sys.c -text
 Chazi/i386/libsaio/table.c -text
@@ -335,6 +329,14 @@ Chazi/i386/modules/KernelPatcher/Makefile -text
 Chazi/i386/modules/KernelPatcher/kernel_patcher.c -text
 Chazi/i386/modules/KernelPatcher/kernel_patcher.h -text
 Chazi/i386/modules/Makefile -text
+Chazi/i386/modules/Memory/Makefile -text
+Chazi/i386/modules/Memory/Memory.c -text
+Chazi/i386/modules/Memory/dram_controllers.c -text
+Chazi/i386/modules/Memory/dram_controllers.h -text
+Chazi/i386/modules/Memory/mem.c -text
+Chazi/i386/modules/Memory/mem.h -text
+Chazi/i386/modules/Memory/spd.c -text
+Chazi/i386/modules/Memory/spd.h -text
 Chazi/i386/modules/Symbols/Makefile -text
 Chazi/i386/modules/Symbols/Symbols.c -text
 Chazi/i386/util/Makefile -text
