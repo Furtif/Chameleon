@@ -305,6 +305,11 @@ package/Kexts/Disabler.kext/Contents/Info.plist -text
 package/Kexts/Disabler.kext/Contents/MacOS/Disabler -text
 package/Kexts/IOAHCIBlockStorageInjector.kext/Contents/Info.plist -text
 package/Kexts/JMicronATAInjector.kext/Contents/Info.plist -text
+package/Resources/Bulgarian.lproj/Conclusion.rtfd/TXT.rtf -text
+package/Resources/Bulgarian.lproj/Description.html -text
+package/Resources/Bulgarian.lproj/License.rtf -text
+package/Resources/Bulgarian.lproj/Localizable.strings -text
+package/Resources/Bulgarian.lproj/Welcome.rtfd/TXT.rtf -text
 package/Resources/English.lproj/Conclusion.rtfd/TXT.rtf -text
 package/Resources/English.lproj/Description.html -text
 package/Resources/English.lproj/License.rtf -text
