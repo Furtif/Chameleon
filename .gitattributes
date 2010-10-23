@@ -205,6 +205,7 @@ Chazi/i386/boot2/modules.c -text
 Chazi/i386/boot2/modules.h -text
 Chazi/i386/boot2/multiboot.h -text
 Chazi/i386/boot2/options.c -text
+Chazi/i386/boot2/options.h -text
 Chazi/i386/boot2/picopng.c -text
 Chazi/i386/boot2/picopng.h -text
 Chazi/i386/boot2/prompt.c -text
