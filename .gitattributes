@@ -274,8 +274,6 @@ Chazi/i386/libsaio/hfs.c -text
 Chazi/i386/libsaio/hfs.h -text
 Chazi/i386/libsaio/hfs_CaseTables.h -text
 Chazi/i386/libsaio/hfs_compare.c -text
-Chazi/i386/libsaio/hpet.c -text
-Chazi/i386/libsaio/hpet.h -text
 Chazi/i386/libsaio/io_inline.h -text
 Chazi/i386/libsaio/libsaio.h -text
 Chazi/i386/libsaio/load.c -text
@@ -324,6 +322,9 @@ Chazi/i386/modules/GraphicsEnabler/gma.c -text
 Chazi/i386/modules/GraphicsEnabler/gma.h -text
 Chazi/i386/modules/GraphicsEnabler/nvidia.c -text
 Chazi/i386/modules/GraphicsEnabler/nvidia.h -text
+Chazi/i386/modules/HPET/HPET.c -text
+Chazi/i386/modules/HPET/Makefile -text
+Chazi/i386/modules/HPET/hpet.h -text
 Chazi/i386/modules/HelloWorld/HelloWorld.c -text
 Chazi/i386/modules/HelloWorld/Makefile -text
 Chazi/i386/modules/KernelPatcher/Makefile -text
