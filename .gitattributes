@@ -219,6 +219,7 @@ i386/libsaio/aml_generator.h -text
 i386/libsaio/asm.s -text
 i386/libsaio/ati.c -text
 i386/libsaio/ati.h -text
+i386/libsaio/ati_reg.h -text
 i386/libsaio/bios.h -text
 i386/libsaio/bios.s -text
 i386/libsaio/biosfn.c -text
