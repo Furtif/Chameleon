@@ -47,6 +47,7 @@ artwork/themes/default/device_ext3_o.png -text
 artwork/themes/default/device_fat.png -text
 artwork/themes/default/device_fat_o.png -text
 artwork/themes/default/device_freebsd.png -text
+artwork/themes/default/device_freebsd_o.png -text
 artwork/themes/default/device_generic.png -text
 artwork/themes/default/device_generic_o.png -text
 artwork/themes/default/device_hfsplus.png -text
@@ -56,6 +57,7 @@ artwork/themes/default/device_hfsraid_o.png -text
 artwork/themes/default/device_ntfs.png -text
 artwork/themes/default/device_ntfs_o.png -text
 artwork/themes/default/device_openbsd.png -text
+artwork/themes/default/device_openbsd_o.png -text
 artwork/themes/default/device_scroll_next.png -text
 artwork/themes/default/device_scroll_prev.png -text
 artwork/themes/default/device_selection.png -text
