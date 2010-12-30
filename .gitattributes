@@ -319,14 +319,10 @@ i386/modules/GUI/gui.c -text
 i386/modules/GUI/gui.h -text
 i386/modules/GUI/picopng.c -text
 i386/modules/GUI/picopng.h -text
-i386/modules/GraphicsEnabler/ATIEnabler.c -text
 i386/modules/GraphicsEnabler/GraphicsEnabler.c -text
 i386/modules/GraphicsEnabler/Makefile -text
 i386/modules/GraphicsEnabler/ati.c -text
 i386/modules/GraphicsEnabler/ati.h -text
-i386/modules/GraphicsEnabler/ati5.c -text
-i386/modules/GraphicsEnabler/ati5.h -text
-i386/modules/GraphicsEnabler/ati_reg.h -text
 i386/modules/GraphicsEnabler/gma.c -text
 i386/modules/GraphicsEnabler/gma.h -text
 i386/modules/GraphicsEnabler/nvidia.c -text
