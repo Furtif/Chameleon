@@ -197,6 +197,8 @@ i386/boot2/graphics.c -text
 i386/boot2/graphics.h -text
 i386/boot2/gui.c -text
 i386/boot2/gui.h -text
+i386/boot2/kernel_patcher.c -text
+i386/boot2/kernel_patcher.h -text
 i386/boot2/lzss.c -text
 i386/boot2/mboot.c -text
 i386/boot2/mboot.h -text
