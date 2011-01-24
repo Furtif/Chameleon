@@ -298,13 +298,6 @@ i386/libsaio/vbe.c -text
 i386/libsaio/vbe.h -text
 i386/libsaio/xml.c -text
 i386/libsaio/xml.h -text
-i386/modules/ACPIPatcher/ACPIPatcher.c -text
-i386/modules/ACPIPatcher/ACPIPatcher.h -text
-i386/modules/ACPIPatcher/Makefile -text
-i386/modules/ACPIPatcher/acpi_patcher.c -text
-i386/modules/ACPIPatcher/acpi_patcher.h -text
-i386/modules/ACPIPatcher/aml_generator.c -text
-i386/modules/ACPIPatcher/aml_generator.h -text
 i386/modules/ATI5000Enabler/ATIEnabler.c -text
 i386/modules/ATI5000Enabler/Makefile -text
 i386/modules/ATI5000Enabler/ati5.c -text
