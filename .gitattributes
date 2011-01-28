@@ -203,6 +203,7 @@ i386/boot2/mboot.c -text
 i386/boot2/mboot.h -text
 i386/boot2/modules.c -text
 i386/boot2/modules.h -text
+i386/boot2/modules_support.s -text
 i386/boot2/multiboot.h -text
 i386/boot2/options.c -text
 i386/boot2/options.h -text
