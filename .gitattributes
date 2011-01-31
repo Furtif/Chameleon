@@ -249,6 +249,7 @@ i386/libsaio/convert.c -text
 i386/libsaio/convert.h -text
 i386/libsaio/cpu.c -text
 i386/libsaio/cpu.h -text
+i386/libsaio/cpuid.h -text
 i386/libsaio/device_inject.c -text
 i386/libsaio/device_inject.h -text
 i386/libsaio/device_tree.c -text
