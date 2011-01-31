@@ -332,6 +332,8 @@ i386/modules/HPET/hpet.h -text
 i386/modules/HelloWorld/HelloWorld.cpp -text
 i386/modules/HelloWorld/Makefile -text
 i386/modules/KernelPatcher/Makefile -text
+i386/modules/KernelPatcher/a.out -text
+i386/modules/KernelPatcher/include/kernel_patcher.h -text
 i386/modules/KernelPatcher/kernel_patcher.c -text
 i386/modules/KernelPatcher/kernel_patcher.h -text
 i386/modules/KextPatcher/Makefile -text
