@@ -237,6 +237,7 @@ i386/libsaio/ati.h -text
 i386/libsaio/bios.h -text
 i386/libsaio/bios.s -text
 i386/libsaio/biosfn.c -text
+i386/libsaio/bootargs.h -text
 i386/libsaio/bootstruct.c -text
 i386/libsaio/bootstruct.h -text
 i386/libsaio/cache.c -text
