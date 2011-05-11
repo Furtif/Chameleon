@@ -297,8 +297,10 @@ i386/libsaio/platform.h -text
 i386/libsaio/saio_internal.h -text
 i386/libsaio/saio_types.h -text
 i386/libsaio/sl.h -text
-i386/libsaio/smbios_patcher.c -text
-i386/libsaio/smbios_patcher.h -text
+i386/libsaio/smbios.c -text
+i386/libsaio/smbios_decode.c -text
+i386/libsaio/smbios_getters.c -text
+i386/libsaio/smbios_getters.h -text
 i386/libsaio/spd.c -text
 i386/libsaio/spd.h -text
 i386/libsaio/stringTable.c -text
