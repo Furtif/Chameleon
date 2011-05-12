@@ -319,6 +319,7 @@ i386/modules/HelloWorld/HelloWorld.cpp -text
 i386/modules/HelloWorld/Makefile -text
 i386/modules/MakeInc.dir -text
 i386/modules/Makefile -text
+i386/modules/Modules.txt -text
 i386/modules/Resolution/915resolution.c -text
 i386/modules/Resolution/915resolution.h -text
 i386/modules/Resolution/Makefile -text
