@@ -809,8 +809,6 @@ Cleancut/i386/libsaio/allocate.c -text
 Cleancut/i386/libsaio/aml_generator.c -text
 Cleancut/i386/libsaio/aml_generator.h -text
 Cleancut/i386/libsaio/asm.s -text
-Cleancut/i386/libsaio/ati.c -text
-Cleancut/i386/libsaio/ati_reg.h -text
 Cleancut/i386/libsaio/bios.h -text
 Cleancut/i386/libsaio/bios.s -text
 Cleancut/i386/libsaio/biosfn.c -text
@@ -859,8 +857,6 @@ Cleancut/i386/libsaio/nbp_cmd.h -text
 Cleancut/i386/libsaio/ntfs.c -text
 Cleancut/i386/libsaio/ntfs.h -text
 Cleancut/i386/libsaio/ntfs_private.h -text
-Cleancut/i386/libsaio/nvidia.c -text
-Cleancut/i386/libsaio/nvidia.h -text
 Cleancut/i386/libsaio/pci.c -text
 Cleancut/i386/libsaio/pci.h -text
 Cleancut/i386/libsaio/pci_root.c -text
@@ -889,6 +885,21 @@ Cleancut/i386/libsaio/vbe.c -text
 Cleancut/i386/libsaio/vbe.h -text
 Cleancut/i386/libsaio/xml.c -text
 Cleancut/i386/libsaio/xml.h -text
+Cleancut/i386/modules/GraphicsEnabler/GraphicsEnabler.c -text
+Cleancut/i386/modules/GraphicsEnabler/Makefile -text
+Cleancut/i386/modules/GraphicsEnabler/ati.c -text
+Cleancut/i386/modules/GraphicsEnabler/ati_reg.h -text
+Cleancut/i386/modules/GraphicsEnabler/nvidia.c -text
+Cleancut/i386/modules/GraphicsEnabler/nvidia.h -text
+Cleancut/i386/modules/GraphicsEnablerLegacy/GraphicsEnablerLegacy.c -text
+Cleancut/i386/modules/GraphicsEnablerLegacy/Makefile -text
+Cleancut/i386/modules/GraphicsEnablerLegacy/ati.c -text
+Cleancut/i386/modules/GraphicsEnablerLegacy/ati.h -text
+Cleancut/i386/modules/GraphicsEnablerLegacy/gma.c -text
+Cleancut/i386/modules/GraphicsEnablerLegacy/gma.h -text
+Cleancut/i386/modules/GraphicsEnablerLegacy/nvidia.c -text
+Cleancut/i386/modules/GraphicsEnablerLegacy/nvidia.h -text
+Cleancut/i386/modules/GraphicsEnablerLegacy/pci.h -text
 Cleancut/i386/modules/HelloWorld/HelloWorld.cpp -text
 Cleancut/i386/modules/HelloWorld/Makefile -text
 Cleancut/i386/modules/MakeInc.dir -text
@@ -901,6 +912,7 @@ Cleancut/i386/modules/Resolution/Resolution.c -text
 Cleancut/i386/modules/Resolution/edid.c -text
 Cleancut/i386/modules/Resolution/include/edid.h -text
 Cleancut/i386/modules/Resolution/shortatombios.h -text
+Cleancut/i386/modules/TODO_GraphicsEnabler -text
 Cleancut/i386/modules/include/modules -text
 Cleancut/i386/modules/include/types.h -text
 Cleancut/i386/modules/klibc/LICENSE -text
