@@ -319,6 +319,7 @@ Chazi/i386/modules/HelloWorld/HelloWorld.cpp -text
 Chazi/i386/modules/HelloWorld/Makefile -text
 Chazi/i386/modules/MakeInc.dir -text
 Chazi/i386/modules/Makefile -text
+Chazi/i386/modules/Modules.txt -text
 Chazi/i386/modules/Resolution/915resolution.c -text
 Chazi/i386/modules/Resolution/915resolution.h -text
 Chazi/i386/modules/Resolution/Makefile -text
