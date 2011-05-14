@@ -147,6 +147,13 @@ Chazi/artwork/themes/twilight/font_small.png -text
 Chazi/artwork/themes/twilight/logo.png -text
 Chazi/artwork/themes/twilight/theme.plist -text
 Chazi/coding_standards.txt -text
+Chazi/doc-azi/AutoResolution.txt -text
+Chazi/doc-azi/BootArgs-Options.txt -text
+Chazi/doc-azi/CHANGES.txt -text
+Chazi/doc-azi/FileLoad-trunk.txt -text
+Chazi/doc-azi/FileLoad.txt -text
+Chazi/doc-azi/Modules.txt -text
+Chazi/doc-azi/README.txt -text
 Chazi/doc/BootHelp.txt -text
 Chazi/doc/README -text
 Chazi/doc/User_Guide_src/Chameleon[!!-~]2[!!-~]v0.4.xml -text
@@ -202,6 +209,7 @@ Chazi/i386/boot2/modules.h -text
 Chazi/i386/boot2/modules_support.s -text
 Chazi/i386/boot2/multiboot.h -text
 Chazi/i386/boot2/options.c -text
+Chazi/i386/boot2/options.h -text
 Chazi/i386/boot2/picopng.c -text
 Chazi/i386/boot2/picopng.h -text
 Chazi/i386/boot2/prompt.c -text
