@@ -323,6 +323,7 @@ i386/modules/Modules.txt -text
 i386/modules/Resolution/915resolution.c -text
 i386/modules/Resolution/915resolution.h -text
 i386/modules/Resolution/Makefile -text
+i386/modules/Resolution/Readme.txt -text
 i386/modules/Resolution/Resolution.c -text
 i386/modules/Resolution/edid.c -text
 i386/modules/Resolution/include/edid.h -text
@@ -331,6 +332,7 @@ i386/modules/include/modules -text
 i386/modules/include/types.h -text
 i386/modules/klibc/LICENSE -text
 i386/modules/klibc/Makefile -text
+i386/modules/klibc/Readme.txt -text
 i386/modules/klibc/__ashldi3.c -text
 i386/modules/klibc/__ashrdi3.c -text
 i386/modules/klibc/__clzsi2.c -text
@@ -401,6 +403,7 @@ i386/modules/klibc/version -text
 i386/modules/klibc/vsnprintf.c -text
 i386/modules/klibc/vsscanf.c -text
 i386/modules/uClibc++/Makefile -text
+i386/modules/uClibc++/Readme.txt -text
 i386/modules/uClibc++/abi.cpp -text
 i386/modules/uClibc++/algorithm.cpp -text
 i386/modules/uClibc++/associative_base.cpp -text
