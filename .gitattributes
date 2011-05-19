@@ -836,7 +836,6 @@ Cleancut/i386/libsa/string.c -text
 Cleancut/i386/libsa/strtol.c -text
 Cleancut/i386/libsa/zalloc.c -text
 Cleancut/i386/libsaio/Makefile -text
-Cleancut/i386/libsaio/SMBIOS.h -text
 Cleancut/i386/libsaio/acpi.h -text
 Cleancut/i386/libsaio/acpi_patcher.c -text
 Cleancut/i386/libsaio/acpi_patcher.h -text
@@ -880,8 +879,6 @@ Cleancut/i386/libsaio/io_inline.h -text
 Cleancut/i386/libsaio/libsaio.h -text
 Cleancut/i386/libsaio/load.c -text
 Cleancut/i386/libsaio/md5c.c -text
-Cleancut/i386/libsaio/mem.c -text
-Cleancut/i386/libsaio/mem.h -text
 Cleancut/i386/libsaio/memvendors.h -text
 Cleancut/i386/libsaio/misc.c -text
 Cleancut/i386/libsaio/msdos.c -text
@@ -903,6 +900,7 @@ Cleancut/i386/libsaio/saio_internal.h -text
 Cleancut/i386/libsaio/saio_types.h -text
 Cleancut/i386/libsaio/sl.h -text
 Cleancut/i386/libsaio/smbios.c -text
+Cleancut/i386/libsaio/smbios.h -text
 Cleancut/i386/libsaio/smbios_decode.c -text
 Cleancut/i386/libsaio/smbios_getters.c -text
 Cleancut/i386/libsaio/smbios_getters.h -text
@@ -943,6 +941,7 @@ Cleancut/i386/modules/Modules.txt -text
 Cleancut/i386/modules/Resolution/915resolution.c -text
 Cleancut/i386/modules/Resolution/915resolution.h -text
 Cleancut/i386/modules/Resolution/Makefile -text
+Cleancut/i386/modules/Resolution/Readme.txt -text
 Cleancut/i386/modules/Resolution/Resolution.c -text
 Cleancut/i386/modules/Resolution/edid.c -text
 Cleancut/i386/modules/Resolution/include/edid.h -text
@@ -952,6 +951,7 @@ Cleancut/i386/modules/include/modules -text
 Cleancut/i386/modules/include/types.h -text
 Cleancut/i386/modules/klibc/LICENSE -text
 Cleancut/i386/modules/klibc/Makefile -text
+Cleancut/i386/modules/klibc/Readme.txt -text
 Cleancut/i386/modules/klibc/__ashldi3.c -text
 Cleancut/i386/modules/klibc/__ashrdi3.c -text
 Cleancut/i386/modules/klibc/__clzsi2.c -text
@@ -1022,6 +1022,7 @@ Cleancut/i386/modules/klibc/version -text
 Cleancut/i386/modules/klibc/vsnprintf.c -text
 Cleancut/i386/modules/klibc/vsscanf.c -text
 Cleancut/i386/modules/uClibc++/Makefile -text
+Cleancut/i386/modules/uClibc++/Readme.txt -text
 Cleancut/i386/modules/uClibc++/abi.cpp -text
 Cleancut/i386/modules/uClibc++/algorithm.cpp -text
 Cleancut/i386/modules/uClibc++/associative_base.cpp -text
