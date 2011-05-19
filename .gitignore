@@ -1,4 +1,10 @@
+Chameleon.xcodeproj/*.mode1v3
+Chameleon.xcodeproj/*.pbxuser
+Chameleon.xcodeproj/project.xcworkspace
+Chameleon.xcodeproj/xcuserdata
+/build
 i386/modules/module_includes
+i386/obj
 /obj
 /revision
 /sym
