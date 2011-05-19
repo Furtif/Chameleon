@@ -1,5 +1,5 @@
-Chazi/Chameleon.xcodeproj/Azi.mode1v3
-Chazi/Chameleon.xcodeproj/Azi.pbxuser
+Chazi/Chameleon.xcodeproj/*.mode1v3
+Chazi/Chameleon.xcodeproj/*.pbxuser
 Chazi/Chameleon.xcodeproj/project.xcworkspace
 Chazi/Chameleon.xcodeproj/xcuserdata
 Chazi/build
@@ -7,8 +7,8 @@ Chazi/i386/modules/module_includes
 Chazi/obj
 Chazi/revision
 Chazi/sym
-Cleancut/Chameleon.xcodeproj/Azi.mode1v3
-Cleancut/Chameleon.xcodeproj/Azi.pbxuser
+Cleancut/Chameleon.xcodeproj/*.mode1v3
+Cleancut/Chameleon.xcodeproj/*.pbxuser
 Cleancut/Chameleon.xcodeproj/project.xcworkspace
 Cleancut/Chameleon.xcodeproj/xcuserdata
 Cleancut/build
