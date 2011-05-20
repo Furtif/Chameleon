@@ -949,7 +949,6 @@ Cleancut/i386/modules/Resolution/Resolution.c -text
 Cleancut/i386/modules/Resolution/edid.c -text
 Cleancut/i386/modules/Resolution/include/edid.h -text
 Cleancut/i386/modules/Resolution/shortatombios.h -text
-Cleancut/i386/modules/TODO -text
 Cleancut/i386/modules/include/modules -text
 Cleancut/i386/modules/include/types.h -text
 Cleancut/i386/modules/klibc/LICENSE -text
