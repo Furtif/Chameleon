@@ -350,8 +350,6 @@ Chazi/i386/modules/Memory/Makefile -text
 Chazi/i386/modules/Memory/Memory.c -text
 Chazi/i386/modules/Memory/dram_controllers.c -text
 Chazi/i386/modules/Memory/dram_controllers.h -text
-Chazi/i386/modules/Memory/mem.c -text
-Chazi/i386/modules/Memory/mem.h -text
 Chazi/i386/modules/Memory/spd.c -text
 Chazi/i386/modules/Memory/spd.h -text
 Chazi/i386/modules/Modules.txt -text
