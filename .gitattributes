@@ -235,7 +235,6 @@ Chazi/i386/libsa/string.c -text
 Chazi/i386/libsa/strtol.c -text
 Chazi/i386/libsa/zalloc.c -text
 Chazi/i386/libsaio/Makefile -text
-Chazi/i386/libsaio/SMBIOS.h -text
 Chazi/i386/libsaio/acpi.h -text
 Chazi/i386/libsaio/acpi_patcher.c -text
 Chazi/i386/libsaio/acpi_patcher.h -text
@@ -306,6 +305,7 @@ Chazi/i386/libsaio/saio_internal.h -text
 Chazi/i386/libsaio/saio_types.h -text
 Chazi/i386/libsaio/sl.h -text
 Chazi/i386/libsaio/smbios.c -text
+Chazi/i386/libsaio/smbios.h -text
 Chazi/i386/libsaio/smbios_decode.c -text
 Chazi/i386/libsaio/smbios_getters.c -text
 Chazi/i386/libsaio/smbios_getters.h -text
@@ -358,6 +358,7 @@ Chazi/i386/modules/Modules.txt -text
 Chazi/i386/modules/Resolution/915resolution.c -text
 Chazi/i386/modules/Resolution/915resolution.h -text
 Chazi/i386/modules/Resolution/Makefile -text
+Chazi/i386/modules/Resolution/Readme.txt -text
 Chazi/i386/modules/Resolution/Resolution.c -text
 Chazi/i386/modules/Resolution/edid.c -text
 Chazi/i386/modules/Resolution/include/edid.h -text
@@ -366,6 +367,7 @@ Chazi/i386/modules/include/modules -text
 Chazi/i386/modules/include/types.h -text
 Chazi/i386/modules/klibc/LICENSE -text
 Chazi/i386/modules/klibc/Makefile -text
+Chazi/i386/modules/klibc/Readme.txt -text
 Chazi/i386/modules/klibc/__ashldi3.c -text
 Chazi/i386/modules/klibc/__ashrdi3.c -text
 Chazi/i386/modules/klibc/__clzsi2.c -text
@@ -436,6 +438,7 @@ Chazi/i386/modules/klibc/version -text
 Chazi/i386/modules/klibc/vsnprintf.c -text
 Chazi/i386/modules/klibc/vsscanf.c -text
 Chazi/i386/modules/uClibc++/Makefile -text
+Chazi/i386/modules/uClibc++/Readme.txt -text
 Chazi/i386/modules/uClibc++/abi.cpp -text
 Chazi/i386/modules/uClibc++/algorithm.cpp -text
 Chazi/i386/modules/uClibc++/associative_base.cpp -text
