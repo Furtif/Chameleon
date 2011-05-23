@@ -331,7 +331,6 @@ Chazi/i386/modules/ATiGraphicsEnabler/Makefile -text
 Chazi/i386/modules/ATiGraphicsEnabler/Readme.txt -text
 Chazi/i386/modules/ATiGraphicsEnabler/ati.c -text
 Chazi/i386/modules/ATiGraphicsEnabler/ati.h -text
-Chazi/i386/modules/ATiGraphicsEnabler/pci_old.h -text
 Chazi/i386/modules/HPET/HPET.c -text
 Chazi/i386/modules/HPET/Makefile -text
 Chazi/i386/modules/HPET/hpet.h -text
@@ -935,7 +934,6 @@ Cleancut/i386/modules/ATiGraphicsEnabler/Makefile -text
 Cleancut/i386/modules/ATiGraphicsEnabler/Readme.txt -text
 Cleancut/i386/modules/ATiGraphicsEnabler/ati.c -text
 Cleancut/i386/modules/ATiGraphicsEnabler/ati.h -text
-Cleancut/i386/modules/ATiGraphicsEnabler/pci_old.h -text
 Cleancut/i386/modules/HelloWorld/HelloWorld.cpp -text
 Cleancut/i386/modules/HelloWorld/Makefile -text
 Cleancut/i386/modules/IntelGraphicsEnabler/IntelGraphicsEnabler.c -text
