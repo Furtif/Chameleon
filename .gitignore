@@ -7,10 +7,15 @@ Chazi/i386/modules/module_includes
 Chazi/obj
 Chazi/revision
 Chazi/sym
+Cleancut/.config
+Cleancut/.config.old
 Cleancut/Chameleon.xcodeproj/*.mode*
 Cleancut/Chameleon.xcodeproj/*.pbxuser
 Cleancut/Chameleon.xcodeproj/project.xcworkspace
 Cleancut/Chameleon.xcodeproj/xcuserdata
+Cleancut/auto.conf
+Cleancut/autoconf.h
+Cleancut/autoconf.inc
 Cleancut/build
 Cleancut/i386/modules/module_includes
 Cleancut/obj
