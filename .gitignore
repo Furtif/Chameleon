@@ -1,7 +1,11 @@
+/.config
 Chameleon.xcodeproj/*.mode*
 Chameleon.xcodeproj/*.pbxuser
 Chameleon.xcodeproj/project.xcworkspace
 Chameleon.xcodeproj/xcuserdata
+/auto.conf
+/autoconf.h
+/autoconf.inc
 /build
 i386/modules/module_includes
 /obj
