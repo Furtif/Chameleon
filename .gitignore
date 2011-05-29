@@ -1,5 +1,4 @@
-/.config
-/.config.old
+/.config*
 Chameleon.xcodeproj/*.mode*
 Chameleon.xcodeproj/*.pbxuser
 Chameleon.xcodeproj/project.xcworkspace
