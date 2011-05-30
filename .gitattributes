@@ -168,7 +168,6 @@ doc/archive/Users_Guide0.4.pdf -text
 doc/archive/Users_Guide_v0.3.pdf -text
 doc/themeinfo.png -text
 i386/Cconfig -text
-i386/MakeInc.dir -text
 i386/MakePaths.dir -text
 i386/Makefile -text
 i386/boot0/Cconfig -text
