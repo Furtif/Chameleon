@@ -783,7 +783,6 @@ Cleancut/doc/archive/Users_Guide0.4.pdf -text
 Cleancut/doc/archive/Users_Guide_v0.3.pdf -text
 Cleancut/doc/themeinfo.png -text
 Cleancut/i386/Cconfig -text
-Cleancut/i386/MakeInc.dir -text
 Cleancut/i386/MakePaths.dir -text
 Cleancut/i386/Makefile -text
 Cleancut/i386/boot0/Cconfig -text
@@ -1630,7 +1629,6 @@ Cleancut/i386/modules/Resolution/edid.c -text
 Cleancut/i386/modules/Resolution/include/edid.h -text
 Cleancut/i386/modules/Resolution/shortatombios.h -text
 Cleancut/i386/modules/include/modules -text
-Cleancut/i386/modules/include/types.h -text
 Cleancut/i386/modules/klibc/Cconfig -text
 Cleancut/i386/modules/klibc/LICENSE -text
 Cleancut/i386/modules/klibc/Makefile -text
@@ -1844,6 +1842,7 @@ Cleancut/i386/util/fdisk/user.c -text
 Cleancut/i386/util/fdisk/user.h -text
 Cleancut/i386/util/fdisk/util.h -text
 Cleancut/i386/util/machOconv.c -text
+Cleancut/i386/util/openUp.c -text
 Cleancut/package/Distribution -text
 Cleancut/package/Kexts/AHCIPortInjector.kext/Contents/Info.plist -text
 Cleancut/package/Kexts/ATAPortInjector.kext/Contents/Info.plist -text
