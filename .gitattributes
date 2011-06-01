@@ -899,6 +899,7 @@ i386/libsaio/aml_generator.c -text
 i386/libsaio/aml_generator.h -text
 i386/libsaio/asm.s -text
 i386/libsaio/ati.c -text
+i386/libsaio/ati.h -text
 i386/libsaio/ati_reg.h -text
 i386/libsaio/bios.h -text
 i386/libsaio/bios.s -text
@@ -936,6 +937,7 @@ i386/libsaio/io_inline.h -text
 i386/libsaio/libsaio.h -text
 i386/libsaio/load.c -text
 i386/libsaio/md5c.c -text
+i386/libsaio/mem.h -text
 i386/libsaio/memvendors.h -text
 i386/libsaio/misc.c -text
 i386/libsaio/msdos.c -text
@@ -963,6 +965,7 @@ i386/libsaio/smbios.h -text
 i386/libsaio/smbios_decode.c -text
 i386/libsaio/smbios_getters.c -text
 i386/libsaio/smbios_getters.h -text
+i386/libsaio/smbios_patcher.h -text
 i386/libsaio/spd.c -text
 i386/libsaio/spd.h -text
 i386/libsaio/stringTable.c -text
