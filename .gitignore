@@ -20,3 +20,16 @@ Cleancut/i386/modules/module_includes
 Cleancut/obj
 Cleancut/revision
 Cleancut/sym
+trunkAutoResolution/.config*
+trunkAutoResolution/Chameleon.xcodeproj/*.mode*
+trunkAutoResolution/Chameleon.xcodeproj/*.pbxuser
+trunkAutoResolution/Chameleon.xcodeproj/project.xcworkspace
+trunkAutoResolution/Chameleon.xcodeproj/xcuserdata
+trunkAutoResolution/auto.conf
+trunkAutoResolution/autoconf.h
+trunkAutoResolution/autoconf.inc
+trunkAutoResolution/build
+trunkAutoResolution/i386/modules/module_includes
+trunkAutoResolution/obj
+trunkAutoResolution/revision
+trunkAutoResolution/sym
