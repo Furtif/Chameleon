@@ -1263,6 +1263,6 @@ package/Scripts/Options/UHCIreset/postinstall -text
 package/Scripts/Post/postinstall -text
 package/Scripts/Standard/postinstall -text
 package/buildpkg -text
-package/fdisk -text
+package/fdisk440 -text
 package/smbios.plist -text
 /version -text
