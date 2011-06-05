@@ -1601,6 +1601,7 @@ Cleancut/i386/modules/GraphicsEnabler/ATiGraphicsEnabler/Makefile -text
 Cleancut/i386/modules/GraphicsEnabler/ATiGraphicsEnabler/Readme.txt -text
 Cleancut/i386/modules/GraphicsEnabler/ATiGraphicsEnabler/ati.c -text
 Cleancut/i386/modules/GraphicsEnabler/ATiGraphicsEnabler/ati.h -text
+Cleancut/i386/modules/GraphicsEnabler/GraphicsEnabler.txt -text
 Cleancut/i386/modules/GraphicsEnabler/IntelGraphicsEnabler/Cconfig -text
 Cleancut/i386/modules/GraphicsEnabler/IntelGraphicsEnabler/IntelGraphicsEnabler.c -text
 Cleancut/i386/modules/GraphicsEnabler/IntelGraphicsEnabler/Makefile -text
