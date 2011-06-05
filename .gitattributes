@@ -1884,7 +1884,7 @@ trunkAutoResolution/package/Scripts/Options/UHCIreset/postinstall -text
 trunkAutoResolution/package/Scripts/Post/postinstall -text
 trunkAutoResolution/package/Scripts/Standard/postinstall -text
 trunkAutoResolution/package/buildpkg -text
-trunkAutoResolution/package/fdisk -text
+trunkAutoResolution/package/fdisk440 -text
 trunkAutoResolution/package/smbios.plist -text
 trunkAutoResolution/version -text
 trunkGraphicsEnablerModules/APPLE_LICENSE -text
@@ -3173,6 +3173,6 @@ trunkGraphicsEnablerModules/package/Scripts/Options/UHCIreset/postinstall -text
 trunkGraphicsEnablerModules/package/Scripts/Post/postinstall -text
 trunkGraphicsEnablerModules/package/Scripts/Standard/postinstall -text
 trunkGraphicsEnablerModules/package/buildpkg -text
-trunkGraphicsEnablerModules/package/fdisk -text
+trunkGraphicsEnablerModules/package/fdisk440 -text
 trunkGraphicsEnablerModules/package/smbios.plist -text
 trunkGraphicsEnablerModules/version -text
