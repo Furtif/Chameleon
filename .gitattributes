@@ -1,8 +1,10 @@
 * text=auto !eol
+/BRANCH_README.txt -text
 Chazi/APPLE_LICENSE -text
 Chazi/CHANGES -text
 Chazi/CREDITS -text
 Chazi/Chameleon.xcodeproj/project.pbxproj -text
+Chazi/FOLDER_README.txt -text
 Chazi/GPL_V2_LICENSE -text
 Chazi/MEMTEST86_LICENSE -text
 Chazi/Makefile -text
@@ -619,6 +621,7 @@ trunkAutoResolution/CHANGES -text
 trunkAutoResolution/CREDITS -text
 trunkAutoResolution/Cconfig -text
 trunkAutoResolution/Chameleon.xcodeproj/project.pbxproj -text
+trunkAutoResolution/FOLDER_README.txt -text
 trunkAutoResolution/GPL_V2_LICENSE -text
 trunkAutoResolution/MEMTEST86_LICENSE -text
 trunkAutoResolution/Make.rules -text
@@ -1889,6 +1892,7 @@ trunkGraphicsEnablerModules/CHANGES -text
 trunkGraphicsEnablerModules/CREDITS -text
 trunkGraphicsEnablerModules/Cconfig -text
 trunkGraphicsEnablerModules/Chameleon.xcodeproj/project.pbxproj -text
+trunkGraphicsEnablerModules/FOLDER_README.txt -text
 trunkGraphicsEnablerModules/GPL_V2_LICENSE -text
 trunkGraphicsEnablerModules/MEMTEST86_LICENSE -text
 trunkGraphicsEnablerModules/Make.rules -text
