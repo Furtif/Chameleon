@@ -1,7 +1,11 @@
+Chazi/.config*
 Chazi/Chameleon.xcodeproj/*.mode*
 Chazi/Chameleon.xcodeproj/*.pbxuser
 Chazi/Chameleon.xcodeproj/project.xcworkspace
 Chazi/Chameleon.xcodeproj/xcuserdata
+Chazi/auto.conf
+Chazi/autoconf.h
+Chazi/autoconf.inc
 Chazi/build
 Chazi/i386/modules/module_includes
 Chazi/obj

@@ -613,7 +613,7 @@ Chazi/package/Scripts/Options/UHCIreset/postinstall -text
 Chazi/package/Scripts/Post/postinstall -text
 Chazi/package/Scripts/Standard/postinstall -text
 Chazi/package/buildpkg -text
-Chazi/package/fdisk -text
+Chazi/package/fdisk440 -text
 Chazi/package/smbios.plist -text
 Chazi/version -text
 trunkAutoResolution/APPLE_LICENSE -text
