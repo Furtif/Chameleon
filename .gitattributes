@@ -2584,7 +2584,7 @@ trunkAutoResolution/package/Scripts/Options/UHCIreset/postinstall -text
 trunkAutoResolution/package/Scripts/Post/postinstall -text
 trunkAutoResolution/package/Scripts/Standard/postinstall -text
 trunkAutoResolution/package/buildpkg -text
-trunkAutoResolution/package/fdisk440 -text
+trunkAutoResolution/package/fdisk440 -text svneol=unset#unset
 trunkAutoResolution/package/smbios.plist -text
 trunkAutoResolution/version -text
 trunkGraphicsEnablerModules/APPLE_LICENSE -text
