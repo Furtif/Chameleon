@@ -2599,163 +2599,163 @@ trunkGraphicsEnablerModules/Make.rules -text
 trunkGraphicsEnablerModules/Makefile -text
 trunkGraphicsEnablerModules/README -text
 trunkGraphicsEnablerModules/TODO -text
-trunkGraphicsEnablerModules/artwork/themes/bullet/background.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/bullet/boot.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/bullet/device_cdrom.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/bullet/device_ext3.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/bullet/device_fat16.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/bullet/device_fat32.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/bullet/device_generic.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/bullet/device_hfsplus.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/bullet/device_ntfs.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/bullet/device_scroll_next.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/bullet/device_scroll_prev.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/bullet/device_selection.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/bullet/font_console.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/bullet/font_small.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/bullet/logo.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/bullet/menu_boot.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/bullet/menu_help.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/bullet/menu_ignore_caches.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/bullet/menu_ignore_caches_disabled.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/bullet/menu_memory_info.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/bullet/menu_selection.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/bullet/menu_single_user.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/bullet/menu_single_user_disabled.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/bullet/menu_verbose.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/bullet/menu_verbose_disabled.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/bullet/menu_video_info.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/bullet/progress_bar.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/bullet/progress_bar_background.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/bullet/text_scroll_next.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/bullet/text_scroll_prev.png -text svneol=unset#unset
+trunkGraphicsEnablerModules/artwork/themes/bullet/background.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/bullet/boot.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/bullet/device_cdrom.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/bullet/device_ext3.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/bullet/device_fat16.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/bullet/device_fat32.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/bullet/device_generic.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/bullet/device_hfsplus.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/bullet/device_ntfs.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/bullet/device_scroll_next.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/bullet/device_scroll_prev.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/bullet/device_selection.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/bullet/font_console.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/bullet/font_small.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/bullet/logo.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/bullet/menu_boot.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/bullet/menu_help.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/bullet/menu_ignore_caches.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/bullet/menu_ignore_caches_disabled.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/bullet/menu_memory_info.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/bullet/menu_selection.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/bullet/menu_single_user.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/bullet/menu_single_user_disabled.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/bullet/menu_verbose.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/bullet/menu_verbose_disabled.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/bullet/menu_video_info.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/bullet/progress_bar.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/bullet/progress_bar_background.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/bullet/text_scroll_next.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/bullet/text_scroll_prev.png -text svneol=unset#image/png
 trunkGraphicsEnablerModules/artwork/themes/bullet/theme.plist -text
-trunkGraphicsEnablerModules/artwork/themes/default/background.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/default/boot.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/default/device_cdrom.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/default/device_cdrom_o.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/default/device_ext3.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/default/device_ext3_o.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/default/device_fat.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/default/device_fat_o.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/default/device_generic.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/default/device_generic_o.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/default/device_hfsplus.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/default/device_hfsplus_o.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/default/device_hfsraid.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/default/device_hfsraid_o.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/default/device_ntfs.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/default/device_ntfs_o.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/default/device_scroll_next.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/default/device_scroll_prev.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/default/device_selection.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/default/font_console.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/default/font_small.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/default/logo.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/default/menu_boot.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/default/menu_help.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/default/menu_ignore_caches.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/default/menu_ignore_caches_disabled.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/default/menu_memory_info.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/default/menu_selection.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/default/menu_single_user.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/default/menu_single_user_disabled.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/default/menu_verbose.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/default/menu_verbose_disabled.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/default/menu_video_info.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/default/progress_bar.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/default/progress_bar_background.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/default/text_scroll_next.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/default/text_scroll_prev.png -text svneol=unset#unset
+trunkGraphicsEnablerModules/artwork/themes/default/background.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/default/boot.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/default/device_cdrom.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/default/device_cdrom_o.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/default/device_ext3.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/default/device_ext3_o.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/default/device_fat.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/default/device_fat_o.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/default/device_generic.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/default/device_generic_o.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/default/device_hfsplus.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/default/device_hfsplus_o.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/default/device_hfsraid.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/default/device_hfsraid_o.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/default/device_ntfs.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/default/device_ntfs_o.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/default/device_scroll_next.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/default/device_scroll_prev.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/default/device_selection.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/default/font_console.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/default/font_small.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/default/logo.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/default/menu_boot.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/default/menu_help.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/default/menu_ignore_caches.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/default/menu_ignore_caches_disabled.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/default/menu_memory_info.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/default/menu_selection.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/default/menu_single_user.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/default/menu_single_user_disabled.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/default/menu_verbose.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/default/menu_verbose_disabled.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/default/menu_video_info.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/default/progress_bar.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/default/progress_bar_background.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/default/text_scroll_next.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/default/text_scroll_prev.png -text svneol=unset#image/png
 trunkGraphicsEnablerModules/artwork/themes/default/theme.plist -text
-trunkGraphicsEnablerModules/artwork/themes/default/thumb.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/embed/background.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/embed/boot.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/embed/device_cdrom.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/embed/device_ext3.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/embed/device_fat.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/embed/device_generic.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/embed/device_hfsplus.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/embed/device_hfsraid.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/embed/device_ntfs.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/embed/device_scroll_next.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/embed/device_scroll_prev.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/embed/device_selection.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/embed/font_console.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/embed/font_small.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/embed/logo.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/embed/menu_boot.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/embed/menu_help.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/embed/menu_ignore_caches.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/embed/menu_ignore_caches_disabled.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/embed/menu_memory_info.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/embed/menu_selection.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/embed/menu_single_user.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/embed/menu_single_user_disabled.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/embed/menu_verbose.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/embed/menu_verbose_disabled.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/embed/menu_video_info.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/embed/progress_bar.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/embed/progress_bar_background.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/embed/text_scroll_next.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/embed/text_scroll_prev.png -text svneol=unset#unset
+trunkGraphicsEnablerModules/artwork/themes/default/thumb.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/embed/background.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/embed/boot.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/embed/device_cdrom.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/embed/device_ext3.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/embed/device_fat.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/embed/device_generic.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/embed/device_hfsplus.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/embed/device_hfsraid.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/embed/device_ntfs.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/embed/device_scroll_next.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/embed/device_scroll_prev.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/embed/device_selection.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/embed/font_console.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/embed/font_small.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/embed/logo.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/embed/menu_boot.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/embed/menu_help.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/embed/menu_ignore_caches.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/embed/menu_ignore_caches_disabled.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/embed/menu_memory_info.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/embed/menu_selection.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/embed/menu_single_user.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/embed/menu_single_user_disabled.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/embed/menu_verbose.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/embed/menu_verbose_disabled.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/embed/menu_video_info.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/embed/progress_bar.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/embed/progress_bar_background.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/embed/text_scroll_next.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/embed/text_scroll_prev.png -text svneol=unset#image/png
 trunkGraphicsEnablerModules/artwork/themes/embed/theme.plist -text
-trunkGraphicsEnablerModules/artwork/themes/legacy/background.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/legacy/boot.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/legacy/device_cdrom.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/legacy/device_ext3.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/legacy/device_fat.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/legacy/device_generic.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/legacy/device_hfsplus.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/legacy/device_ntfs.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/legacy/device_scroll_next.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/legacy/device_scroll_prev.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/legacy/device_selection.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/legacy/font_console.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/legacy/font_small.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/legacy/logo.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/legacy/menu_boot.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/legacy/menu_help.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/legacy/menu_ignore_caches.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/legacy/menu_ignore_caches_disabled.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/legacy/menu_memory_info.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/legacy/menu_selection.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/legacy/menu_single_user.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/legacy/menu_single_user_disabled.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/legacy/menu_verbose.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/legacy/menu_verbose_disabled.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/legacy/menu_video_info.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/legacy/progress_bar.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/legacy/progress_bar_background.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/legacy/text_scroll_next.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/legacy/text_scroll_prev.png -text svneol=unset#unset
+trunkGraphicsEnablerModules/artwork/themes/legacy/background.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/legacy/boot.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/legacy/device_cdrom.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/legacy/device_ext3.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/legacy/device_fat.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/legacy/device_generic.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/legacy/device_hfsplus.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/legacy/device_ntfs.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/legacy/device_scroll_next.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/legacy/device_scroll_prev.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/legacy/device_selection.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/legacy/font_console.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/legacy/font_small.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/legacy/logo.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/legacy/menu_boot.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/legacy/menu_help.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/legacy/menu_ignore_caches.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/legacy/menu_ignore_caches_disabled.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/legacy/menu_memory_info.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/legacy/menu_selection.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/legacy/menu_single_user.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/legacy/menu_single_user_disabled.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/legacy/menu_verbose.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/legacy/menu_verbose_disabled.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/legacy/menu_video_info.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/legacy/progress_bar.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/legacy/progress_bar_background.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/legacy/text_scroll_next.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/legacy/text_scroll_prev.png -text svneol=unset#image/png
 trunkGraphicsEnablerModules/artwork/themes/legacy/theme.plist -text
-trunkGraphicsEnablerModules/artwork/themes/msi_netbook/logo.png -text svneol=unset#unset
+trunkGraphicsEnablerModules/artwork/themes/msi_netbook/logo.png -text svneol=unset#image/png
 trunkGraphicsEnablerModules/artwork/themes/msi_netbook/theme.plist -text
-trunkGraphicsEnablerModules/artwork/themes/pinktink/logo.png -text svneol=unset#unset
+trunkGraphicsEnablerModules/artwork/themes/pinktink/logo.png -text svneol=unset#image/png
 trunkGraphicsEnablerModules/artwork/themes/pinktink/theme.plist -text
-trunkGraphicsEnablerModules/artwork/themes/twilight/font_small.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/artwork/themes/twilight/logo.png -text svneol=unset#unset
+trunkGraphicsEnablerModules/artwork/themes/twilight/font_small.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/twilight/logo.png -text svneol=unset#image/png
 trunkGraphicsEnablerModules/artwork/themes/twilight/theme.plist -text
 trunkGraphicsEnablerModules/coding_standards.txt -text
 trunkGraphicsEnablerModules/doc/BootHelp.txt -text
 trunkGraphicsEnablerModules/doc/README -text
 trunkGraphicsEnablerModules/doc/User_Guide_src/Chameleon[!!-~]2[!!-~]v0.4.xml -text
 trunkGraphicsEnablerModules/doc/User_Guide_src/Chameleon[!!-~]2[!!-~]v0.5.docx -text svneol=unset#unset
-trunkGraphicsEnablerModules/doc/User_Guide_src/chameleon.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/doc/User_Guide_src/colorchart.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/doc/User_Guide_src/install_complete.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/doc/User_Guide_src/install_cust.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/doc/User_Guide_src/install_dest.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/doc/User_Guide_src/install_stand.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/doc/User_Guide_src/install_start.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/doc/User_Guide_src/screen_format.png -text svneol=unset#unset
-trunkGraphicsEnablerModules/doc/User_Guide_src/xnulogo.png -text svneol=unset#unset
+trunkGraphicsEnablerModules/doc/User_Guide_src/chameleon.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/doc/User_Guide_src/colorchart.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/doc/User_Guide_src/install_complete.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/doc/User_Guide_src/install_cust.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/doc/User_Guide_src/install_dest.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/doc/User_Guide_src/install_stand.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/doc/User_Guide_src/install_start.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/doc/User_Guide_src/screen_format.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/doc/User_Guide_src/xnulogo.png -text svneol=unset#image/png
 trunkGraphicsEnablerModules/doc/Users_Guide0.5.pdf -text svneol=unset#unset
 trunkGraphicsEnablerModules/doc/archive/UsersGuide-v0.2.pdf -text svneol=unset#unset
 trunkGraphicsEnablerModules/doc/archive/Users_Guide0.4.pdf -text svneol=unset#unset
 trunkGraphicsEnablerModules/doc/archive/Users_Guide_v0.3.pdf -text svneol=unset#unset
-trunkGraphicsEnablerModules/doc/themeinfo.png -text svneol=unset#unset
+trunkGraphicsEnablerModules/doc/themeinfo.png -text svneol=unset#image/png
 trunkGraphicsEnablerModules/i386/Cconfig -text
 trunkGraphicsEnablerModules/i386/MakePaths.dir -text
 trunkGraphicsEnablerModules/i386/Makefile -text
@@ -3860,19 +3860,19 @@ trunkGraphicsEnablerModules/package/Resources/Spanish.lproj/Description.html -te
 trunkGraphicsEnablerModules/package/Resources/Spanish.lproj/License.rtf -text
 trunkGraphicsEnablerModules/package/Resources/Spanish.lproj/Localizable.strings -text svneol=unset#unset
 trunkGraphicsEnablerModules/package/Resources/Spanish.lproj/Welcome.rtfd/TXT.rtf -text
-trunkGraphicsEnablerModules/package/Resources/background.tiff -text svneol=unset#unset
-trunkGraphicsEnablerModules/package/Scripts/FAT/postinstall -text
-trunkGraphicsEnablerModules/package/Scripts/HFS/postinstall -text
-trunkGraphicsEnablerModules/package/Scripts/Options/EHCIacquire/postinstall -text
-trunkGraphicsEnablerModules/package/Scripts/Options/EthernetBuiltIn/postinstall -text
-trunkGraphicsEnablerModules/package/Scripts/Options/ForceHPET/postinstall -text
-trunkGraphicsEnablerModules/package/Scripts/Options/ForceWake/postinstall -text
-trunkGraphicsEnablerModules/package/Scripts/Options/GUI/postinstall -text
-trunkGraphicsEnablerModules/package/Scripts/Options/GraphicsEnabler/postinstall -text
-trunkGraphicsEnablerModules/package/Scripts/Options/UHCIreset/postinstall -text
-trunkGraphicsEnablerModules/package/Scripts/Post/postinstall -text
-trunkGraphicsEnablerModules/package/Scripts/Standard/postinstall -text
-trunkGraphicsEnablerModules/package/buildpkg -text
+trunkGraphicsEnablerModules/package/Resources/background.tiff -text svneol=unset#image/tiff
+trunkGraphicsEnablerModules/package/Scripts/FAT/postinstall.sh -text
+trunkGraphicsEnablerModules/package/Scripts/HFS/postinstall.sh -text
+trunkGraphicsEnablerModules/package/Scripts/Options/EHCIacquire/postinstall.sh -text
+trunkGraphicsEnablerModules/package/Scripts/Options/EthernetBuiltIn/postinstall.sh -text
+trunkGraphicsEnablerModules/package/Scripts/Options/ForceHPET/postinstall.sh -text
+trunkGraphicsEnablerModules/package/Scripts/Options/ForceWake/postinstall.sh -text
+trunkGraphicsEnablerModules/package/Scripts/Options/GUI/postinstall.sh -text
+trunkGraphicsEnablerModules/package/Scripts/Options/GraphicsEnabler/postinstall.sh -text
+trunkGraphicsEnablerModules/package/Scripts/Options/UHCIreset/postinstall.sh -text
+trunkGraphicsEnablerModules/package/Scripts/Post/postinstall.sh -text
+trunkGraphicsEnablerModules/package/Scripts/Standard/postinstall.sh -text
+trunkGraphicsEnablerModules/package/buildpkg.sh -text
 trunkGraphicsEnablerModules/package/fdisk440 -text svneol=unset#unset
 trunkGraphicsEnablerModules/package/smbios.plist -text
 trunkGraphicsEnablerModules/version -text
