@@ -1251,18 +1251,18 @@ package/Resources/Spanish.lproj/License.rtf -text
 package/Resources/Spanish.lproj/Localizable.strings -text svneol=unset#unset
 package/Resources/Spanish.lproj/Welcome.rtfd/TXT.rtf -text
 package/Resources/background.tiff -text svneol=unset#unset
-package/Scripts/FAT/postinstall -text
-package/Scripts/HFS/postinstall -text
-package/Scripts/Options/EHCIacquire/postinstall -text
-package/Scripts/Options/EthernetBuiltIn/postinstall -text
-package/Scripts/Options/ForceHPET/postinstall -text
-package/Scripts/Options/ForceWake/postinstall -text
-package/Scripts/Options/GUI/postinstall -text
-package/Scripts/Options/GraphicsEnabler/postinstall -text
-package/Scripts/Options/UHCIreset/postinstall -text
-package/Scripts/Post/postinstall -text
-package/Scripts/Standard/postinstall -text
-package/buildpkg -text
+package/Scripts/FAT/postinstall.sh -text
+package/Scripts/HFS/postinstall.sh -text
+package/Scripts/Options/EHCIacquire/postinstall.sh -text
+package/Scripts/Options/EthernetBuiltIn/postinstall.sh -text
+package/Scripts/Options/ForceHPET/postinstall.sh -text
+package/Scripts/Options/ForceWake/postinstall.sh -text
+package/Scripts/Options/GUI/postinstall.sh -text
+package/Scripts/Options/GraphicsEnabler/postinstall.sh -text
+package/Scripts/Options/UHCIreset/postinstall.sh -text
+package/Scripts/Post/postinstall.sh -text
+package/Scripts/Standard/postinstall.sh -text
+package/buildpkg.sh -text
 package/fdisk440 -text svneol=unset#unset
 package/smbios.plist -text
 /version -text
