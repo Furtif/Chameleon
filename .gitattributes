@@ -1301,18 +1301,18 @@ Chazi/package/Resources/Spanish.lproj/License.rtf -text
 Chazi/package/Resources/Spanish.lproj/Localizable.strings -text svneol=unset#unset
 Chazi/package/Resources/Spanish.lproj/Welcome.rtfd/TXT.rtf -text
 Chazi/package/Resources/background.tiff -text svneol=unset#unset
-Chazi/package/Scripts/FAT/postinstall -text
-Chazi/package/Scripts/HFS/postinstall -text
-Chazi/package/Scripts/Options/EHCIacquire/postinstall -text
-Chazi/package/Scripts/Options/EthernetBuiltIn/postinstall -text
-Chazi/package/Scripts/Options/ForceHPET/postinstall -text
-Chazi/package/Scripts/Options/ForceWake/postinstall -text
-Chazi/package/Scripts/Options/GUI/postinstall -text
-Chazi/package/Scripts/Options/GraphicsEnabler/postinstall -text
-Chazi/package/Scripts/Options/UHCIreset/postinstall -text
-Chazi/package/Scripts/Post/postinstall -text
-Chazi/package/Scripts/Standard/postinstall -text
-Chazi/package/buildpkg -text
+Chazi/package/Scripts/FAT/postinstall.sh -text
+Chazi/package/Scripts/HFS/postinstall.sh -text
+Chazi/package/Scripts/Options/EHCIacquire/postinstall.sh -text
+Chazi/package/Scripts/Options/EthernetBuiltIn/postinstall.sh -text
+Chazi/package/Scripts/Options/ForceHPET/postinstall.sh -text
+Chazi/package/Scripts/Options/ForceWake/postinstall.sh -text
+Chazi/package/Scripts/Options/GUI/postinstall.sh -text
+Chazi/package/Scripts/Options/GraphicsEnabler/postinstall.sh -text
+Chazi/package/Scripts/Options/UHCIreset/postinstall.sh -text
+Chazi/package/Scripts/Post/postinstall.sh -text
+Chazi/package/Scripts/Standard/postinstall.sh -text
+Chazi/package/buildpkg.sh -text
 Chazi/package/fdisk440 -text svneol=unset#unset
 Chazi/package/smbios.plist -text
 Chazi/version -text
