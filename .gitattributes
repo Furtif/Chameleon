@@ -968,9 +968,7 @@ i386/libsaio/spd.h -text
 i386/libsaio/stringTable.c -text
 i386/libsaio/sys.c -text
 i386/libsaio/table.c -text
-i386/libsaio/ufs.c -text
 i386/libsaio/ufs.h -text
-i386/libsaio/ufs_byteorder.c -text
 i386/libsaio/ufs_byteorder.h -text
 i386/libsaio/usb.c -text
 i386/libsaio/vbe.c -text
