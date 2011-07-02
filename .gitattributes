@@ -2298,9 +2298,7 @@ trunkAutoResolution/i386/libsaio/spd.h -text
 trunkAutoResolution/i386/libsaio/stringTable.c -text
 trunkAutoResolution/i386/libsaio/sys.c -text
 trunkAutoResolution/i386/libsaio/table.c -text
-trunkAutoResolution/i386/libsaio/ufs.c -text
 trunkAutoResolution/i386/libsaio/ufs.h -text
-trunkAutoResolution/i386/libsaio/ufs_byteorder.c -text
 trunkAutoResolution/i386/libsaio/ufs_byteorder.h -text
 trunkAutoResolution/i386/libsaio/usb.c -text
 trunkAutoResolution/i386/libsaio/vbe.c -text
@@ -3553,9 +3551,7 @@ trunkGraphicsEnablerModules/i386/libsaio/spd.h -text
 trunkGraphicsEnablerModules/i386/libsaio/stringTable.c -text
 trunkGraphicsEnablerModules/i386/libsaio/sys.c -text
 trunkGraphicsEnablerModules/i386/libsaio/table.c -text
-trunkGraphicsEnablerModules/i386/libsaio/ufs.c -text
 trunkGraphicsEnablerModules/i386/libsaio/ufs.h -text
-trunkGraphicsEnablerModules/i386/libsaio/ufs_byteorder.c -text
 trunkGraphicsEnablerModules/i386/libsaio/ufs_byteorder.h -text
 trunkGraphicsEnablerModules/i386/libsaio/usb.c -text
 trunkGraphicsEnablerModules/i386/libsaio/vbe.c -text
