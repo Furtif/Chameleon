@@ -306,12 +306,6 @@ i386/modules/ACPICodec/acpidecode.c -text
 i386/modules/ACPICodec/acpidecode.h -text
 i386/modules/ACPICodec/aml_generator.c -text
 i386/modules/ACPICodec/aml_generator.h -text
-i386/modules/ACPIMini/AcpiPatcher.c -text
-i386/modules/ACPIMini/Makefile -text
-i386/modules/ACPIMini/acpi_patcher.c -text
-i386/modules/ACPIMini/acpi_patcher.h -text
-i386/modules/ACPIMini/aml_generator.c -text
-i386/modules/ACPIMini/aml_generator.h -text
 i386/modules/ACPIPatcher/AcpiPatcher.c -text
 i386/modules/ACPIPatcher/Makefile -text
 i386/modules/ACPIPatcher/acpi_patcher.c -text
