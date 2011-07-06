@@ -1,5 +1,6 @@
 * text=auto !eol
 /APPLE_LICENSE -text
+/BLOCKERS -text
 /CHANGES -text
 /CREDITS -text
 /Cconfig -text
