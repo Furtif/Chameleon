@@ -1317,6 +1317,7 @@ Chazi/package/fdisk440 -text svneol=unset#unset
 Chazi/package/smbios.plist -text
 Chazi/version -text
 trunkAutoResolution/APPLE_LICENSE -text
+trunkAutoResolution/BLOCKERS -text
 trunkAutoResolution/CHANGES -text
 trunkAutoResolution/CREDITS -text
 trunkAutoResolution/Cconfig -text
