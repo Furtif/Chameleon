@@ -2586,6 +2586,7 @@ trunkAutoResolution/package/fdisk440 -text svneol=unset#unset
 trunkAutoResolution/package/smbios.plist -text
 trunkAutoResolution/version -text
 trunkGraphicsEnablerModules/APPLE_LICENSE -text
+trunkGraphicsEnablerModules/BLOCKERS -text
 trunkGraphicsEnablerModules/CHANGES -text
 trunkGraphicsEnablerModules/CREDITS -text
 trunkGraphicsEnablerModules/Cconfig -text
