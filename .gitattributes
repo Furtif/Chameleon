@@ -1246,6 +1246,11 @@ package/Resources/Portuguese.lproj/Description.html -text
 package/Resources/Portuguese.lproj/License.rtf -text
 package/Resources/Portuguese.lproj/Localizable.strings -text svneol=unset#unset
 package/Resources/Portuguese.lproj/Welcome.rtfd/TXT.rtf -text
+package/Resources/Russian.lproj/Conclusion.rtfd/TXT.rtf -text
+package/Resources/Russian.lproj/Description.html -text
+package/Resources/Russian.lproj/License.rtf -text
+package/Resources/Russian.lproj/Localizable.strings -text
+package/Resources/Russian.lproj/Welcome.rtfd/TXT.rtf -text
 package/Resources/Spanish.lproj/Conclusion.rtfd/TXT.rtf -text
 package/Resources/Spanish.lproj/Description.html -text
 package/Resources/Spanish.lproj/License.rtf -text
