@@ -1711,6 +1711,8 @@ trunkM/i386/libsaio/disk.h -text
 trunkM/i386/libsaio/dram_controllers.c -text
 trunkM/i386/libsaio/dram_controllers.h -text
 trunkM/i386/libsaio/efi.h -text
+trunkM/i386/libsaio/exfat.c -text
+trunkM/i386/libsaio/exfat.h -text
 trunkM/i386/libsaio/ext2fs.c -text
 trunkM/i386/libsaio/ext2fs.h -text
 trunkM/i386/libsaio/fake_efi.c -text
@@ -1767,15 +1769,18 @@ trunkM/i386/libsaio/vbe.h -text
 trunkM/i386/libsaio/xml.c -text
 trunkM/i386/libsaio/xml.h -text
 trunkM/i386/modules/Cconfig -text
+trunkM/i386/modules/HPET/Cconfig -text
 trunkM/i386/modules/HPET/HPET.c -text
 trunkM/i386/modules/HPET/Makefile -text
 trunkM/i386/modules/HPET/hpet.h -text
 trunkM/i386/modules/HelloWorld/Cconfig -text
 trunkM/i386/modules/HelloWorld/HelloWorld.cpp -text
 trunkM/i386/modules/HelloWorld/Makefile -text
+trunkM/i386/modules/KernelPatcher/Cconfig -text
 trunkM/i386/modules/KernelPatcher/Makefile -text
 trunkM/i386/modules/KernelPatcher/include/kernel_patcher.h -text
 trunkM/i386/modules/KernelPatcher/kernel_patcher.c -text
+trunkM/i386/modules/KextPatcher/Cconfig -text
 trunkM/i386/modules/KextPatcher/Makefile -text
 trunkM/i386/modules/KextPatcher/adler32.c -text
 trunkM/i386/modules/KextPatcher/deflate.c -text
@@ -1800,6 +1805,7 @@ trunkM/i386/modules/KextPatcher/trees.c -text
 trunkM/i386/modules/KextPatcher/zutil.c -text
 trunkM/i386/modules/MakeInc.dir -text
 trunkM/i386/modules/Makefile -text
+trunkM/i386/modules/Memory/Cconfig -text
 trunkM/i386/modules/Memory/Makefile -text
 trunkM/i386/modules/Memory/Memory.c -text
 trunkM/i386/modules/Memory/dram_controllers.c -text
@@ -1809,10 +1815,13 @@ trunkM/i386/modules/Memory/mem.h -text
 trunkM/i386/modules/Memory/spd.c -text
 trunkM/i386/modules/Memory/spd.h -text
 trunkM/i386/modules/Modules.txt -text
+trunkM/i386/modules/NVRAM/Cconfig -text
 trunkM/i386/modules/NVRAM/Makefile -text
 trunkM/i386/modules/NVRAM/NVRAM.c -text
+trunkM/i386/modules/NetbookInstaller/Cconfig -text
 trunkM/i386/modules/NetbookInstaller/Makefile -text
 trunkM/i386/modules/NetbookInstaller/NBI.c -text
+trunkM/i386/modules/Networking/Cconfig -text
 trunkM/i386/modules/Networking/Makefile -text
 trunkM/i386/modules/Networking/Networking.c -text
 trunkM/i386/modules/Resolution/915resolution.c -text
@@ -1824,6 +1833,7 @@ trunkM/i386/modules/Resolution/Resolution.c -text
 trunkM/i386/modules/Resolution/edid.c -text
 trunkM/i386/modules/Resolution/include/edid.h -text
 trunkM/i386/modules/Resolution/shortatombios.h -text
+trunkM/i386/modules/USBFix/Cconfig -text
 trunkM/i386/modules/USBFix/Makefile -text
 trunkM/i386/modules/USBFix/USBFix.c -text
 trunkM/i386/modules/USBFix/usb.c -text
