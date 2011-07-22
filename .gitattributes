@@ -1812,6 +1812,11 @@ trunkM/i386/modules/NetbookInstaller/NBI.c -text
 trunkM/i386/modules/Networking/Cconfig -text
 trunkM/i386/modules/Networking/Makefile -text
 trunkM/i386/modules/Networking/Networking.c -text
+trunkM/i386/modules/RamDiskLoader/Cconfig -text
+trunkM/i386/modules/RamDiskLoader/Makefile -text
+trunkM/i386/modules/RamDiskLoader/RamDiskLoader.c -text
+trunkM/i386/modules/RamDiskLoader/ramdisk.c -text
+trunkM/i386/modules/RamDiskLoader/ramdisk.h -text
 trunkM/i386/modules/Resolution/915resolution.c -text
 trunkM/i386/modules/Resolution/915resolution.h -text
 trunkM/i386/modules/Resolution/Cconfig -text
