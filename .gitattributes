@@ -182,6 +182,8 @@ Chazi/i386/Makefile -text
 Chazi/i386/boot0/Cconfig -text
 Chazi/i386/boot0/Makefile -text
 Chazi/i386/boot0/boot0.s -text
+Chazi/i386/boot0/boot0hfs.s -text
+Chazi/i386/boot0/boot0md.s -text
 Chazi/i386/boot0/chain0.s -text
 Chazi/i386/boot1/Cconfig -text
 Chazi/i386/boot1/Makefile -text
