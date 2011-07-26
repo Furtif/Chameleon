@@ -776,9 +776,6 @@ trunkM/BLOCKERS -text
 trunkM/CHANGES -text
 trunkM/CREDITS -text
 trunkM/Cconfig -text
-trunkM/Chameleon.xcodeproj/project.pbxproj -text
-trunkM/Chameleon.xcodeproj/slice.mode1v3 -text
-trunkM/Chameleon.xcodeproj/slice.pbxuser -text
 trunkM/GPL_V2_LICENSE -text
 trunkM/MEMTEST86_LICENSE -text
 trunkM/Make.rules -text
