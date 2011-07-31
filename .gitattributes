@@ -13,12 +13,16 @@ Chameleon.xcodeproj/project.pbxproj -text
 /TODO -text
 artwork/themes/default/background.png -text
 artwork/themes/default/boot.png -text
+artwork/themes/default/device_befs.png -text
+artwork/themes/default/device_befs_o.png -text
 artwork/themes/default/device_cdrom.png -text
 artwork/themes/default/device_cdrom_o.png -text
 artwork/themes/default/device_ext3.png -text
 artwork/themes/default/device_ext3_o.png -text
 artwork/themes/default/device_fat.png -text
 artwork/themes/default/device_fat_o.png -text
+artwork/themes/default/device_freebsd.png -text
+artwork/themes/default/device_freebsd_o.png -text
 artwork/themes/default/device_generic.png -text
 artwork/themes/default/device_generic_o.png -text
 artwork/themes/default/device_hfsplus.png -text
@@ -27,6 +31,8 @@ artwork/themes/default/device_hfsraid.png -text
 artwork/themes/default/device_hfsraid_o.png -text
 artwork/themes/default/device_ntfs.png -text
 artwork/themes/default/device_ntfs_o.png -text
+artwork/themes/default/device_openbsd.png -text
+artwork/themes/default/device_openbsd_o.png -text
 artwork/themes/default/device_scroll_next.png -text
 artwork/themes/default/device_scroll_prev.png -text
 artwork/themes/default/device_selection.png -text
@@ -865,6 +871,8 @@ i386/libsaio/aml_generator.h -text
 i386/libsaio/asm.s -text
 i386/libsaio/ati.c -text
 i386/libsaio/ati_reg.h -text
+i386/libsaio/befs.c -text
+i386/libsaio/befs.h -text
 i386/libsaio/bios.h -text
 i386/libsaio/bios.s -text
 i386/libsaio/biosfn.c -text
@@ -891,6 +899,8 @@ i386/libsaio/ext2fs.h -text
 i386/libsaio/fake_efi.c -text
 i386/libsaio/fake_efi.h -text
 i386/libsaio/fdisk.h -text
+i386/libsaio/freebsd.c -text
+i386/libsaio/freebsd.h -text
 i386/libsaio/gma.c -text
 i386/libsaio/gma.h -text
 i386/libsaio/hfs.c -text
@@ -915,6 +925,8 @@ i386/libsaio/ntfs.h -text
 i386/libsaio/ntfs_private.h -text
 i386/libsaio/nvidia.c -text
 i386/libsaio/nvidia.h -text
+i386/libsaio/openbsd.c -text
+i386/libsaio/openbsd.h -text
 i386/libsaio/pci.c -text
 i386/libsaio/pci.h -text
 i386/libsaio/pci_root.c -text
