@@ -1499,6 +1499,8 @@ trunkAutoResolution/i386/Makefile -text
 trunkAutoResolution/i386/boot0/Cconfig -text
 trunkAutoResolution/i386/boot0/Makefile -text
 trunkAutoResolution/i386/boot0/boot0.s -text
+trunkAutoResolution/i386/boot0/boot0hfs.s -text
+trunkAutoResolution/i386/boot0/boot0md.s -text
 trunkAutoResolution/i386/boot0/chain0.s -text
 trunkAutoResolution/i386/boot1/Cconfig -text
 trunkAutoResolution/i386/boot1/Makefile -text
@@ -2572,6 +2574,11 @@ trunkAutoResolution/package/Resources/Portuguese.lproj/Description.html -text
 trunkAutoResolution/package/Resources/Portuguese.lproj/License.rtf -text
 trunkAutoResolution/package/Resources/Portuguese.lproj/Localizable.strings -text svneol=unset#unset
 trunkAutoResolution/package/Resources/Portuguese.lproj/Welcome.rtfd/TXT.rtf -text
+trunkAutoResolution/package/Resources/Russian.lproj/Conclusion.rtfd/TXT.rtf -text
+trunkAutoResolution/package/Resources/Russian.lproj/Description.html -text
+trunkAutoResolution/package/Resources/Russian.lproj/License.rtf -text
+trunkAutoResolution/package/Resources/Russian.lproj/Localizable.strings -text svneol=unset#unset
+trunkAutoResolution/package/Resources/Russian.lproj/Welcome.rtfd/TXT.rtf -text
 trunkAutoResolution/package/Resources/Spanish.lproj/Conclusion.rtfd/TXT.rtf -text
 trunkAutoResolution/package/Resources/Spanish.lproj/Description.html -text
 trunkAutoResolution/package/Resources/Spanish.lproj/License.rtf -text
