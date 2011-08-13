@@ -1280,6 +1280,7 @@ package/Scripts/Resolutions/1680x1050x32/postinstall -text
 package/Scripts/Resolutions/1920x1080x32/postinstall -text
 package/Scripts/Resolutions/1920x1200x32/postinstall -text
 package/Scripts/Standard/postinstall -text
+package/builddmg.sh -text
 package/buildpkg.sh -text
 package/dmg/SLAResources -text
 package/dmg/ro.dmg -text
