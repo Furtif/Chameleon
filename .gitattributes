@@ -1316,9 +1316,6 @@ package/builddmg.sh -text
 package/buildpkg.sh -text
 package/dmg/SLAResources -text
 package/dmg/ro.dmg -text
-package/doc/BootHelp.txt -text
-package/doc/README -text
-package/doc/Users_Guide0.5.pdf -text
 package/slimpkg.sh -text
 package/smbios.plist -text
 /version -text
