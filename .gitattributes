@@ -1294,6 +1294,11 @@ package/Resources/Italian.lproj/Description.html -text
 package/Resources/Italian.lproj/License.rtf -text
 package/Resources/Italian.lproj/Localizable.strings -text
 package/Resources/Italian.lproj/Welcome.rtfd/TXT.rtf -text
+package/Resources/Macedonian.lproj/Conclusion.rtfd/TXT.rtf -text
+package/Resources/Macedonian.lproj/Description.html -text
+package/Resources/Macedonian.lproj/License.rtf -text
+package/Resources/Macedonian.lproj/Localizable.strings -text
+package/Resources/Macedonian.lproj/Welcome.rtfd/TXT.rtf -text
 package/Resources/Polish.lproj/Conclusion.rtfd/TXT.rtf -text
 package/Resources/Polish.lproj/Description.html -text
 package/Resources/Polish.lproj/License.rtf -text
