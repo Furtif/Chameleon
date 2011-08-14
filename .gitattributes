@@ -44,8 +44,6 @@ artwork/themes/bullet/text_scroll_prev.png -text svneol=unset#image/png
 artwork/themes/bullet/theme.plist -text
 artwork/themes/default/background.png -text svneol=unset#image/png
 artwork/themes/default/boot.png -text svneol=unset#image/png
-artwork/themes/default/device_befs.png -text
-artwork/themes/default/device_befs_o.png -text
 artwork/themes/default/device_cdrom.png -text svneol=unset#image/png
 artwork/themes/default/device_cdrom_o.png -text svneol=unset#image/png
 artwork/themes/default/device_ext3.png -text svneol=unset#image/png
