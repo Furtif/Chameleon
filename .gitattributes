@@ -1326,6 +1326,7 @@ package/Scripts/Advanced/ForceHPET/postinstall -text
 package/Scripts/Advanced/ForceWake/postinstall -text
 package/Scripts/Advanced/GUI/postinstall -text
 package/Scripts/Advanced/LegacyLogo/postinstall -text
+package/Scripts/Advanced/Npci/postinstall -text
 package/Scripts/Advanced/QuietBoot/postinstall -text
 package/Scripts/Advanced/SMBIOSdefaults/postinstall -text
 package/Scripts/Advanced/ShowInfo/postinstall -text
@@ -1338,6 +1339,9 @@ package/Scripts/Advanced/Wait/postinstall -text
 package/Scripts/Advanced/Wake/postinstall -text
 package/Scripts/BaseOptions/CSTUsingSystemIO/postinstall -text
 package/Scripts/BaseOptions/DropSSDT/postinstall -text
+package/Scripts/BaseOptions/EnableC2State/postinstall -text
+package/Scripts/BaseOptions/EnableC3State/postinstall -text
+package/Scripts/BaseOptions/EnableC4State/postinstall -text
 package/Scripts/BaseOptions/EthernetBuiltIn/postinstall -text
 package/Scripts/BaseOptions/GenerateCStates/postinstall -text
 package/Scripts/BaseOptions/GeneratePStates/postinstall -text
