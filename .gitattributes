@@ -1275,6 +1275,11 @@ package/Resources/Italian.lproj/Description.html -text
 package/Resources/Italian.lproj/License.rtf -text
 package/Resources/Italian.lproj/Localizable.strings -text
 package/Resources/Italian.lproj/Welcome.rtfd/TXT.rtf -text
+package/Resources/Spanish.lproj/Conclusion.rtfd/TXT.rtf -text
+package/Resources/Spanish.lproj/Description.html -text
+package/Resources/Spanish.lproj/License.rtf -text
+package/Resources/Spanish.lproj/Localizable.strings -text
+package/Resources/Spanish.lproj/Welcome.rtfd/TXT.rtf -text
 package/Resources/background.tiff -text
 package/Scripts/Advanced/BootBanner/postinstall -text
 package/Scripts/Advanced/EHCIacquire/postinstall -text
