@@ -52,8 +52,6 @@ artwork/themes/default/device_ext3.png -text svneol=unset#image/png
 artwork/themes/default/device_ext3_o.png -text svneol=unset#image/png
 artwork/themes/default/device_fat.png -text svneol=unset#image/png
 artwork/themes/default/device_fat_o.png -text svneol=unset#image/png
-artwork/themes/default/device_freebsd.png -text
-artwork/themes/default/device_freebsd_o.png -text
 artwork/themes/default/device_generic.png -text svneol=unset#image/png
 artwork/themes/default/device_generic_o.png -text svneol=unset#image/png
 artwork/themes/default/device_hfsplus.png -text svneol=unset#image/png
@@ -62,8 +60,6 @@ artwork/themes/default/device_hfsraid.png -text svneol=unset#image/png
 artwork/themes/default/device_hfsraid_o.png -text svneol=unset#image/png
 artwork/themes/default/device_ntfs.png -text svneol=unset#image/png
 artwork/themes/default/device_ntfs_o.png -text svneol=unset#image/png
-artwork/themes/default/device_openbsd.png -text
-artwork/themes/default/device_openbsd_o.png -text
 artwork/themes/default/device_scroll_next.png -text svneol=unset#image/png
 artwork/themes/default/device_scroll_prev.png -text svneol=unset#image/png
 artwork/themes/default/device_selection.png -text svneol=unset#image/png
