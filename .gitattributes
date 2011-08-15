@@ -2601,6 +2601,11 @@ trunkAutoResolution/package/Resources/Italian.lproj/Description.html -text
 trunkAutoResolution/package/Resources/Italian.lproj/License.rtf -text
 trunkAutoResolution/package/Resources/Italian.lproj/Localizable.strings -text
 trunkAutoResolution/package/Resources/Italian.lproj/Welcome.rtfd/TXT.rtf -text
+trunkAutoResolution/package/Resources/Spanish.lproj/Conclusion.rtfd/TXT.rtf -text
+trunkAutoResolution/package/Resources/Spanish.lproj/Description.html -text
+trunkAutoResolution/package/Resources/Spanish.lproj/License.rtf -text
+trunkAutoResolution/package/Resources/Spanish.lproj/Localizable.strings -text
+trunkAutoResolution/package/Resources/Spanish.lproj/Welcome.rtfd/TXT.rtf -text
 trunkAutoResolution/package/Resources/background.tiff -text
 trunkAutoResolution/package/Scripts/Advanced/BootBanner/postinstall -text
 trunkAutoResolution/package/Scripts/Advanced/EHCIacquire/postinstall -text
@@ -3944,6 +3949,11 @@ trunkGraphicsEnablerModules/package/Resources/Italian.lproj/Description.html -te
 trunkGraphicsEnablerModules/package/Resources/Italian.lproj/License.rtf -text
 trunkGraphicsEnablerModules/package/Resources/Italian.lproj/Localizable.strings -text
 trunkGraphicsEnablerModules/package/Resources/Italian.lproj/Welcome.rtfd/TXT.rtf -text
+trunkGraphicsEnablerModules/package/Resources/Spanish.lproj/Conclusion.rtfd/TXT.rtf -text
+trunkGraphicsEnablerModules/package/Resources/Spanish.lproj/Description.html -text
+trunkGraphicsEnablerModules/package/Resources/Spanish.lproj/License.rtf -text
+trunkGraphicsEnablerModules/package/Resources/Spanish.lproj/Localizable.strings -text
+trunkGraphicsEnablerModules/package/Resources/Spanish.lproj/Welcome.rtfd/TXT.rtf -text
 trunkGraphicsEnablerModules/package/Resources/background.tiff -text
 trunkGraphicsEnablerModules/package/Scripts/Advanced/BootBanner/postinstall -text
 trunkGraphicsEnablerModules/package/Scripts/Advanced/EHCIacquire/postinstall -text
