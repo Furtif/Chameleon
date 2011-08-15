@@ -1244,6 +1244,11 @@ package/Resources/Arabic.lproj/Description.html -text
 package/Resources/Arabic.lproj/License.rtf -text
 package/Resources/Arabic.lproj/Localizable.strings -text
 package/Resources/Arabic.lproj/Welcome.rtfd/TXT.rtf -text
+package/Resources/Bosnian.lproj/Conclusion.rtfd/TXT.rtf -text
+package/Resources/Bosnian.lproj/Description.html -text
+package/Resources/Bosnian.lproj/License.rtf -text
+package/Resources/Bosnian.lproj/Localizable.strings -text
+package/Resources/Bosnian.lproj/Welcome.rtfd/TXT.rtf -text
 package/Resources/Bulgarian.lproj/Conclusion.rtfd/TXT.rtf -text
 package/Resources/Bulgarian.lproj/Description.html -text
 package/Resources/Bulgarian.lproj/License.rtf -text
