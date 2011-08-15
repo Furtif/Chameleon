@@ -142,13 +142,6 @@ artwork/themes/legacy/progress_bar_background.png -text svneol=unset#image/png
 artwork/themes/legacy/text_scroll_next.png -text svneol=unset#image/png
 artwork/themes/legacy/text_scroll_prev.png -text svneol=unset#image/png
 artwork/themes/legacy/theme.plist -text
-artwork/themes/msi_netbook/logo.png -text svneol=unset#image/png
-artwork/themes/msi_netbook/theme.plist -text
-artwork/themes/pinktink/logo.png -text svneol=unset#image/png
-artwork/themes/pinktink/theme.plist -text
-artwork/themes/twilight/font_small.png -text svneol=unset#image/png
-artwork/themes/twilight/logo.png -text svneol=unset#image/png
-artwork/themes/twilight/theme.plist -text
 /coding_standards.txt -text
 doc/BootHelp.txt -text
 doc/README -text
