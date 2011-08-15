@@ -1258,6 +1258,11 @@ package/Icons/i386.zip -text
 package/Icons/pan.zip -text
 package/Icons/pkg.zip -text
 package/Icons/tm.zip -text
+package/Resources/Bosnian.lproj/Conclusion.rtfd/TXT.rtf -text
+package/Resources/Bosnian.lproj/Description.html -text
+package/Resources/Bosnian.lproj/License.rtf -text
+package/Resources/Bosnian.lproj/Localizable.strings -text
+package/Resources/Bosnian.lproj/Welcome.rtfd/TXT.rtf -text
 package/Resources/English.lproj/Conclusion.rtfd/TXT.rtf -text
 package/Resources/English.lproj/Description.html -text
 package/Resources/English.lproj/License.rtf -text
