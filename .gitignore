@@ -12,15 +12,10 @@ Chazi/obj
 Chazi/revision
 Chazi/sym
 package/.config*
-package/Chameleon.xcodeproj/*.mode*
-package/Chameleon.xcodeproj/*.pbxuser
-package/Chameleon.xcodeproj/project.xcworkspace
-package/Chameleon.xcodeproj/xcuserdata
 package/auto.conf
 package/autoconf.h
 package/autoconf.inc
 package/build
-package/i386/modules/module_includes
 package/obj
 package/revision
 package/sym
