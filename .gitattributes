@@ -1259,6 +1259,11 @@ package/Resources/Chinese.lproj/Description.html -text
 package/Resources/Chinese.lproj/License.rtf -text
 package/Resources/Chinese.lproj/Localizable.strings -text
 package/Resources/Chinese.lproj/Welcome.rtfd/TXT.rtf -text
+package/Resources/Croatian.lproj/Conclusion.rtfd/TXT.rtf -text
+package/Resources/Croatian.lproj/Description.html -text
+package/Resources/Croatian.lproj/License.rtf -text
+package/Resources/Croatian.lproj/Localizable.strings -text
+package/Resources/Croatian.lproj/Welcome.rtfd/TXT.rtf -text
 package/Resources/Dutch.lproj/Conclusion.rtfd/TXT.rtf -text
 package/Resources/Dutch.lproj/Description.html -text
 package/Resources/Dutch.lproj/License.rtf -text
