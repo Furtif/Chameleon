@@ -1467,13 +1467,6 @@ trunkAutoResolution/artwork/themes/legacy/progress_bar_background.png -text svne
 trunkAutoResolution/artwork/themes/legacy/text_scroll_next.png -text svneol=unset#image/png
 trunkAutoResolution/artwork/themes/legacy/text_scroll_prev.png -text svneol=unset#image/png
 trunkAutoResolution/artwork/themes/legacy/theme.plist -text
-trunkAutoResolution/artwork/themes/msi_netbook/logo.png -text svneol=unset#image/png
-trunkAutoResolution/artwork/themes/msi_netbook/theme.plist -text
-trunkAutoResolution/artwork/themes/pinktink/logo.png -text svneol=unset#image/png
-trunkAutoResolution/artwork/themes/pinktink/theme.plist -text
-trunkAutoResolution/artwork/themes/twilight/font_small.png -text svneol=unset#image/png
-trunkAutoResolution/artwork/themes/twilight/logo.png -text svneol=unset#image/png
-trunkAutoResolution/artwork/themes/twilight/theme.plist -text
 trunkAutoResolution/coding_standards.txt -text
 trunkAutoResolution/doc/BootHelp.txt -text
 trunkAutoResolution/doc/README -text
@@ -2591,6 +2584,11 @@ trunkAutoResolution/package/Icons/i386.zip -text
 trunkAutoResolution/package/Icons/pan.zip -text
 trunkAutoResolution/package/Icons/pkg.zip -text
 trunkAutoResolution/package/Icons/tm.zip -text
+trunkAutoResolution/package/Resources/Bosnian.lproj/Conclusion.rtfd/TXT.rtf -text
+trunkAutoResolution/package/Resources/Bosnian.lproj/Description.html -text
+trunkAutoResolution/package/Resources/Bosnian.lproj/License.rtf -text
+trunkAutoResolution/package/Resources/Bosnian.lproj/Localizable.strings -text
+trunkAutoResolution/package/Resources/Bosnian.lproj/Welcome.rtfd/TXT.rtf -text
 trunkAutoResolution/package/Resources/English.lproj/Conclusion.rtfd/TXT.rtf -text
 trunkAutoResolution/package/Resources/English.lproj/Description.html -text
 trunkAutoResolution/package/Resources/English.lproj/License.rtf -text
@@ -2797,13 +2795,6 @@ trunkGraphicsEnablerModules/artwork/themes/legacy/progress_bar_background.png -t
 trunkGraphicsEnablerModules/artwork/themes/legacy/text_scroll_next.png -text svneol=unset#image/png
 trunkGraphicsEnablerModules/artwork/themes/legacy/text_scroll_prev.png -text svneol=unset#image/png
 trunkGraphicsEnablerModules/artwork/themes/legacy/theme.plist -text
-trunkGraphicsEnablerModules/artwork/themes/msi_netbook/logo.png -text svneol=unset#image/png
-trunkGraphicsEnablerModules/artwork/themes/msi_netbook/theme.plist -text
-trunkGraphicsEnablerModules/artwork/themes/pinktink/logo.png -text svneol=unset#image/png
-trunkGraphicsEnablerModules/artwork/themes/pinktink/theme.plist -text
-trunkGraphicsEnablerModules/artwork/themes/twilight/font_small.png -text svneol=unset#image/png
-trunkGraphicsEnablerModules/artwork/themes/twilight/logo.png -text svneol=unset#image/png
-trunkGraphicsEnablerModules/artwork/themes/twilight/theme.plist -text
 trunkGraphicsEnablerModules/coding_standards.txt -text
 trunkGraphicsEnablerModules/doc/BootHelp.txt -text
 trunkGraphicsEnablerModules/doc/README -text
@@ -3939,6 +3930,11 @@ trunkGraphicsEnablerModules/package/Icons/i386.zip -text
 trunkGraphicsEnablerModules/package/Icons/pan.zip -text
 trunkGraphicsEnablerModules/package/Icons/pkg.zip -text
 trunkGraphicsEnablerModules/package/Icons/tm.zip -text
+trunkGraphicsEnablerModules/package/Resources/Bosnian.lproj/Conclusion.rtfd/TXT.rtf -text
+trunkGraphicsEnablerModules/package/Resources/Bosnian.lproj/Description.html -text
+trunkGraphicsEnablerModules/package/Resources/Bosnian.lproj/License.rtf -text
+trunkGraphicsEnablerModules/package/Resources/Bosnian.lproj/Localizable.strings -text
+trunkGraphicsEnablerModules/package/Resources/Bosnian.lproj/Welcome.rtfd/TXT.rtf -text
 trunkGraphicsEnablerModules/package/Resources/English.lproj/Conclusion.rtfd/TXT.rtf -text
 trunkGraphicsEnablerModules/package/Resources/English.lproj/Description.html -text
 trunkGraphicsEnablerModules/package/Resources/English.lproj/License.rtf -text
