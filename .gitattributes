@@ -1239,11 +1239,6 @@ package/Icons/i386.zip -text
 package/Icons/pan.zip -text
 package/Icons/pkg.zip -text
 package/Icons/tm.zip -text
-package/Resources/Dutch.lproj/Conclusion.rtfd/TXT.rtf -text
-package/Resources/Dutch.lproj/Description.html -text
-package/Resources/Dutch.lproj/License.rtf -text
-package/Resources/Dutch.lproj/Localizable.strings -text
-package/Resources/Dutch.lproj/Welcome.rtfd/TXT.rtf -text
 package/Resources/It.lproj/Conclusion.rtfd/TXT.rtf -text
 package/Resources/It.lproj/Description.html -text
 package/Resources/It.lproj/License.rtf -text
@@ -1310,6 +1305,11 @@ package/Resources/mk.lproj/Description.html -text
 package/Resources/mk.lproj/License.rtf -text
 package/Resources/mk.lproj/Localizable.strings -text
 package/Resources/mk.lproj/Welcome.rtfd/TXT.rtf -text
+package/Resources/nl.lproj/Conclusion.rtfd/TXT.rtf -text
+package/Resources/nl.lproj/Description.html -text
+package/Resources/nl.lproj/License.rtf -text
+package/Resources/nl.lproj/Localizable.strings -text
+package/Resources/nl.lproj/Welcome.rtfd/TXT.rtf -text
 package/Resources/pl.lproj/Conclusion.rtfd/TXT.rtf -text
 package/Resources/pl.lproj/Description.html -text
 package/Resources/pl.lproj/License.rtf -text
