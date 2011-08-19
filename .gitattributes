@@ -1368,12 +1368,16 @@ Package/artwork/themes/bullet/text_scroll_prev.png -text svneol=unset#image/png
 Package/artwork/themes/bullet/theme.plist -text
 Package/artwork/themes/default/background.png -text svneol=unset#image/png
 Package/artwork/themes/default/boot.png -text svneol=unset#image/png
+Package/artwork/themes/default/device_befs.png -text
+Package/artwork/themes/default/device_befs_o.png -text
 Package/artwork/themes/default/device_cdrom.png -text svneol=unset#image/png
 Package/artwork/themes/default/device_cdrom_o.png -text svneol=unset#image/png
 Package/artwork/themes/default/device_ext3.png -text svneol=unset#image/png
 Package/artwork/themes/default/device_ext3_o.png -text svneol=unset#image/png
 Package/artwork/themes/default/device_fat.png -text svneol=unset#image/png
 Package/artwork/themes/default/device_fat_o.png -text svneol=unset#image/png
+Package/artwork/themes/default/device_freebsd.png -text
+Package/artwork/themes/default/device_freebsd_o.png -text
 Package/artwork/themes/default/device_generic.png -text svneol=unset#image/png
 Package/artwork/themes/default/device_generic_o.png -text svneol=unset#image/png
 Package/artwork/themes/default/device_hfsplus.png -text svneol=unset#image/png
@@ -1382,6 +1386,8 @@ Package/artwork/themes/default/device_hfsraid.png -text svneol=unset#image/png
 Package/artwork/themes/default/device_hfsraid_o.png -text svneol=unset#image/png
 Package/artwork/themes/default/device_ntfs.png -text svneol=unset#image/png
 Package/artwork/themes/default/device_ntfs_o.png -text svneol=unset#image/png
+Package/artwork/themes/default/device_openbsd.png -text
+Package/artwork/themes/default/device_openbsd_o.png -text
 Package/artwork/themes/default/device_scroll_next.png -text svneol=unset#image/png
 Package/artwork/themes/default/device_scroll_prev.png -text svneol=unset#image/png
 Package/artwork/themes/default/device_selection.png -text svneol=unset#image/png
@@ -2221,6 +2227,8 @@ Package/i386/libsaio/aml_generator.h -text
 Package/i386/libsaio/asm.s -text
 Package/i386/libsaio/ati.c -text
 Package/i386/libsaio/ati_reg.h -text
+Package/i386/libsaio/befs.c -text
+Package/i386/libsaio/befs.h -text
 Package/i386/libsaio/bios.h -text
 Package/i386/libsaio/bios.s -text
 Package/i386/libsaio/biosfn.c -text
@@ -2247,6 +2255,8 @@ Package/i386/libsaio/ext2fs.h -text
 Package/i386/libsaio/fake_efi.c -text
 Package/i386/libsaio/fake_efi.h -text
 Package/i386/libsaio/fdisk.h -text
+Package/i386/libsaio/freebsd.c -text
+Package/i386/libsaio/freebsd.h -text
 Package/i386/libsaio/gma.c -text
 Package/i386/libsaio/gma.h -text
 Package/i386/libsaio/hfs.c -text
@@ -2271,6 +2281,8 @@ Package/i386/libsaio/ntfs.h -text
 Package/i386/libsaio/ntfs_private.h -text
 Package/i386/libsaio/nvidia.c -text
 Package/i386/libsaio/nvidia.h -text
+Package/i386/libsaio/openbsd.c -text
+Package/i386/libsaio/openbsd.h -text
 Package/i386/libsaio/pci.c -text
 Package/i386/libsaio/pci.h -text
 Package/i386/libsaio/pci_root.c -text
@@ -2715,12 +2727,16 @@ trunkAutoResolution/artwork/themes/bullet/text_scroll_prev.png -text svneol=unse
 trunkAutoResolution/artwork/themes/bullet/theme.plist -text
 trunkAutoResolution/artwork/themes/default/background.png -text svneol=unset#image/png
 trunkAutoResolution/artwork/themes/default/boot.png -text svneol=unset#image/png
+trunkAutoResolution/artwork/themes/default/device_befs.png -text
+trunkAutoResolution/artwork/themes/default/device_befs_o.png -text
 trunkAutoResolution/artwork/themes/default/device_cdrom.png -text svneol=unset#image/png
 trunkAutoResolution/artwork/themes/default/device_cdrom_o.png -text svneol=unset#image/png
 trunkAutoResolution/artwork/themes/default/device_ext3.png -text svneol=unset#image/png
 trunkAutoResolution/artwork/themes/default/device_ext3_o.png -text svneol=unset#image/png
 trunkAutoResolution/artwork/themes/default/device_fat.png -text svneol=unset#image/png
 trunkAutoResolution/artwork/themes/default/device_fat_o.png -text svneol=unset#image/png
+trunkAutoResolution/artwork/themes/default/device_freebsd.png -text
+trunkAutoResolution/artwork/themes/default/device_freebsd_o.png -text
 trunkAutoResolution/artwork/themes/default/device_generic.png -text svneol=unset#image/png
 trunkAutoResolution/artwork/themes/default/device_generic_o.png -text svneol=unset#image/png
 trunkAutoResolution/artwork/themes/default/device_hfsplus.png -text svneol=unset#image/png
@@ -2729,6 +2745,8 @@ trunkAutoResolution/artwork/themes/default/device_hfsraid.png -text svneol=unset
 trunkAutoResolution/artwork/themes/default/device_hfsraid_o.png -text svneol=unset#image/png
 trunkAutoResolution/artwork/themes/default/device_ntfs.png -text svneol=unset#image/png
 trunkAutoResolution/artwork/themes/default/device_ntfs_o.png -text svneol=unset#image/png
+trunkAutoResolution/artwork/themes/default/device_openbsd.png -text
+trunkAutoResolution/artwork/themes/default/device_openbsd_o.png -text
 trunkAutoResolution/artwork/themes/default/device_scroll_next.png -text svneol=unset#image/png
 trunkAutoResolution/artwork/themes/default/device_scroll_prev.png -text svneol=unset#image/png
 trunkAutoResolution/artwork/themes/default/device_selection.png -text svneol=unset#image/png
@@ -3571,6 +3589,8 @@ trunkAutoResolution/i386/libsaio/ati_resolution.c -text
 trunkAutoResolution/i386/libsaio/ati_resolution.h -text
 trunkAutoResolution/i386/libsaio/autoresolution.c -text
 trunkAutoResolution/i386/libsaio/autoresolution.h -text
+trunkAutoResolution/i386/libsaio/befs.c -text
+trunkAutoResolution/i386/libsaio/befs.h -text
 trunkAutoResolution/i386/libsaio/bios.h -text
 trunkAutoResolution/i386/libsaio/bios.s -text
 trunkAutoResolution/i386/libsaio/biosfn.c -text
@@ -3599,6 +3619,8 @@ trunkAutoResolution/i386/libsaio/ext2fs.h -text
 trunkAutoResolution/i386/libsaio/fake_efi.c -text
 trunkAutoResolution/i386/libsaio/fake_efi.h -text
 trunkAutoResolution/i386/libsaio/fdisk.h -text
+trunkAutoResolution/i386/libsaio/freebsd.c -text
+trunkAutoResolution/i386/libsaio/freebsd.h -text
 trunkAutoResolution/i386/libsaio/gma.c -text
 trunkAutoResolution/i386/libsaio/gma.h -text
 trunkAutoResolution/i386/libsaio/gma_resolution.c -text
@@ -3627,6 +3649,8 @@ trunkAutoResolution/i386/libsaio/nvidia.c -text
 trunkAutoResolution/i386/libsaio/nvidia.h -text
 trunkAutoResolution/i386/libsaio/nvidia_resolution.c -text
 trunkAutoResolution/i386/libsaio/nvidia_resolution.h -text
+trunkAutoResolution/i386/libsaio/openbsd.c -text
+trunkAutoResolution/i386/libsaio/openbsd.h -text
 trunkAutoResolution/i386/libsaio/pci.c -text
 trunkAutoResolution/i386/libsaio/pci.h -text
 trunkAutoResolution/i386/libsaio/pci_root.c -text
@@ -4063,12 +4087,16 @@ trunkGraphicsEnablerModules/artwork/themes/bullet/text_scroll_prev.png -text svn
 trunkGraphicsEnablerModules/artwork/themes/bullet/theme.plist -text
 trunkGraphicsEnablerModules/artwork/themes/default/background.png -text svneol=unset#image/png
 trunkGraphicsEnablerModules/artwork/themes/default/boot.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/default/device_befs.png -text
+trunkGraphicsEnablerModules/artwork/themes/default/device_befs_o.png -text
 trunkGraphicsEnablerModules/artwork/themes/default/device_cdrom.png -text svneol=unset#image/png
 trunkGraphicsEnablerModules/artwork/themes/default/device_cdrom_o.png -text svneol=unset#image/png
 trunkGraphicsEnablerModules/artwork/themes/default/device_ext3.png -text svneol=unset#image/png
 trunkGraphicsEnablerModules/artwork/themes/default/device_ext3_o.png -text svneol=unset#image/png
 trunkGraphicsEnablerModules/artwork/themes/default/device_fat.png -text svneol=unset#image/png
 trunkGraphicsEnablerModules/artwork/themes/default/device_fat_o.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/default/device_freebsd.png -text
+trunkGraphicsEnablerModules/artwork/themes/default/device_freebsd_o.png -text
 trunkGraphicsEnablerModules/artwork/themes/default/device_generic.png -text svneol=unset#image/png
 trunkGraphicsEnablerModules/artwork/themes/default/device_generic_o.png -text svneol=unset#image/png
 trunkGraphicsEnablerModules/artwork/themes/default/device_hfsplus.png -text svneol=unset#image/png
@@ -4077,6 +4105,8 @@ trunkGraphicsEnablerModules/artwork/themes/default/device_hfsraid.png -text svne
 trunkGraphicsEnablerModules/artwork/themes/default/device_hfsraid_o.png -text svneol=unset#image/png
 trunkGraphicsEnablerModules/artwork/themes/default/device_ntfs.png -text svneol=unset#image/png
 trunkGraphicsEnablerModules/artwork/themes/default/device_ntfs_o.png -text svneol=unset#image/png
+trunkGraphicsEnablerModules/artwork/themes/default/device_openbsd.png -text
+trunkGraphicsEnablerModules/artwork/themes/default/device_openbsd_o.png -text
 trunkGraphicsEnablerModules/artwork/themes/default/device_scroll_next.png -text svneol=unset#image/png
 trunkGraphicsEnablerModules/artwork/themes/default/device_scroll_prev.png -text svneol=unset#image/png
 trunkGraphicsEnablerModules/artwork/themes/default/device_selection.png -text svneol=unset#image/png
@@ -4913,6 +4943,8 @@ trunkGraphicsEnablerModules/i386/libsaio/allocate.c -text
 trunkGraphicsEnablerModules/i386/libsaio/aml_generator.c -text
 trunkGraphicsEnablerModules/i386/libsaio/aml_generator.h -text
 trunkGraphicsEnablerModules/i386/libsaio/asm.s -text
+trunkGraphicsEnablerModules/i386/libsaio/befs.c -text
+trunkGraphicsEnablerModules/i386/libsaio/befs.h -text
 trunkGraphicsEnablerModules/i386/libsaio/bios.h -text
 trunkGraphicsEnablerModules/i386/libsaio/bios.s -text
 trunkGraphicsEnablerModules/i386/libsaio/biosfn.c -text
@@ -4939,6 +4971,8 @@ trunkGraphicsEnablerModules/i386/libsaio/ext2fs.h -text
 trunkGraphicsEnablerModules/i386/libsaio/fake_efi.c -text
 trunkGraphicsEnablerModules/i386/libsaio/fake_efi.h -text
 trunkGraphicsEnablerModules/i386/libsaio/fdisk.h -text
+trunkGraphicsEnablerModules/i386/libsaio/freebsd.c -text
+trunkGraphicsEnablerModules/i386/libsaio/freebsd.h -text
 trunkGraphicsEnablerModules/i386/libsaio/hfs.c -text
 trunkGraphicsEnablerModules/i386/libsaio/hfs.h -text
 trunkGraphicsEnablerModules/i386/libsaio/hfs_CaseTables.h -text
@@ -4959,6 +4993,8 @@ trunkGraphicsEnablerModules/i386/libsaio/nbp_cmd.h -text
 trunkGraphicsEnablerModules/i386/libsaio/ntfs.c -text
 trunkGraphicsEnablerModules/i386/libsaio/ntfs.h -text
 trunkGraphicsEnablerModules/i386/libsaio/ntfs_private.h -text
+trunkGraphicsEnablerModules/i386/libsaio/openbsd.c -text
+trunkGraphicsEnablerModules/i386/libsaio/openbsd.h -text
 trunkGraphicsEnablerModules/i386/libsaio/pci.c -text
 trunkGraphicsEnablerModules/i386/libsaio/pci.h -text
 trunkGraphicsEnablerModules/i386/libsaio/pci_root.c -text
