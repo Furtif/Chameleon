@@ -3946,6 +3946,11 @@ trunkAutoResolution/package/Resources/hr.lproj/Description.html -text
 trunkAutoResolution/package/Resources/hr.lproj/License.rtf -text
 trunkAutoResolution/package/Resources/hr.lproj/Localizable.strings -text
 trunkAutoResolution/package/Resources/hr.lproj/Welcome.rtfd/TXT.rtf -text
+trunkAutoResolution/package/Resources/id.lproj/Conclusion.rtfd/TXT.rtf -text
+trunkAutoResolution/package/Resources/id.lproj/Description.html -text
+trunkAutoResolution/package/Resources/id.lproj/License.rtf -text
+trunkAutoResolution/package/Resources/id.lproj/Localizable.strings -text
+trunkAutoResolution/package/Resources/id.lproj/Welcome.rtfd/TXT.rtf -text
 trunkAutoResolution/package/Resources/it.lproj/Conclusion.rtfd/TXT.rtf -text
 trunkAutoResolution/package/Resources/it.lproj/Description.html -text
 trunkAutoResolution/package/Resources/it.lproj/License.rtf -text
@@ -5307,6 +5312,11 @@ trunkGraphicsEnablerModules/package/Resources/hr.lproj/Description.html -text
 trunkGraphicsEnablerModules/package/Resources/hr.lproj/License.rtf -text
 trunkGraphicsEnablerModules/package/Resources/hr.lproj/Localizable.strings -text
 trunkGraphicsEnablerModules/package/Resources/hr.lproj/Welcome.rtfd/TXT.rtf -text
+trunkGraphicsEnablerModules/package/Resources/id.lproj/Conclusion.rtfd/TXT.rtf -text
+trunkGraphicsEnablerModules/package/Resources/id.lproj/Description.html -text
+trunkGraphicsEnablerModules/package/Resources/id.lproj/License.rtf -text
+trunkGraphicsEnablerModules/package/Resources/id.lproj/Localizable.strings -text
+trunkGraphicsEnablerModules/package/Resources/id.lproj/Welcome.rtfd/TXT.rtf -text
 trunkGraphicsEnablerModules/package/Resources/it.lproj/Conclusion.rtfd/TXT.rtf -text
 trunkGraphicsEnablerModules/package/Resources/it.lproj/Description.html -text
 trunkGraphicsEnablerModules/package/Resources/it.lproj/License.rtf -text
