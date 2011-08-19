@@ -1484,6 +1484,7 @@ Package/doc/Users_Guide0.5.pdf -text svneol=unset#unset
 Package/doc/archive/UsersGuide-v0.2.pdf -text svneol=unset#unset
 Package/doc/archive/Users_Guide0.4.pdf -text svneol=unset#unset
 Package/doc/archive/Users_Guide_v0.3.pdf -text svneol=unset#unset
+Package/doc/smbios.plist -text
 Package/doc/themeinfo.png -text svneol=unset#image/png
 Package/i386/Cconfig -text
 Package/i386/MakePaths.dir -text
@@ -2603,6 +2604,11 @@ Package/package/Resources/hr.lproj/Description.html -text
 Package/package/Resources/hr.lproj/License.rtf -text
 Package/package/Resources/hr.lproj/Localizable.strings -text
 Package/package/Resources/hr.lproj/Welcome.rtfd/TXT.rtf -text
+Package/package/Resources/id.lproj/Conclusion.rtfd/TXT.rtf -text
+Package/package/Resources/id.lproj/Description.html -text
+Package/package/Resources/id.lproj/License.rtf -text
+Package/package/Resources/id.lproj/Localizable.strings -text
+Package/package/Resources/id.lproj/Welcome.rtfd/TXT.rtf -text
 Package/package/Resources/it.lproj/Conclusion.rtfd/TXT.rtf -text
 Package/package/Resources/it.lproj/Description.html -text
 Package/package/Resources/it.lproj/License.rtf -text
@@ -2662,7 +2668,6 @@ Package/package/buildpkg.sh -text
 Package/package/dmg/SLAResources -text
 Package/package/dmg/ro.dmg -text
 Package/package/slimpkg.sh -text
-Package/package/smbios.plist -text
 Package/version -text
 trunkAutoResolution/APPLE_LICENSE -text
 trunkAutoResolution/BLOCKERS -text
