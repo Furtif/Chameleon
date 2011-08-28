@@ -283,8 +283,8 @@ i386/libsaio/saio_internal.h -text
 i386/libsaio/saio_types.h -text
 i386/libsaio/sl.h -text
 i386/libsaio/smbios.c -text
-i386/libsaio/smp.c -text
-i386/libsaio/smp.h -text
+i386/libsaio/smp-imps.c -text
+i386/libsaio/smp-imps.h -text
 i386/libsaio/stringTable.c -text
 i386/libsaio/sys.c -text
 i386/libsaio/table.c -text
@@ -304,8 +304,6 @@ i386/modules/ACPICodec/acpicode.c -text
 i386/modules/ACPICodec/acpicode.h -text
 i386/modules/ACPICodec/acpidecode.c -text
 i386/modules/ACPICodec/acpidecode.h -text
-i386/modules/ACPICodec/aml_generator.c -text
-i386/modules/ACPICodec/aml_generator.h -text
 i386/modules/ACPIPatcher/AcpiPatcher.c -text
 i386/modules/ACPIPatcher/Makefile -text
 i386/modules/ACPIPatcher/acpi_patcher.c -text
@@ -417,6 +415,8 @@ i386/modules/SMBiosPatcher/smbios_patcher.h -text
 i386/modules/USBFix/Makefile -text
 i386/modules/USBFix/USBFix.c -text
 i386/modules/USBFix/usb.c -text
+i386/modules/YellowIconFixer/Makefile -text
+i386/modules/YellowIconFixer/YellowIconFixer.c -text
 i386/util/Makefile -text
 i386/util/Symbols.c -text
 i386/util/WKdm.h -text
