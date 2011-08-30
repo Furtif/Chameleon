@@ -1352,9 +1352,12 @@ package/Scripts/BaseOptions/RestartFix/postinstall -text
 package/Scripts/BaseOptions/arch/postinstall -text
 package/Scripts/EFI/postinstall -text
 package/Scripts/Post/postinstall -text
+package/Scripts/Resolutions/1024x600x32/postinstall -text
 package/Scripts/Resolutions/1024x768x32/postinstall -text
 package/Scripts/Resolutions/1280x1024x32/postinstall -text
+package/Scripts/Resolutions/1280x800x32/postinstall -text
 package/Scripts/Resolutions/1280x960x32/postinstall -text
+package/Scripts/Resolutions/1440x900x32/postinstall -text
 package/Scripts/Resolutions/1600x900x32/postinstall -text
 package/Scripts/Resolutions/1680x1050x32/postinstall -text
 package/Scripts/Resolutions/1920x1080x32/postinstall -text
