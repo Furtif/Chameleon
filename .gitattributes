@@ -1493,7 +1493,6 @@ Package/doc/archive/Users_Guide_v0.3.pdf -text svneol=unset#unset
 Package/doc/smbios.plist -text
 Package/doc/themeinfo.png -text svneol=unset#image/png
 Package/i386/Cconfig -text
-Package/i386/MakePaths.dir -text
 Package/i386/Makefile -text
 Package/i386/boot0/Cconfig -text
 Package/i386/boot0/Makefile -text
