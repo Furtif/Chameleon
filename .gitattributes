@@ -2864,7 +2864,6 @@ trunkAutoResolution/doc/archive/Users_Guide0.4.pdf -text svneol=unset#unset
 trunkAutoResolution/doc/archive/Users_Guide_v0.3.pdf -text svneol=unset#unset
 trunkAutoResolution/doc/themeinfo.png -text svneol=unset#image/png
 trunkAutoResolution/i386/Cconfig -text
-trunkAutoResolution/i386/MakePaths.dir -text
 trunkAutoResolution/i386/Makefile -text
 trunkAutoResolution/i386/boot0/Cconfig -text
 trunkAutoResolution/i386/boot0/Makefile -text
@@ -4237,7 +4236,6 @@ trunkGraphicsEnablerModules/doc/archive/Users_Guide0.4.pdf -text svneol=unset#un
 trunkGraphicsEnablerModules/doc/archive/Users_Guide_v0.3.pdf -text svneol=unset#unset
 trunkGraphicsEnablerModules/doc/themeinfo.png -text svneol=unset#image/png
 trunkGraphicsEnablerModules/i386/Cconfig -text
-trunkGraphicsEnablerModules/i386/MakePaths.dir -text
 trunkGraphicsEnablerModules/i386/Makefile -text
 trunkGraphicsEnablerModules/i386/boot0/Cconfig -text
 trunkGraphicsEnablerModules/i386/boot0/Makefile -text
