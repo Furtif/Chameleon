@@ -24,6 +24,7 @@ Package/i386/modules/module_includes
 Package/obj
 Package/revision
 Package/sym
+Package/vers.h
 trunkAutoResolution/.config*
 trunkAutoResolution/Chameleon.xcodeproj/*.mode*
 trunkAutoResolution/Chameleon.xcodeproj/*.pbxuser
