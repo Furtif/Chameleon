@@ -5058,7 +5058,7 @@ trunkGraphicsEnablerModules/i386/modules/GraphicsEnabler/ATiGraphicsEnabler/Make
 trunkGraphicsEnablerModules/i386/modules/GraphicsEnabler/ATiGraphicsEnabler/Readme.txt -text
 trunkGraphicsEnablerModules/i386/modules/GraphicsEnabler/ATiGraphicsEnabler/ati.c -text
 trunkGraphicsEnablerModules/i386/modules/GraphicsEnabler/ATiGraphicsEnabler/ati.h -text
-trunkGraphicsEnablerModules/i386/modules/GraphicsEnabler/GraphicsEnabler.txt -text
+trunkGraphicsEnablerModules/i386/modules/GraphicsEnabler/GraphicsEnablerModules.txt -text
 trunkGraphicsEnablerModules/i386/modules/GraphicsEnabler/IntelGraphicsEnabler/Cconfig -text
 trunkGraphicsEnablerModules/i386/modules/GraphicsEnabler/IntelGraphicsEnabler/IntelGraphicsEnabler.c -text
 trunkGraphicsEnablerModules/i386/modules/GraphicsEnabler/IntelGraphicsEnabler/Makefile -text
