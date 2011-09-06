@@ -51,3 +51,4 @@ trunkGraphicsEnablerModules/i386/modules/module_includes
 trunkGraphicsEnablerModules/obj
 trunkGraphicsEnablerModules/revision
 trunkGraphicsEnablerModules/sym
+trunkGraphicsEnablerModules/vers.h
