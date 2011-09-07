@@ -38,6 +38,7 @@ trunkAutoResolution/i386/modules/module_includes
 trunkAutoResolution/obj
 trunkAutoResolution/revision
 trunkAutoResolution/sym
+trunkAutoResolution/vers.h
 trunkGraphicsEnablerModules/.config*
 trunkGraphicsEnablerModules/Chameleon.xcodeproj/*.mode*
 trunkGraphicsEnablerModules/Chameleon.xcodeproj/*.pbxuser
