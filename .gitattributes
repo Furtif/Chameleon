@@ -1363,6 +1363,7 @@ package/Scripts/BaseOptions/GeneratePStates/postinstall -text
 package/Scripts/BaseOptions/GraphicsEnabler/postinstall -text
 package/Scripts/BaseOptions/InstantMenu/postinstall -text
 package/Scripts/BaseOptions/RestartFix/postinstall -text
+package/Scripts/BaseOptions/SkipFTFix/postinstall -text
 package/Scripts/BaseOptions/arch/postinstall -text
 package/Scripts/EFI/postinstall -text
 package/Scripts/Post/postinstall -text
