@@ -169,11 +169,12 @@ i386/MakePaths.dir -text
 i386/Makefile -text
 i386/boot0/Makefile -text
 i386/boot0/boot0.s -text
+i386/boot0/boot0md.s -text
 i386/boot0/chain0.s -text
 i386/boot1/Makefile -text
-i386/boot1/boot1.s -text
 i386/boot1/boot1f32-install.sh -text
 i386/boot1/boot1f32.s -text
+i386/boot1/boot1h.s -text
 i386/boot1/boot1he.s -text
 i386/boot1/boot1hp.s -text
 i386/boot2/Makefile -text
