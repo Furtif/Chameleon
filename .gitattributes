@@ -1300,6 +1300,11 @@ package/Resources/es.lproj/Description.html -text
 package/Resources/es.lproj/License.rtf -text
 package/Resources/es.lproj/Localizable.strings -text svneol=unset#unset
 package/Resources/es.lproj/Welcome.rtfd/TXT.rtf -text
+package/Resources/fr.lproj/Conclusion.rtfd/TXT.rtf -text
+package/Resources/fr.lproj/Description.html -text
+package/Resources/fr.lproj/License.rtf -text
+package/Resources/fr.lproj/Localizable.strings -text svneol=unset#unset
+package/Resources/fr.lproj/Welcome.rtfd/TXT.rtf -text
 package/Resources/hr-HR.lproj/Conclusion.rtfd/TXT.rtf -text
 package/Resources/hr-HR.lproj/Description.html -text
 package/Resources/hr-HR.lproj/License.rtf -text
@@ -1365,6 +1370,7 @@ package/Scripts/BaseOptions/InstantMenu/postinstall -text
 package/Scripts/BaseOptions/RestartFix/postinstall -text
 package/Scripts/BaseOptions/arch/postinstall -text
 package/Scripts/EFI/postinstall -text
+package/Scripts/Keymaps/postinstall.in -text
 package/Scripts/Post/postinstall -text
 package/Scripts/Resolutions/1024x600x32/postinstall -text
 package/Scripts/Resolutions/1024x768x32/postinstall -text
