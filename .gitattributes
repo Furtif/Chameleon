@@ -137,7 +137,6 @@ doc/archive/Users_Guide0.4.pdf -text
 doc/archive/Users_Guide_v0.3.pdf -text
 doc/themeinfo.png -text
 i386/Cconfig -text
-i386/MakePaths.dir -text
 i386/Makefile -text
 i386/boot0/Cconfig -text
 i386/boot0/Makefile -text
@@ -894,6 +893,8 @@ i386/libsaio/disk.h -text
 i386/libsaio/dram_controllers.c -text
 i386/libsaio/dram_controllers.h -text
 i386/libsaio/efi.h -text
+i386/libsaio/exfat.c -text
+i386/libsaio/exfat.h -text
 i386/libsaio/ext2fs.c -text
 i386/libsaio/ext2fs.h -text
 i386/libsaio/fake_efi.c -text
@@ -947,6 +948,7 @@ i386/libsaio/spd.h -text
 i386/libsaio/stringTable.c -text
 i386/libsaio/sys.c -text
 i386/libsaio/table.c -text
+i386/libsaio/term.h -text
 i386/libsaio/ufs.h -text
 i386/libsaio/ufs_byteorder.h -text
 i386/libsaio/usb.c -text
@@ -958,6 +960,20 @@ i386/modules/Cconfig -text
 i386/modules/HelloWorld/Cconfig -text
 i386/modules/HelloWorld/HelloWorld.cpp -text
 i386/modules/HelloWorld/Makefile -text
+i386/modules/Keylayout/Cconfig -text
+i386/modules/Keylayout/Keylayout.c -text
+i386/modules/Keylayout/Keylayout.h -text
+i386/modules/Keylayout/Makefile -text
+i386/modules/Keylayout/Readme.txt -text
+i386/modules/Keylayout/layouts/Makefile -text
+i386/modules/Keylayout/layouts/cham-mklayout.c -text
+i386/modules/Keylayout/layouts/layouts-src/README -text
+i386/modules/Keylayout/layouts/layouts-src/mac-de.slt -text
+i386/modules/Keylayout/layouts/layouts-src/mac-es.slt -text
+i386/modules/Keylayout/layouts/layouts-src/mac-fr.slt -text
+i386/modules/Keylayout/layouts/layouts-src/mac-it.slt -text
+i386/modules/Keylayout/layouts/layouts-src/mac-se.slt -text
+i386/modules/Keylayout/layouts/layouts-src/pc-fr.slt -text
 i386/modules/MakeInc.dir -text
 i386/modules/Makefile -text
 i386/modules/Modules.txt -text
@@ -1366,6 +1382,7 @@ package/Scripts/BaseOptions/RestartFix/postinstall -text
 package/Scripts/BaseOptions/SkipFTFix/postinstall -text
 package/Scripts/BaseOptions/arch/postinstall -text
 package/Scripts/EFI/postinstall -text
+package/Scripts/Keymaps/postinstall.in -text
 package/Scripts/Post/postinstall -text
 package/Scripts/Resolutions/1024x600x32/postinstall -text
 package/Scripts/Resolutions/1024x768x32/postinstall -text
@@ -1382,9 +1399,6 @@ package/builddmg.sh -text
 package/buildpkg.sh -text
 package/dmg/SLAResources -text
 package/dmg/ro.dmg -text
-package/doc/BootHelp.txt -text
-package/doc/README -text
-package/doc/Users_Guide0.5.pdf -text
 package/slimpkg.sh -text
 package/smbios.plist -text
 /version -text
