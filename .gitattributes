@@ -44,16 +44,16 @@ artwork/themes/bullet/text_scroll_prev.png -text svneol=unset#image/png
 artwork/themes/bullet/theme.plist -text
 artwork/themes/default/background.png -text svneol=unset#image/png
 artwork/themes/default/boot.png -text svneol=unset#image/png
-artwork/themes/default/device_befs.png -text
-artwork/themes/default/device_befs_o.png -text
+artwork/themes/default/device_befs.png -text svneol=unset#image/png
+artwork/themes/default/device_befs_o.png -text svneol=unset#image/png
 artwork/themes/default/device_cdrom.png -text svneol=unset#image/png
 artwork/themes/default/device_cdrom_o.png -text svneol=unset#image/png
 artwork/themes/default/device_ext3.png -text svneol=unset#image/png
 artwork/themes/default/device_ext3_o.png -text svneol=unset#image/png
 artwork/themes/default/device_fat.png -text svneol=unset#image/png
 artwork/themes/default/device_fat_o.png -text svneol=unset#image/png
-artwork/themes/default/device_freebsd.png -text
-artwork/themes/default/device_freebsd_o.png -text
+artwork/themes/default/device_freebsd.png -text svneol=unset#image/png
+artwork/themes/default/device_freebsd_o.png -text svneol=unset#image/png
 artwork/themes/default/device_generic.png -text svneol=unset#image/png
 artwork/themes/default/device_generic_o.png -text svneol=unset#image/png
 artwork/themes/default/device_hfsplus.png -text svneol=unset#image/png
@@ -62,8 +62,8 @@ artwork/themes/default/device_hfsraid.png -text svneol=unset#image/png
 artwork/themes/default/device_hfsraid_o.png -text svneol=unset#image/png
 artwork/themes/default/device_ntfs.png -text svneol=unset#image/png
 artwork/themes/default/device_ntfs_o.png -text svneol=unset#image/png
-artwork/themes/default/device_openbsd.png -text
-artwork/themes/default/device_openbsd_o.png -text
+artwork/themes/default/device_openbsd.png -text svneol=unset#image/png
+artwork/themes/default/device_openbsd_o.png -text svneol=unset#image/png
 artwork/themes/default/device_scroll_next.png -text svneol=unset#image/png
 artwork/themes/default/device_scroll_prev.png -text svneol=unset#image/png
 artwork/themes/default/device_selection.png -text svneol=unset#image/png
@@ -168,7 +168,6 @@ doc/archive/Users_Guide0.4.pdf -text svneol=unset#unset
 doc/archive/Users_Guide_v0.3.pdf -text svneol=unset#unset
 doc/themeinfo.png -text svneol=unset#image/png
 i386/Cconfig -text
-i386/MakePaths.dir -text
 i386/Makefile -text
 i386/boot0/Cconfig -text
 i386/boot0/Makefile -text
@@ -978,6 +977,7 @@ i386/libsaio/spd.h -text
 i386/libsaio/stringTable.c -text
 i386/libsaio/sys.c -text
 i386/libsaio/table.c -text
+i386/libsaio/term.h -text
 i386/libsaio/ufs.h -text
 i386/libsaio/ufs_byteorder.h -text
 i386/libsaio/usb.c -text
@@ -989,6 +989,20 @@ i386/modules/Cconfig -text
 i386/modules/HelloWorld/Cconfig -text
 i386/modules/HelloWorld/HelloWorld.cpp -text
 i386/modules/HelloWorld/Makefile -text
+i386/modules/Keylayout/Cconfig -text
+i386/modules/Keylayout/Keylayout.c -text
+i386/modules/Keylayout/Keylayout.h -text
+i386/modules/Keylayout/Makefile -text
+i386/modules/Keylayout/Readme.txt -text
+i386/modules/Keylayout/layouts/Makefile -text
+i386/modules/Keylayout/layouts/cham-mklayout.c -text
+i386/modules/Keylayout/layouts/layouts-src/README -text
+i386/modules/Keylayout/layouts/layouts-src/mac-de.slt -text
+i386/modules/Keylayout/layouts/layouts-src/mac-es.slt -text
+i386/modules/Keylayout/layouts/layouts-src/mac-fr.slt -text
+i386/modules/Keylayout/layouts/layouts-src/mac-it.slt -text
+i386/modules/Keylayout/layouts/layouts-src/mac-se.slt -text
+i386/modules/Keylayout/layouts/layouts-src/pc-fr.slt -text
 i386/modules/MakeInc.dir -text
 i386/modules/Makefile -text
 i386/modules/Modules.txt -text
@@ -1217,109 +1231,114 @@ i386/util/fdisk/util.h -text
 i386/util/machOconv.c -text
 i386/util/openUp.c -text
 package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Info.plist -text
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/MacOS/Chameleon -text
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/CDROM.png -text
+package/Configuration/PrefPanel/Chameleon.prefPane/Contents/MacOS/Chameleon -text svneol=unset#unset
+package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/CDROM.png -text svneol=unset#image/png
 package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/CHANGES -text
 package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/CREDITS -text
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/Chameleon.icns -text
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/Chameleon.tiff -text
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/English.lproj/Chameleon.nib -text
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/English.lproj/Chameleon.strings -text
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/English.lproj/InfoPlist.strings -text
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/English.lproj/Localizable.strings -text
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/French.lproj/Chameleon.nib -text
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/French.lproj/Chameleon.strings -text
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/French.lproj/Localizable.strings -text
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/German.lproj/Chameleon.nib -text
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/German.lproj/Chameleon.strings -text
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/German.lproj/Localizable.strings -text
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/Italian.lproj/Chameleon.nib -text
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/Italian.lproj/Chameleon.strings -text
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/Italian.lproj/Localizable.strings -text
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/Linux.png -text
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/MacOSX.png -text
+package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/Chameleon.icns -text svneol=unset#image/icns
+package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/Chameleon.tiff -text svneol=unset#image/tiff
+package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/English.lproj/Chameleon.nib -text svneol=unset#unset
+package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/English.lproj/Chameleon.strings -text svneol=unset#unset
+package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/English.lproj/InfoPlist.strings -text svneol=unset#unset
+package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/English.lproj/Localizable.strings -text svneol=unset#unset
+package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/French.lproj/Chameleon.nib -text svneol=unset#unset
+package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/French.lproj/Chameleon.strings -text svneol=unset#unset
+package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/French.lproj/Localizable.strings -text svneol=unset#unset
+package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/German.lproj/Chameleon.nib -text svneol=unset#unset
+package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/German.lproj/Chameleon.strings -text svneol=unset#unset
+package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/German.lproj/Localizable.strings -text svneol=unset#unset
+package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/Italian.lproj/Chameleon.nib -text svneol=unset#unset
+package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/Italian.lproj/Chameleon.strings -text svneol=unset#unset
+package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/Italian.lproj/Localizable.strings -text svneol=unset#unset
+package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/Linux.png -text svneol=unset#image/png
+package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/MacOSX.png -text svneol=unset#image/png
 package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/README -text
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/Spanish.lproj/Chameleon.nib -text
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/Spanish.lproj/Chameleon.strings -text
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/Spanish.lproj/Localizable.strings -text
+package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/Spanish.lproj/Chameleon.nib -text svneol=unset#unset
+package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/Spanish.lproj/Chameleon.strings -text svneol=unset#unset
+package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/Spanish.lproj/Localizable.strings -text svneol=unset#unset
 package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/TODO -text
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/Windows.png -text
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/advanced.png -text
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/background.png -text
+package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/Windows.png -text svneol=unset#image/png
+package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/advanced.png -text svneol=unset#image/png
+package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/background.png -text svneol=unset#image/png
 package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/cdBootCreator.sh -text
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/cham.png -text
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/chamsmall.png -text
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/chip.png -text
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/disk.png -text
+package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/cham.png -text svneol=unset#image/png
+package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/chamsmall.png -text svneol=unset#image/png
+package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/chip.png -text svneol=unset#image/png
+package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/disk.png -text svneol=unset#image/png
 package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/extractAcpi.sh -text
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/flag.png -text
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/footer.png -text
+package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/flag.png -text svneol=unset#image/png
+package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/footer.png -text svneol=unset#image/png
 package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/getDevProp.sh -text
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/gfxutil -text
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/name.png -text
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/plug.png -text
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/syringe.png -text
+package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/gfxutil -text svneol=unset#unset
+package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/name.png -text svneol=unset#image/png
+package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/plug.png -text svneol=unset#image/png
+package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/syringe.png -text svneol=unset#image/png
 package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/version -text
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/wrench.png -text
+package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/wrench.png -text svneol=unset#image/png
 package/Configuration/SMBIOSDefault/smbios.plist -text
 package/Distribution -text
-package/Icons/Icon.zip -text
-package/Icons/dmg.zip -text
-package/Icons/doc.zip -text
-package/Icons/i386.zip -text
-package/Icons/pan.zip -text
-package/Icons/pkg.zip -text
-package/Icons/tm.zip -text
-package/Resources/background.tiff -text
+package/Icons/Icon.zip -text svneol=unset#unset
+package/Icons/dmg.zip -text svneol=unset#unset
+package/Icons/doc.zip -text svneol=unset#unset
+package/Icons/i386.zip -text svneol=unset#unset
+package/Icons/pan.zip -text svneol=unset#unset
+package/Icons/pkg.zip -text svneol=unset#unset
+package/Icons/tm.zip -text svneol=unset#unset
+package/Resources/background.tiff -text svneol=unset#image/tiff
 package/Resources/de.lproj/Conclusion.rtfd/TXT.rtf -text
 package/Resources/de.lproj/Description.html -text
 package/Resources/de.lproj/License.rtf -text
-package/Resources/de.lproj/Localizable.strings -text
+package/Resources/de.lproj/Localizable.strings -text svneol=unset#unset
 package/Resources/de.lproj/Welcome.rtfd/TXT.rtf -text
 package/Resources/en.lproj/Conclusion.rtfd/TXT.rtf -text
 package/Resources/en.lproj/Description.html -text
 package/Resources/en.lproj/License.rtf -text
-package/Resources/en.lproj/Localizable.strings -text
+package/Resources/en.lproj/Localizable.strings -text svneol=unset#unset
 package/Resources/en.lproj/Welcome.rtfd/TXT.rtf -text
 package/Resources/es.lproj/Conclusion.rtfd/TXT.rtf -text
 package/Resources/es.lproj/Description.html -text
 package/Resources/es.lproj/License.rtf -text
-package/Resources/es.lproj/Localizable.strings -text
+package/Resources/es.lproj/Localizable.strings -text svneol=unset#unset
 package/Resources/es.lproj/Welcome.rtfd/TXT.rtf -text
+package/Resources/fr.lproj/Conclusion.rtfd/TXT.rtf -text
+package/Resources/fr.lproj/Description.html -text
+package/Resources/fr.lproj/License.rtf -text
+package/Resources/fr.lproj/Localizable.strings -text svneol=unset#unset
+package/Resources/fr.lproj/Welcome.rtfd/TXT.rtf -text
 package/Resources/hr-HR.lproj/Conclusion.rtfd/TXT.rtf -text
 package/Resources/hr-HR.lproj/Description.html -text
 package/Resources/hr-HR.lproj/License.rtf -text
-package/Resources/hr-HR.lproj/Localizable.strings -text
+package/Resources/hr-HR.lproj/Localizable.strings -text svneol=unset#unset
 package/Resources/hr-HR.lproj/Welcome.rtfd/TXT.rtf -text
 package/Resources/id.lproj/Conclusion.rtfd/TXT.rtf -text
 package/Resources/id.lproj/Description.html -text
 package/Resources/id.lproj/License.rtf -text
-package/Resources/id.lproj/Localizable.strings -text
+package/Resources/id.lproj/Localizable.strings -text svneol=unset#unset
 package/Resources/id.lproj/Welcome.rtfd/TXT.rtf -text
 package/Resources/it.lproj/Conclusion.rtfd/TXT.rtf -text
 package/Resources/it.lproj/Description.html -text
 package/Resources/it.lproj/License.rtf -text
-package/Resources/it.lproj/Localizable.strings -text
+package/Resources/it.lproj/Localizable.strings -text svneol=unset#unset
 package/Resources/it.lproj/Welcome.rtfd/TXT.rtf -text
 package/Resources/pl.lproj/Conclusion.rtfd/TXT.rtf -text
 package/Resources/pl.lproj/Description.html -text
 package/Resources/pl.lproj/License.rtf -text
-package/Resources/pl.lproj/Localizable.strings -text
+package/Resources/pl.lproj/Localizable.strings -text svneol=unset#unset
 package/Resources/pl.lproj/Welcome.rtfd/TXT.rtf -text
 package/Resources/pt-BR.lproj/Conclusion.rtfd/TXT.rtf -text
 package/Resources/pt-BR.lproj/Description.html -text
 package/Resources/pt-BR.lproj/License.rtf -text
-package/Resources/pt-BR.lproj/Localizable.strings -text
+package/Resources/pt-BR.lproj/Localizable.strings -text svneol=unset#unset
 package/Resources/pt-BR.lproj/Welcome.rtfd/TXT.rtf -text
 package/Resources/pt-PT.lproj/Conclusion.rtfd/TXT.rtf -text
 package/Resources/pt-PT.lproj/Description.html -text
 package/Resources/pt-PT.lproj/License.rtf -text
-package/Resources/pt-PT.lproj/Localizable.strings -text
+package/Resources/pt-PT.lproj/Localizable.strings -text svneol=unset#unset
 package/Resources/pt-PT.lproj/Welcome.rtfd/TXT.rtf -text
 package/Resources/sr.lproj/Conclusion.rtfd/TXT.rtf -text
 package/Resources/sr.lproj/Description.html -text
 package/Resources/sr.lproj/License.rtf -text
-package/Resources/sr.lproj/Localizable.strings -text
+package/Resources/sr.lproj/Localizable.strings -text svneol=unset#unset
 package/Resources/sr.lproj/Welcome.rtfd/TXT.rtf -text
 package/Scripts/Advanced/BootBanner/postinstall -text
 package/Scripts/Advanced/EHCIacquire/postinstall -text
@@ -1351,6 +1370,7 @@ package/Scripts/BaseOptions/InstantMenu/postinstall -text
 package/Scripts/BaseOptions/RestartFix/postinstall -text
 package/Scripts/BaseOptions/arch/postinstall -text
 package/Scripts/EFI/postinstall -text
+package/Scripts/Keymaps/postinstall.in -text
 package/Scripts/Post/postinstall -text
 package/Scripts/Resolutions/1024x600x32/postinstall -text
 package/Scripts/Resolutions/1024x768x32/postinstall -text
@@ -1366,7 +1386,7 @@ package/Scripts/Standard/postinstall -text
 package/builddmg.sh -text
 package/buildpkg.sh -text
 package/dmg/SLAResources -text
-package/dmg/ro.dmg -text
+package/dmg/ro.dmg -text svneol=unset#unset
 package/slimpkg.sh -text
 package/smbios.plist -text
 /version -text

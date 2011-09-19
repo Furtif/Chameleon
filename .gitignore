@@ -11,3 +11,4 @@ i386/modules/module_includes
 /obj
 /revision
 /sym
+/vers.h
