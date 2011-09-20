@@ -3682,6 +3682,7 @@ trunkAutoResolution/i386/libsaio/spd.h -text
 trunkAutoResolution/i386/libsaio/stringTable.c -text
 trunkAutoResolution/i386/libsaio/sys.c -text
 trunkAutoResolution/i386/libsaio/table.c -text
+trunkAutoResolution/i386/libsaio/term.h -text
 trunkAutoResolution/i386/libsaio/ufs.h -text
 trunkAutoResolution/i386/libsaio/ufs_byteorder.h -text
 trunkAutoResolution/i386/libsaio/usb.c -text
@@ -3693,6 +3694,20 @@ trunkAutoResolution/i386/modules/Cconfig -text
 trunkAutoResolution/i386/modules/HelloWorld/Cconfig -text
 trunkAutoResolution/i386/modules/HelloWorld/HelloWorld.cpp -text
 trunkAutoResolution/i386/modules/HelloWorld/Makefile -text
+trunkAutoResolution/i386/modules/Keylayout/Cconfig -text
+trunkAutoResolution/i386/modules/Keylayout/Keylayout.c -text
+trunkAutoResolution/i386/modules/Keylayout/Keylayout.h -text
+trunkAutoResolution/i386/modules/Keylayout/Makefile -text
+trunkAutoResolution/i386/modules/Keylayout/Readme.txt -text
+trunkAutoResolution/i386/modules/Keylayout/layouts/Makefile -text
+trunkAutoResolution/i386/modules/Keylayout/layouts/cham-mklayout.c -text
+trunkAutoResolution/i386/modules/Keylayout/layouts/layouts-src/README -text
+trunkAutoResolution/i386/modules/Keylayout/layouts/layouts-src/mac-de.slt -text
+trunkAutoResolution/i386/modules/Keylayout/layouts/layouts-src/mac-es.slt -text
+trunkAutoResolution/i386/modules/Keylayout/layouts/layouts-src/mac-fr.slt -text
+trunkAutoResolution/i386/modules/Keylayout/layouts/layouts-src/mac-it.slt -text
+trunkAutoResolution/i386/modules/Keylayout/layouts/layouts-src/mac-se.slt -text
+trunkAutoResolution/i386/modules/Keylayout/layouts/layouts-src/pc-fr.slt -text
 trunkAutoResolution/i386/modules/MakeInc.dir -text
 trunkAutoResolution/i386/modules/Makefile -text
 trunkAutoResolution/i386/modules/Modules.txt -text
@@ -3981,6 +3996,11 @@ trunkAutoResolution/package/Resources/es.lproj/Description.html -text
 trunkAutoResolution/package/Resources/es.lproj/License.rtf -text
 trunkAutoResolution/package/Resources/es.lproj/Localizable.strings -text svneol=unset#unset
 trunkAutoResolution/package/Resources/es.lproj/Welcome.rtfd/TXT.rtf -text
+trunkAutoResolution/package/Resources/fr.lproj/Conclusion.rtfd/TXT.rtf -text
+trunkAutoResolution/package/Resources/fr.lproj/Description.html -text
+trunkAutoResolution/package/Resources/fr.lproj/License.rtf -text
+trunkAutoResolution/package/Resources/fr.lproj/Localizable.strings -text svneol=unset#unset
+trunkAutoResolution/package/Resources/fr.lproj/Welcome.rtfd/TXT.rtf -text
 trunkAutoResolution/package/Resources/hr-HR.lproj/Conclusion.rtfd/TXT.rtf -text
 trunkAutoResolution/package/Resources/hr-HR.lproj/Description.html -text
 trunkAutoResolution/package/Resources/hr-HR.lproj/License.rtf -text
@@ -4046,6 +4066,7 @@ trunkAutoResolution/package/Scripts/BaseOptions/InstantMenu/postinstall -text
 trunkAutoResolution/package/Scripts/BaseOptions/RestartFix/postinstall -text
 trunkAutoResolution/package/Scripts/BaseOptions/arch/postinstall -text
 trunkAutoResolution/package/Scripts/EFI/postinstall -text
+trunkAutoResolution/package/Scripts/Keymaps/postinstall.in -text
 trunkAutoResolution/package/Scripts/Post/postinstall -text
 trunkAutoResolution/package/Scripts/Resolutions/1024x600x32/postinstall -text
 trunkAutoResolution/package/Scripts/Resolutions/1024x768x32/postinstall -text
@@ -5038,6 +5059,7 @@ trunkGraphicsEnablerModules/i386/libsaio/spd.h -text
 trunkGraphicsEnablerModules/i386/libsaio/stringTable.c -text
 trunkGraphicsEnablerModules/i386/libsaio/sys.c -text
 trunkGraphicsEnablerModules/i386/libsaio/table.c -text
+trunkGraphicsEnablerModules/i386/libsaio/term.h -text
 trunkGraphicsEnablerModules/i386/libsaio/ufs.h -text
 trunkGraphicsEnablerModules/i386/libsaio/ufs_byteorder.h -text
 trunkGraphicsEnablerModules/i386/libsaio/usb.c -text
@@ -5068,6 +5090,20 @@ trunkGraphicsEnablerModules/i386/modules/IntelGraphicsEnabler/Makefile -text
 trunkGraphicsEnablerModules/i386/modules/IntelGraphicsEnabler/Readme.txt -text
 trunkGraphicsEnablerModules/i386/modules/IntelGraphicsEnabler/gma.c -text
 trunkGraphicsEnablerModules/i386/modules/IntelGraphicsEnabler/gma.h -text
+trunkGraphicsEnablerModules/i386/modules/Keylayout/Cconfig -text
+trunkGraphicsEnablerModules/i386/modules/Keylayout/Keylayout.c -text
+trunkGraphicsEnablerModules/i386/modules/Keylayout/Keylayout.h -text
+trunkGraphicsEnablerModules/i386/modules/Keylayout/Makefile -text
+trunkGraphicsEnablerModules/i386/modules/Keylayout/Readme.txt -text
+trunkGraphicsEnablerModules/i386/modules/Keylayout/layouts/Makefile -text
+trunkGraphicsEnablerModules/i386/modules/Keylayout/layouts/cham-mklayout.c -text
+trunkGraphicsEnablerModules/i386/modules/Keylayout/layouts/layouts-src/README -text
+trunkGraphicsEnablerModules/i386/modules/Keylayout/layouts/layouts-src/mac-de.slt -text
+trunkGraphicsEnablerModules/i386/modules/Keylayout/layouts/layouts-src/mac-es.slt -text
+trunkGraphicsEnablerModules/i386/modules/Keylayout/layouts/layouts-src/mac-fr.slt -text
+trunkGraphicsEnablerModules/i386/modules/Keylayout/layouts/layouts-src/mac-it.slt -text
+trunkGraphicsEnablerModules/i386/modules/Keylayout/layouts/layouts-src/mac-se.slt -text
+trunkGraphicsEnablerModules/i386/modules/Keylayout/layouts/layouts-src/pc-fr.slt -text
 trunkGraphicsEnablerModules/i386/modules/MakeInc.dir -text
 trunkGraphicsEnablerModules/i386/modules/Makefile -text
 trunkGraphicsEnablerModules/i386/modules/Modules.txt -text
@@ -5371,6 +5407,11 @@ trunkGraphicsEnablerModules/package/Resources/es.lproj/Description.html -text
 trunkGraphicsEnablerModules/package/Resources/es.lproj/License.rtf -text
 trunkGraphicsEnablerModules/package/Resources/es.lproj/Localizable.strings -text svneol=unset#unset
 trunkGraphicsEnablerModules/package/Resources/es.lproj/Welcome.rtfd/TXT.rtf -text
+trunkGraphicsEnablerModules/package/Resources/fr.lproj/Conclusion.rtfd/TXT.rtf -text
+trunkGraphicsEnablerModules/package/Resources/fr.lproj/Description.html -text
+trunkGraphicsEnablerModules/package/Resources/fr.lproj/License.rtf -text
+trunkGraphicsEnablerModules/package/Resources/fr.lproj/Localizable.strings -text svneol=unset#unset
+trunkGraphicsEnablerModules/package/Resources/fr.lproj/Welcome.rtfd/TXT.rtf -text
 trunkGraphicsEnablerModules/package/Resources/hr-HR.lproj/Conclusion.rtfd/TXT.rtf -text
 trunkGraphicsEnablerModules/package/Resources/hr-HR.lproj/Description.html -text
 trunkGraphicsEnablerModules/package/Resources/hr-HR.lproj/License.rtf -text
@@ -5436,6 +5477,7 @@ trunkGraphicsEnablerModules/package/Scripts/BaseOptions/InstantMenu/postinstall 
 trunkGraphicsEnablerModules/package/Scripts/BaseOptions/RestartFix/postinstall -text
 trunkGraphicsEnablerModules/package/Scripts/BaseOptions/arch/postinstall -text
 trunkGraphicsEnablerModules/package/Scripts/EFI/postinstall -text
+trunkGraphicsEnablerModules/package/Scripts/Keymaps/postinstall.in -text
 trunkGraphicsEnablerModules/package/Scripts/Post/postinstall -text
 trunkGraphicsEnablerModules/package/Scripts/Resolutions/1024x600x32/postinstall -text
 trunkGraphicsEnablerModules/package/Scripts/Resolutions/1024x768x32/postinstall -text
