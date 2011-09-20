@@ -1377,6 +1377,7 @@ package/Scripts/Install/CheckGRUBLinuxLoader.sh -text
 package/Scripts/Install/CheckPartitionScheme.sh -text
 package/Scripts/Install/CheckProceed.sh -text
 package/Scripts/Install/CheckWindowsDiskSignature.sh -text
+package/Scripts/Install/InstallLog.sh -text
 package/Scripts/Install/SetActivePartition.sh -text
 package/Scripts/Install/UnMountEFIvolumes.sh -text
 package/Scripts/Install/WriteChameleonStage0.sh -text
