@@ -2302,6 +2302,7 @@ Package/i386/libsaio/spd.h -text
 Package/i386/libsaio/stringTable.c -text
 Package/i386/libsaio/sys.c -text
 Package/i386/libsaio/table.c -text
+Package/i386/libsaio/term.h -text
 Package/i386/libsaio/ufs.h -text
 Package/i386/libsaio/ufs_byteorder.h -text
 Package/i386/libsaio/usb.c -text
@@ -2313,6 +2314,20 @@ Package/i386/modules/Cconfig -text
 Package/i386/modules/HelloWorld/Cconfig -text
 Package/i386/modules/HelloWorld/HelloWorld.cpp -text
 Package/i386/modules/HelloWorld/Makefile -text
+Package/i386/modules/Keylayout/Cconfig -text
+Package/i386/modules/Keylayout/Keylayout.c -text
+Package/i386/modules/Keylayout/Keylayout.h -text
+Package/i386/modules/Keylayout/Makefile -text
+Package/i386/modules/Keylayout/Readme.txt -text
+Package/i386/modules/Keylayout/layouts/Makefile -text
+Package/i386/modules/Keylayout/layouts/cham-mklayout.c -text
+Package/i386/modules/Keylayout/layouts/layouts-src/README -text
+Package/i386/modules/Keylayout/layouts/layouts-src/mac-de.slt -text
+Package/i386/modules/Keylayout/layouts/layouts-src/mac-es.slt -text
+Package/i386/modules/Keylayout/layouts/layouts-src/mac-fr.slt -text
+Package/i386/modules/Keylayout/layouts/layouts-src/mac-it.slt -text
+Package/i386/modules/Keylayout/layouts/layouts-src/mac-se.slt -text
+Package/i386/modules/Keylayout/layouts/layouts-src/pc-fr.slt -text
 Package/i386/modules/MakeInc.dir -text
 Package/i386/modules/Makefile -text
 Package/i386/modules/Modules.txt -text
@@ -2610,6 +2625,11 @@ Package/package/Resources/es.lproj/Description.html -text
 Package/package/Resources/es.lproj/License.rtf -text
 Package/package/Resources/es.lproj/Localizable.strings -text svneol=unset#unset
 Package/package/Resources/es.lproj/Welcome.rtfd/TXT.rtf -text
+Package/package/Resources/fr.lproj/Conclusion.rtfd/TXT.rtf -text
+Package/package/Resources/fr.lproj/Description.html -text
+Package/package/Resources/fr.lproj/License.rtf -text
+Package/package/Resources/fr.lproj/Localizable.strings -text svneol=unset#unset
+Package/package/Resources/fr.lproj/Welcome.rtfd/TXT.rtf -text
 Package/package/Resources/hr-HR.lproj/Conclusion.rtfd/TXT.rtf -text
 Package/package/Resources/hr-HR.lproj/Description.html -text
 Package/package/Resources/hr-HR.lproj/License.rtf -text
@@ -2675,6 +2695,7 @@ Package/package/Scripts/BaseOptions/InstantMenu/postinstall -text
 Package/package/Scripts/BaseOptions/RestartFix/postinstall -text
 Package/package/Scripts/BaseOptions/arch/postinstall -text
 Package/package/Scripts/EFI/postinstall -text
+Package/package/Scripts/Keymaps/postinstall.in -text
 Package/package/Scripts/Post/postinstall -text
 Package/package/Scripts/Resolutions/1024x600x32/postinstall -text
 Package/package/Scripts/Resolutions/1024x768x32/postinstall -text
