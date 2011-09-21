@@ -1380,6 +1380,7 @@ package/Scripts/Post/postinstall -text
 package/Scripts/Resolutions/1024x600x32/postinstall -text
 package/Scripts/Resolutions/1024x768x32/postinstall -text
 package/Scripts/Resolutions/1280x1024x32/postinstall -text
+package/Scripts/Resolutions/1280x768x32/postinstall -text
 package/Scripts/Resolutions/1280x800x32/postinstall -text
 package/Scripts/Resolutions/1280x960x32/postinstall -text
 package/Scripts/Resolutions/1440x900x32/postinstall -text
