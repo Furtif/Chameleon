@@ -1306,6 +1306,11 @@ package/Resources/id.lproj/Description.html -text
 package/Resources/id.lproj/License.rtf -text
 package/Resources/id.lproj/Localizable.strings -text
 package/Resources/id.lproj/Welcome.rtfd/TXT.rtf -text
+package/Resources/it.lproj/Conclusion.rtfd/TXT.rtf -text
+package/Resources/it.lproj/Description.html -text
+package/Resources/it.lproj/License.rtf -text
+package/Resources/it.lproj/Localizable.strings -text
+package/Resources/it.lproj/Welcome.rtfd/TXT.rtf -text
 package/Resources/mk.lproj/Conclusion.rtfd/TXT.rtf -text
 package/Resources/mk.lproj/Description.html -text
 package/Resources/mk.lproj/License.rtf -text
