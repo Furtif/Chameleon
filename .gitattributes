@@ -1305,11 +1305,11 @@ package/Resources/fr.lproj/Description.html -text
 package/Resources/fr.lproj/License.rtf -text
 package/Resources/fr.lproj/Localizable.strings -text svneol=unset#unset
 package/Resources/fr.lproj/Welcome.rtfd/TXT.rtf -text
-package/Resources/hr-HR.lproj/Conclusion.rtfd/TXT.rtf -text
-package/Resources/hr-HR.lproj/Description.html -text
-package/Resources/hr-HR.lproj/License.rtf -text
-package/Resources/hr-HR.lproj/Localizable.strings -text svneol=unset#unset
-package/Resources/hr-HR.lproj/Welcome.rtfd/TXT.rtf -text
+package/Resources/hr.lproj/Conclusion.rtfd/TXT.rtf -text
+package/Resources/hr.lproj/Description.html -text
+package/Resources/hr.lproj/License.rtf -text
+package/Resources/hr.lproj/Localizable.strings -text
+package/Resources/hr.lproj/Welcome.rtfd/TXT.rtf -text
 package/Resources/id.lproj/Conclusion.rtfd/TXT.rtf -text
 package/Resources/id.lproj/Description.html -text
 package/Resources/id.lproj/License.rtf -text
@@ -1345,6 +1345,16 @@ package/Resources/sr.lproj/Description.html -text
 package/Resources/sr.lproj/License.rtf -text
 package/Resources/sr.lproj/Localizable.strings -text svneol=unset#unset
 package/Resources/sr.lproj/Welcome.rtfd/TXT.rtf -text
+package/Resources/zh-CN.lproj/Conclusion.rtfd/TXT.rtf -text
+package/Resources/zh-CN.lproj/Description.html -text
+package/Resources/zh-CN.lproj/License.rtf -text
+package/Resources/zh-CN.lproj/Localizable.strings -text
+package/Resources/zh-CN.lproj/Welcome.rtfd/TXT.rtf -text
+package/Resources/zh-TW.lproj/Conclusion.rtfd/TXT.rtf -text
+package/Resources/zh-TW.lproj/Description.html -text
+package/Resources/zh-TW.lproj/License.rtf -text
+package/Resources/zh-TW.lproj/Localizable.strings -text
+package/Resources/zh-TW.lproj/Welcome.rtfd/TXT.rtf -text
 package/Scripts/Advanced/BootBanner/postinstall -text
 package/Scripts/Advanced/EHCIacquire/postinstall -text
 package/Scripts/Advanced/ForceHPET/postinstall -text
