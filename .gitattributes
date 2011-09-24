@@ -1380,7 +1380,7 @@ package/Scripts/BaseOptions/InstantMenu/postinstall -text
 package/Scripts/BaseOptions/RestartFix/postinstall -text
 package/Scripts/BaseOptions/arch/postinstall -text
 package/Scripts/EFI/postinstall -text
-package/Scripts/Keymaps/postinstall -text
+package/Scripts/Keymaps/postinstall.in -text
 package/Scripts/Post/postinstall -text
 package/Scripts/Resolutions/1024x600x32/postinstall -text
 package/Scripts/Resolutions/1024x768x32/postinstall -text
