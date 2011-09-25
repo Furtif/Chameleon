@@ -1362,6 +1362,7 @@ package/Scripts/Advanced/SMBIOSdefaults/postinstall -text
 package/Scripts/Advanced/ShowInfo/postinstall -text
 package/Scripts/Advanced/UHCIreset/postinstall -text
 package/Scripts/Advanced/UseAtiROM/postinstall -text
+package/Scripts/Advanced/UseKernelCache/postinstall -text
 package/Scripts/Advanced/UseMemDetect/postinstall -text
 package/Scripts/Advanced/UseNvidiaROM/postinstall -text
 package/Scripts/Advanced/VBIOS/postinstall -text
