@@ -1399,7 +1399,6 @@ package/Scripts/Install/UnMountEFIvolumes.sh -text
 package/Scripts/Install/WriteChameleonStage0.sh -text
 package/Scripts/Install/WriteChameleonStage1.sh -text
 package/Scripts/Install/WriteChameleonStage2.sh -text
-package/Scripts/Keymaps/postinstall -text
 package/Scripts/Post/postinstall -text
 package/Scripts/Resolutions/1024x600x32/Graphics[!!-~]Mode=1024x600x32 -text
 package/Scripts/Resolutions/1024x768x32/Graphics[!!-~]Mode=1024x768x32 -text
