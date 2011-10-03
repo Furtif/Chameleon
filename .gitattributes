@@ -370,8 +370,11 @@ i386/modules/KextPatcher/zconf.h -text
 i386/modules/KextPatcher/zlib.h -text
 i386/modules/KextPatcher/zutil.c -text
 i386/modules/KextPatcher/zutil.h -text
+i386/modules/Keymapper/Keylayout.c -text
+i386/modules/Keymapper/Keylayout.h -text
 i386/modules/Keymapper/Keymapper.c -text
 i386/modules/Keymapper/Makefile -text
+i386/modules/Keymapper/term.h -text
 i386/modules/Makefile -text
 i386/modules/Memory/GPL_V2_LICENSE -text
 i386/modules/Memory/MEMTEST86_LICENSE -text
