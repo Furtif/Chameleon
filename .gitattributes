@@ -257,6 +257,7 @@ i386/libsaio/hfs.h -text
 i386/libsaio/hfs_CaseTables.h -text
 i386/libsaio/hfs_compare.c -text
 i386/libsaio/intel_acpi.h -text
+i386/libsaio/internal_modules.h -text
 i386/libsaio/io_inline.h -text
 i386/libsaio/libsaio.h -text
 i386/libsaio/load.c -text
@@ -313,6 +314,7 @@ i386/modules/ACPIPatcher/aml_generator.c -text
 i386/modules/ACPIPatcher/aml_generator.h -text
 i386/modules/CPUfreq/CPUfreq.c -text
 i386/modules/CPUfreq/Makefile -text
+i386/modules/GUI/GUI_appleboot.h -text
 i386/modules/GUI/GUI_module.c -text
 i386/modules/GUI/Makefile -text
 i386/modules/GUI/graphic_utils.c -text
