@@ -1371,6 +1371,7 @@ package/Resources/zh-TW.lproj/Welcome.rtfd/TXT.rtf -text
 package/Scripts/Main/EFI/postinstall -text
 package/Scripts/Main/Post/postinstall -text
 package/Scripts/Main/Standard/postinstall -text
+package/Scripts/Main/preinstall -text
 package/Scripts/Sub/CheckDiskMicrocode.sh -text
 package/Scripts/Sub/CheckFatType.sh -text
 package/Scripts/Sub/CheckFormat.sh -text
