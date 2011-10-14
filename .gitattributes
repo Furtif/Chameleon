@@ -1311,6 +1311,11 @@ Modules/package/OptionalSettings/KernelFlags.txt -text
 Modules/package/OptionalSettings/PowerManagement.txt -text
 Modules/package/OptionalSettings/Resolution.txt -text
 Modules/package/OptionalSettings/Video.txt -text
+Modules/package/Resources/Japanese.lproj/Conclusion.rtfd/TXT.rtf -text
+Modules/package/Resources/Japanese.lproj/Description.html -text
+Modules/package/Resources/Japanese.lproj/License.rtf -text
+Modules/package/Resources/Japanese.lproj/Localizable.strings -text
+Modules/package/Resources/Japanese.lproj/Welcome.rtfd/TXT.rtf -text
 Modules/package/Resources/ar.lproj/Conclusion.rtfd/TXT.rtf -text
 Modules/package/Resources/ar.lproj/Description.html -text
 Modules/package/Resources/ar.lproj/License.rtf -text
@@ -1415,6 +1420,7 @@ Modules/package/Resources/zh_TW.lproj/Welcome.rtfd/TXT.rtf -text
 Modules/package/Scripts/Main/EFI/postinstall -text
 Modules/package/Scripts/Main/Post/postinstall -text
 Modules/package/Scripts/Main/Standard/postinstall -text
+Modules/package/Scripts/Main/preinstall -text
 Modules/package/Scripts/Sub/CheckDiskMicrocode.sh -text
 Modules/package/Scripts/Sub/CheckFatType.sh -text
 Modules/package/Scripts/Sub/CheckFormat.sh -text
@@ -2728,6 +2734,11 @@ Trunk/package/OptionalSettings/KernelFlags.txt -text
 Trunk/package/OptionalSettings/PowerManagement.txt -text
 Trunk/package/OptionalSettings/Resolution.txt -text
 Trunk/package/OptionalSettings/Video.txt -text
+Trunk/package/Resources/Japanese.lproj/Conclusion.rtfd/TXT.rtf -text
+Trunk/package/Resources/Japanese.lproj/Description.html -text
+Trunk/package/Resources/Japanese.lproj/License.rtf -text
+Trunk/package/Resources/Japanese.lproj/Localizable.strings -text
+Trunk/package/Resources/Japanese.lproj/Welcome.rtfd/TXT.rtf -text
 Trunk/package/Resources/ar.lproj/Conclusion.rtfd/TXT.rtf -text
 Trunk/package/Resources/ar.lproj/Description.html -text
 Trunk/package/Resources/ar.lproj/License.rtf -text
@@ -2832,6 +2843,7 @@ Trunk/package/Resources/zh_TW.lproj/Welcome.rtfd/TXT.rtf -text
 Trunk/package/Scripts/Main/EFI/postinstall -text
 Trunk/package/Scripts/Main/Post/postinstall -text
 Trunk/package/Scripts/Main/Standard/postinstall -text
+Trunk/package/Scripts/Main/preinstall -text
 Trunk/package/Scripts/Sub/CheckDiskMicrocode.sh -text
 Trunk/package/Scripts/Sub/CheckFatType.sh -text
 Trunk/package/Scripts/Sub/CheckFormat.sh -text
