@@ -1377,6 +1377,7 @@ package/Scripts/Sub/CheckFatType.sh -text
 package/Scripts/Sub/CheckFormat.sh -text
 package/Scripts/Sub/CheckGRUBLinuxLoader.sh -text
 package/Scripts/Sub/CheckPartitionScheme.sh -text
+package/Scripts/Sub/CheckPreviousChameleon.sh -text
 package/Scripts/Sub/CheckProceed.sh -text
 package/Scripts/Sub/CheckWindowsDiskSignature.sh -text
 package/Scripts/Sub/InstallLog.sh -text
@@ -1385,6 +1386,7 @@ package/Scripts/Sub/UnMountEFIvolumes.sh -text
 package/Scripts/Sub/WriteChameleonStage0.sh -text
 package/Scripts/Sub/WriteChameleonStage1.sh -text
 package/Scripts/Sub/WriteChameleonStage2.sh -text
+package/Scripts/Sub/patch -text
 package/TO[!!-~]DO.txt -text
 package/builddmg.sh -text
 package/buildpkg.sh -text
