@@ -1426,6 +1426,7 @@ Modules/package/Scripts/Sub/CheckFatType.sh -text
 Modules/package/Scripts/Sub/CheckFormat.sh -text
 Modules/package/Scripts/Sub/CheckGRUBLinuxLoader.sh -text
 Modules/package/Scripts/Sub/CheckPartitionScheme.sh -text
+Modules/package/Scripts/Sub/CheckPreviousChameleon.sh -text
 Modules/package/Scripts/Sub/CheckProceed.sh -text
 Modules/package/Scripts/Sub/CheckWindowsDiskSignature.sh -text
 Modules/package/Scripts/Sub/InstallLog.sh -text
@@ -1434,6 +1435,7 @@ Modules/package/Scripts/Sub/UnMountEFIvolumes.sh -text
 Modules/package/Scripts/Sub/WriteChameleonStage0.sh -text
 Modules/package/Scripts/Sub/WriteChameleonStage1.sh -text
 Modules/package/Scripts/Sub/WriteChameleonStage2.sh -text
+Modules/package/Scripts/Sub/patch -text
 Modules/package/builddmg.sh -text
 Modules/package/buildpkg.sh -text
 Modules/package/dmg/SLAResources -text
@@ -2849,6 +2851,7 @@ Trunk/package/Scripts/Sub/CheckFatType.sh -text
 Trunk/package/Scripts/Sub/CheckFormat.sh -text
 Trunk/package/Scripts/Sub/CheckGRUBLinuxLoader.sh -text
 Trunk/package/Scripts/Sub/CheckPartitionScheme.sh -text
+Trunk/package/Scripts/Sub/CheckPreviousChameleon.sh -text
 Trunk/package/Scripts/Sub/CheckProceed.sh -text
 Trunk/package/Scripts/Sub/CheckWindowsDiskSignature.sh -text
 Trunk/package/Scripts/Sub/InstallLog.sh -text
@@ -2857,6 +2860,7 @@ Trunk/package/Scripts/Sub/UnMountEFIvolumes.sh -text
 Trunk/package/Scripts/Sub/WriteChameleonStage0.sh -text
 Trunk/package/Scripts/Sub/WriteChameleonStage1.sh -text
 Trunk/package/Scripts/Sub/WriteChameleonStage2.sh -text
+Trunk/package/Scripts/Sub/patch -text
 Trunk/package/builddmg.sh -text
 Trunk/package/buildpkg.sh -text
 Trunk/package/dmg/SLAResources -text
