@@ -1384,7 +1384,6 @@ package/Scripts/Main/Standard/postinstall -text
 package/Scripts/Main/preinstall -text
 package/Scripts/Sub/CheckDiskMicrocode.sh -text
 package/Scripts/Sub/CheckFatType.sh -text
-package/Scripts/Sub/CheckFormat.sh -text
 package/Scripts/Sub/CheckGRUBLinuxLoader.sh -text
 package/Scripts/Sub/CheckPartitionScheme.sh -text
 package/Scripts/Sub/CheckPreviousChameleon.sh -text
