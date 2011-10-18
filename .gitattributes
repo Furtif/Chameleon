@@ -1396,7 +1396,6 @@ package/Scripts/Sub/WriteChameleonStage0.sh -text
 package/Scripts/Sub/WriteChameleonStage1.sh -text
 package/Scripts/Sub/WriteChameleonStage2.sh -text
 package/Scripts/Sub/patch -text
-package/TO[!!-~]DO.txt -text
 package/builddmg.sh -text
 package/buildpkg.sh -text
 package/dmg/SLAResources -text
