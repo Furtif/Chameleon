@@ -1390,6 +1390,7 @@ package/Scripts/Sub/CheckPreviousChameleon.sh -text
 package/Scripts/Sub/CheckProceed.sh -text
 package/Scripts/Sub/CheckWindowsDiskSignature.sh -text
 package/Scripts/Sub/InstallLog.sh -text
+package/Scripts/Sub/MountESP.sh -text
 package/Scripts/Sub/SetActivePartition.sh -text
 package/Scripts/Sub/UnMountEFIvolumes.sh -text
 package/Scripts/Sub/WriteChameleonStage0.sh -text
