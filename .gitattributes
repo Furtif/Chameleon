@@ -1378,9 +1378,9 @@ package/Resources/zh_TW.lproj/Description.html -text
 package/Resources/zh_TW.lproj/License.rtf -text
 package/Resources/zh_TW.lproj/Localizable.strings -text
 package/Resources/zh_TW.lproj/Welcome.rtfd/TXT.rtf -text
-package/Scripts/Main/EFI/postinstall -text
-package/Scripts/Main/Post/postinstall -text
-package/Scripts/Main/Standard/postinstall -text
+package/Scripts/Main/ESPpostinstall -text
+package/Scripts/Main/Standardpostinstall -text
+package/Scripts/Main/postinstall -text
 package/Scripts/Main/preinstall -text
 package/Scripts/Sub/CheckDiskMicrocode.sh -text
 package/Scripts/Sub/CheckFatType.sh -text
