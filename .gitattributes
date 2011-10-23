@@ -1371,10 +1371,7 @@ Modules/package/Resources/zh_TW.lproj/Description.html -text
 Modules/package/Resources/zh_TW.lproj/License.rtf -text
 Modules/package/Resources/zh_TW.lproj/Localizable.strings -text
 Modules/package/Resources/zh_TW.lproj/Welcome.rtfd/TXT.rtf -text
-Modules/package/Scripts/Main/EFI/postinstall -text
 Modules/package/Scripts/Main/ESPpostinstall -text
-Modules/package/Scripts/Main/Post/postinstall -text
-Modules/package/Scripts/Main/Standard/postinstall -text
 Modules/package/Scripts/Main/Standardpostinstall -text
 Modules/package/Scripts/Main/postinstall -text
 Modules/package/Scripts/Main/preinstall -text
@@ -2753,10 +2750,7 @@ Trunk/package/Resources/zh_TW.lproj/Description.html -text
 Trunk/package/Resources/zh_TW.lproj/License.rtf -text
 Trunk/package/Resources/zh_TW.lproj/Localizable.strings -text
 Trunk/package/Resources/zh_TW.lproj/Welcome.rtfd/TXT.rtf -text
-Trunk/package/Scripts/Main/EFI/postinstall -text
 Trunk/package/Scripts/Main/ESPpostinstall -text
-Trunk/package/Scripts/Main/Post/postinstall -text
-Trunk/package/Scripts/Main/Standard/postinstall -text
 Trunk/package/Scripts/Main/Standardpostinstall -text
 Trunk/package/Scripts/Main/postinstall -text
 Trunk/package/Scripts/Main/preinstall -text
