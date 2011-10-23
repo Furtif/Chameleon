@@ -211,6 +211,7 @@ i386/libsa/memory.h -text
 i386/libsa/prf.c -text
 i386/libsa/printf.c -text
 i386/libsa/qsort.c -text
+i386/libsa/rand.c -text
 i386/libsa/setjmp.s -text
 i386/libsa/string.c -text
 i386/libsa/strtol.c -text
@@ -323,8 +324,6 @@ i386/modules/GUI/gui.c -text
 i386/modules/GUI/gui.h -text
 i386/modules/GUI/picopng.c -text
 i386/modules/GUI/picopng.h -text
-i386/modules/GUI/rand.c -text
-i386/modules/GUI/rand.h -text
 i386/modules/GraphicsEnabler/GraphicsEnabler.c -text
 i386/modules/GraphicsEnabler/Makefile -text
 i386/modules/GraphicsEnabler/ati.c -text
