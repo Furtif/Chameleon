@@ -1292,12 +1292,32 @@ package/OptionalSettings/KernelFlags.txt -text
 package/OptionalSettings/PowerManagement.txt -text
 package/OptionalSettings/Resolution.txt -text
 package/OptionalSettings/Video.txt -text
+package/Resources/Japanese.lproj/Conclusion.rtfd/TXT.rtf -text
+package/Resources/Japanese.lproj/Description.html -text
+package/Resources/Japanese.lproj/License.rtf -text
+package/Resources/Japanese.lproj/Localizable.strings -text
+package/Resources/Japanese.lproj/Welcome.rtfd/TXT.rtf -text
+package/Resources/ar.lproj/Conclusion.rtfd/TXT.rtf -text
+package/Resources/ar.lproj/Description.html -text
+package/Resources/ar.lproj/License.rtf -text
+package/Resources/ar.lproj/Localizable.strings -text
+package/Resources/ar.lproj/Welcome.rtfd/TXT.rtf -text
 package/Resources/background.tiff -text svneol=unset#image/tiff
+package/Resources/bg.lproj/Conclusion.rtfd/TXT.rtf -text
+package/Resources/bg.lproj/Description.html -text
+package/Resources/bg.lproj/License.rtf -text
+package/Resources/bg.lproj/Localizable.strings -text
+package/Resources/bg.lproj/Welcome.rtfd/TXT.rtf -text
 package/Resources/de.lproj/Conclusion.rtfd/TXT.rtf -text
 package/Resources/de.lproj/Description.html -text
 package/Resources/de.lproj/License.rtf -text
 package/Resources/de.lproj/Localizable.strings -text svneol=unset#unset
 package/Resources/de.lproj/Welcome.rtfd/TXT.rtf -text
+package/Resources/el.lproj/Conclusion.rtfd/TXT.rtf -text
+package/Resources/el.lproj/Description.html -text
+package/Resources/el.lproj/License.rtf -text
+package/Resources/el.lproj/Localizable.strings -text
+package/Resources/el.lproj/Welcome.rtfd/TXT.rtf -text
 package/Resources/en.lproj/Conclusion.rtfd/TXT.rtf -text
 package/Resources/en.lproj/Description.html -text
 package/Resources/en.lproj/License.rtf -text
@@ -1313,6 +1333,11 @@ package/Resources/fr.lproj/Description.html -text
 package/Resources/fr.lproj/License.rtf -text
 package/Resources/fr.lproj/Localizable.strings -text svneol=unset#unset
 package/Resources/fr.lproj/Welcome.rtfd/TXT.rtf -text
+package/Resources/he.lproj/Conclusion.rtfd/TXT.rtf -text
+package/Resources/he.lproj/Description.html -text
+package/Resources/he.lproj/License.rtf -text
+package/Resources/he.lproj/Localizable.strings -text
+package/Resources/he.lproj/Welcome.rtfd/TXT.rtf -text
 package/Resources/hr.lproj/Conclusion.rtfd/TXT.rtf -text
 package/Resources/hr.lproj/Description.html -text
 package/Resources/hr.lproj/License.rtf -text
@@ -1333,6 +1358,11 @@ package/Resources/mk.lproj/Description.html -text
 package/Resources/mk.lproj/License.rtf -text
 package/Resources/mk.lproj/Localizable.strings -text
 package/Resources/mk.lproj/Welcome.rtfd/TXT.rtf -text
+package/Resources/nl.lproj/Conclusion.rtfd/TXT.rtf -text
+package/Resources/nl.lproj/Description.html -text
+package/Resources/nl.lproj/License.rtf -text
+package/Resources/nl.lproj/Localizable.strings -text
+package/Resources/nl.lproj/Welcome.rtfd/TXT.rtf -text
 package/Resources/pl.lproj/Conclusion.rtfd/TXT.rtf -text
 package/Resources/pl.lproj/Description.html -text
 package/Resources/pl.lproj/License.rtf -text
