@@ -1278,13 +1278,7 @@ package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/version -t
 package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/wrench.png -text svneol=unset#image/png
 package/Configuration/SMBIOSDefault/smbios.plist -text
 package/Distribution -text
-package/Icons/Icon.zip -text svneol=unset#unset
-package/Icons/dmg.zip -text svneol=unset#unset
-package/Icons/doc.zip -text svneol=unset#unset
-package/Icons/i386.zip -text svneol=unset#unset
-package/Icons/pan.zip -text svneol=unset#unset
 package/Icons/pkg.zip -text svneol=unset#unset
-package/Icons/tm.zip -text svneol=unset#unset
 package/OptionalSettings/Control.txt -text
 package/OptionalSettings/General.txt -text
 package/OptionalSettings/KernelFlags.txt -text
@@ -1428,8 +1422,6 @@ package/Scripts/Sub/WriteChameleonStage2.sh -text
 package/Scripts/Sub/patch -text
 package/builddmg.sh -text
 package/buildpkg.sh -text
-package/dmg/SLAResources -text
-package/dmg/ro.dmg -text svneol=unset#unset
 package/slimpkg.sh -text
 package/smbios.plist -text
 /version -text
