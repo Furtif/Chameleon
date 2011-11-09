@@ -1239,11 +1239,6 @@ package/OptionalSettings/KernelFlags.txt -text
 package/OptionalSettings/PowerManagement.txt -text
 package/OptionalSettings/Resolution.txt -text
 package/OptionalSettings/Video.txt -text
-package/Resources/Japanese.lproj/Conclusion.rtfd/TXT.rtf -text
-package/Resources/Japanese.lproj/Description.html -text
-package/Resources/Japanese.lproj/License.rtf -text
-package/Resources/Japanese.lproj/Localizable.strings -text
-package/Resources/Japanese.lproj/Welcome.rtfd/TXT.rtf -text
 package/Resources/ar.lproj/Conclusion.rtfd/TXT.rtf -text
 package/Resources/ar.lproj/Description.html -text
 package/Resources/ar.lproj/License.rtf -text
@@ -1300,6 +1295,11 @@ package/Resources/it.lproj/Description.html -text
 package/Resources/it.lproj/License.rtf -text
 package/Resources/it.lproj/Localizable.strings -text svneol=unset#unset
 package/Resources/it.lproj/Welcome.rtfd/TXT.rtf -text
+package/Resources/ja.lproj/Conclusion.rtfd/TXT.rtf -text
+package/Resources/ja.lproj/Description.html -text
+package/Resources/ja.lproj/License.rtf -text
+package/Resources/ja.lproj/Localizable.strings -text
+package/Resources/ja.lproj/Welcome.rtfd/TXT.rtf -text
 package/Resources/mk.lproj/Conclusion.rtfd/TXT.rtf -text
 package/Resources/mk.lproj/Description.html -text
 package/Resources/mk.lproj/License.rtf -text
