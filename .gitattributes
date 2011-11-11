@@ -1250,6 +1250,11 @@ package/Resources/bg.lproj/Description.html -text
 package/Resources/bg.lproj/License.rtf -text
 package/Resources/bg.lproj/Localizable.strings -text
 package/Resources/bg.lproj/Welcome.rtfd/TXT.rtf -text
+package/Resources/bs.lproj/Conclusion.rtfd/TXT.rtf -text
+package/Resources/bs.lproj/Description.html -text
+package/Resources/bs.lproj/License.rtf -text
+package/Resources/bs.lproj/Localizable.strings -text
+package/Resources/bs.lproj/Welcome.rtfd/TXT.rtf -text
 package/Resources/de.lproj/Conclusion.rtfd/TXT.rtf -text
 package/Resources/de.lproj/Description.html -text
 package/Resources/de.lproj/License.rtf -text
