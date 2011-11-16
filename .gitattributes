@@ -328,6 +328,7 @@ i386/modules/GraphicsEnabler/GraphicsEnabler.c -text
 i386/modules/GraphicsEnabler/Makefile -text
 i386/modules/GraphicsEnabler/ati.c -text
 i386/modules/GraphicsEnabler/ati.h -text
+i386/modules/GraphicsEnabler/ati_reg.h -text
 i386/modules/GraphicsEnabler/gma.c -text
 i386/modules/GraphicsEnabler/gma.h -text
 i386/modules/GraphicsEnabler/nvidia.c -text
