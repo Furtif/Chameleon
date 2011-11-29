@@ -1305,6 +1305,11 @@ package/Resources/ja.lproj/Description.html -text
 package/Resources/ja.lproj/License.rtf -text
 package/Resources/ja.lproj/Localizable.strings -text
 package/Resources/ja.lproj/Welcome.rtfd/TXT.rtf -text
+package/Resources/ko.lproj/Conclusion.rtfd/TXT.rtf -text
+package/Resources/ko.lproj/Description.html -text
+package/Resources/ko.lproj/License.rtf -text
+package/Resources/ko.lproj/Localizable.strings -text
+package/Resources/ko.lproj/Welcome.rtfd/TXT.rtf -text
 package/Resources/mk.lproj/Conclusion.rtfd/TXT.rtf -text
 package/Resources/mk.lproj/Description.html -text
 package/Resources/mk.lproj/License.rtf -text
