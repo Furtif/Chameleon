@@ -224,6 +224,8 @@ i386/libsaio/acpi_tools.h -text
 i386/libsaio/allocate.c -text
 i386/libsaio/apic.h -text
 i386/libsaio/asm.s -text
+i386/libsaio/befs.c -text
+i386/libsaio/befs.h -text
 i386/libsaio/bios.h -text
 i386/libsaio/bios.s -text
 i386/libsaio/biosfn.c -text
@@ -246,6 +248,8 @@ i386/libsaio/device_tree.h -text
 i386/libsaio/disk.c -text
 i386/libsaio/disk.h -text
 i386/libsaio/efi.h -text
+i386/libsaio/exfat.c -text
+i386/libsaio/exfat.h -text
 i386/libsaio/ext2fs.c -text
 i386/libsaio/ext2fs.h -text
 i386/libsaio/fake_efi.c -text
