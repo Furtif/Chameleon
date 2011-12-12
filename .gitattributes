@@ -1231,52 +1231,6 @@ i386/util/fdisk/util.h -text
 i386/util/machOconv.c -text
 i386/util/openUp.c -text
 package/Changes.txt -text
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Info.plist -text
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/MacOS/Chameleon -text svneol=unset#unset
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/CDROM.png -text svneol=unset#image/png
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/CHANGES -text
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/CREDITS -text
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/Chameleon.icns -text svneol=unset#image/icns
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/Chameleon.tiff -text svneol=unset#image/tiff
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/English.lproj/Chameleon.nib -text svneol=unset#unset
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/English.lproj/Chameleon.strings -text svneol=unset#unset
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/English.lproj/InfoPlist.strings -text svneol=unset#unset
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/English.lproj/Localizable.strings -text svneol=unset#unset
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/French.lproj/Chameleon.nib -text svneol=unset#unset
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/French.lproj/Chameleon.strings -text svneol=unset#unset
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/French.lproj/Localizable.strings -text svneol=unset#unset
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/German.lproj/Chameleon.nib -text svneol=unset#unset
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/German.lproj/Chameleon.strings -text svneol=unset#unset
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/German.lproj/Localizable.strings -text svneol=unset#unset
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/Italian.lproj/Chameleon.nib -text svneol=unset#unset
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/Italian.lproj/Chameleon.strings -text svneol=unset#unset
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/Italian.lproj/Localizable.strings -text svneol=unset#unset
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/Linux.png -text svneol=unset#image/png
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/MacOSX.png -text svneol=unset#image/png
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/README -text
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/Spanish.lproj/Chameleon.nib -text svneol=unset#unset
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/Spanish.lproj/Chameleon.strings -text svneol=unset#unset
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/Spanish.lproj/Localizable.strings -text svneol=unset#unset
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/TODO -text
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/Windows.png -text svneol=unset#image/png
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/advanced.png -text svneol=unset#image/png
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/background.png -text svneol=unset#image/png
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/cdBootCreator.sh -text
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/cham.png -text svneol=unset#image/png
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/chamsmall.png -text svneol=unset#image/png
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/chip.png -text svneol=unset#image/png
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/disk.png -text svneol=unset#image/png
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/extractAcpi.sh -text
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/flag.png -text svneol=unset#image/png
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/footer.png -text svneol=unset#image/png
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/getDevProp.sh -text
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/gfxutil -text svneol=unset#unset
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/name.png -text svneol=unset#image/png
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/plug.png -text svneol=unset#image/png
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/syringe.png -text svneol=unset#image/png
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/version -text
-package/Configuration/PrefPanel/Chameleon.prefPane/Contents/Resources/wrench.png -text svneol=unset#image/png
-package/Configuration/SMBIOSDefault/smbios.plist -text
 package/Distribution -text
 package/Icons/pkg.zip -text svneol=unset#unset
 package/OptionalSettings/Control.txt -text
@@ -1301,6 +1255,11 @@ package/Resources/bg.lproj/Description.html -text
 package/Resources/bg.lproj/License.rtf -text
 package/Resources/bg.lproj/Localizable.strings -text
 package/Resources/bg.lproj/Welcome.rtfd/TXT.rtf -text
+package/Resources/bs.lproj/Conclusion.rtfd/TXT.rtf -text
+package/Resources/bs.lproj/Description.html -text
+package/Resources/bs.lproj/License.rtf -text
+package/Resources/bs.lproj/Localizable.strings -text
+package/Resources/bs.lproj/Welcome.rtfd/TXT.rtf -text
 package/Resources/de.lproj/Conclusion.rtfd/TXT.rtf -text
 package/Resources/de.lproj/Description.html -text
 package/Resources/de.lproj/License.rtf -text
@@ -1346,6 +1305,16 @@ package/Resources/it.lproj/Description.html -text
 package/Resources/it.lproj/License.rtf -text
 package/Resources/it.lproj/Localizable.strings -text svneol=unset#unset
 package/Resources/it.lproj/Welcome.rtfd/TXT.rtf -text
+package/Resources/ja.lproj/Conclusion.rtfd/TXT.rtf -text
+package/Resources/ja.lproj/Description.html -text
+package/Resources/ja.lproj/License.rtf -text
+package/Resources/ja.lproj/Localizable.strings -text
+package/Resources/ja.lproj/Welcome.rtfd/TXT.rtf -text
+package/Resources/ko.lproj/Conclusion.rtfd/TXT.rtf -text
+package/Resources/ko.lproj/Description.html -text
+package/Resources/ko.lproj/License.rtf -text
+package/Resources/ko.lproj/Localizable.strings -text
+package/Resources/ko.lproj/Welcome.rtfd/TXT.rtf -text
 package/Resources/mk.lproj/Conclusion.rtfd/TXT.rtf -text
 package/Resources/mk.lproj/Description.html -text
 package/Resources/mk.lproj/License.rtf -text
