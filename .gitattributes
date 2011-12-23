@@ -42,51 +42,67 @@ artwork/themes/bullet/progress_bar_background.png -text svneol=unset#image/png
 artwork/themes/bullet/text_scroll_next.png -text svneol=unset#image/png
 artwork/themes/bullet/text_scroll_prev.png -text svneol=unset#image/png
 artwork/themes/bullet/theme.plist -text
-artwork/themes/default/background.png -text svneol=unset#image/png
-artwork/themes/default/boot.png -text svneol=unset#image/png
-artwork/themes/default/device_befs.png -text svneol=unset#image/png
-artwork/themes/default/device_befs_o.png -text svneol=unset#image/png
-artwork/themes/default/device_cdrom.png -text svneol=unset#image/png
-artwork/themes/default/device_cdrom_o.png -text svneol=unset#image/png
-artwork/themes/default/device_ext3.png -text svneol=unset#image/png
-artwork/themes/default/device_ext3_o.png -text svneol=unset#image/png
-artwork/themes/default/device_fat.png -text svneol=unset#image/png
-artwork/themes/default/device_fat_o.png -text svneol=unset#image/png
-artwork/themes/default/device_freebsd.png -text svneol=unset#image/png
-artwork/themes/default/device_freebsd_o.png -text svneol=unset#image/png
-artwork/themes/default/device_generic.png -text svneol=unset#image/png
-artwork/themes/default/device_generic_o.png -text svneol=unset#image/png
-artwork/themes/default/device_hfsplus.png -text svneol=unset#image/png
-artwork/themes/default/device_hfsplus_o.png -text svneol=unset#image/png
-artwork/themes/default/device_hfsraid.png -text svneol=unset#image/png
-artwork/themes/default/device_hfsraid_o.png -text svneol=unset#image/png
-artwork/themes/default/device_ntfs.png -text svneol=unset#image/png
-artwork/themes/default/device_ntfs_o.png -text svneol=unset#image/png
-artwork/themes/default/device_openbsd.png -text svneol=unset#image/png
-artwork/themes/default/device_openbsd_o.png -text svneol=unset#image/png
-artwork/themes/default/device_scroll_next.png -text svneol=unset#image/png
-artwork/themes/default/device_scroll_prev.png -text svneol=unset#image/png
-artwork/themes/default/device_selection.png -text svneol=unset#image/png
-artwork/themes/default/font_console.png -text svneol=unset#image/png
-artwork/themes/default/font_small.png -text svneol=unset#image/png
-artwork/themes/default/logo.png -text svneol=unset#image/png
-artwork/themes/default/menu_boot.png -text svneol=unset#image/png
-artwork/themes/default/menu_help.png -text svneol=unset#image/png
-artwork/themes/default/menu_ignore_caches.png -text svneol=unset#image/png
-artwork/themes/default/menu_ignore_caches_disabled.png -text svneol=unset#image/png
-artwork/themes/default/menu_memory_info.png -text svneol=unset#image/png
-artwork/themes/default/menu_selection.png -text svneol=unset#image/png
-artwork/themes/default/menu_single_user.png -text svneol=unset#image/png
-artwork/themes/default/menu_single_user_disabled.png -text svneol=unset#image/png
-artwork/themes/default/menu_verbose.png -text svneol=unset#image/png
-artwork/themes/default/menu_verbose_disabled.png -text svneol=unset#image/png
-artwork/themes/default/menu_video_info.png -text svneol=unset#image/png
-artwork/themes/default/progress_bar.png -text svneol=unset#image/png
-artwork/themes/default/progress_bar_background.png -text svneol=unset#image/png
-artwork/themes/default/text_scroll_next.png -text svneol=unset#image/png
-artwork/themes/default/text_scroll_prev.png -text svneol=unset#image/png
+artwork/themes/default/background.png -text
+artwork/themes/default/boot.png -text
+artwork/themes/default/device_befs.png -text
+artwork/themes/default/device_befs_o.png -text
+artwork/themes/default/device_cdrom.png -text
+artwork/themes/default/device_cdrom_o.png -text
+artwork/themes/default/device_ext3.png -text
+artwork/themes/default/device_ext3_o.png -text
+artwork/themes/default/device_fat.png -text
+artwork/themes/default/device_fat_o.png -text
+artwork/themes/default/device_freebsd.png -text
+artwork/themes/default/device_freebsd_o.png -text
+artwork/themes/default/device_generic.png -text
+artwork/themes/default/device_generic_o.png -text
+artwork/themes/default/device_hfsplus.png -text
+artwork/themes/default/device_hfsplus_leo.png -text
+artwork/themes/default/device_hfsplus_leo_o.png -text
+artwork/themes/default/device_hfsplus_lion.png -text
+artwork/themes/default/device_hfsplus_lion_o.png -text
+artwork/themes/default/device_hfsplus_o.png -text
+artwork/themes/default/device_hfsplus_sl.png -text
+artwork/themes/default/device_hfsplus_sl_o.png -text
+artwork/themes/default/device_hfsplus_tiger.png -text
+artwork/themes/default/device_hfsplus_tiger_o.png -text
+artwork/themes/default/device_hfsraid.png -text
+artwork/themes/default/device_hfsraid_leo.png -text
+artwork/themes/default/device_hfsraid_leo_o.png -text
+artwork/themes/default/device_hfsraid_lion.png -text
+artwork/themes/default/device_hfsraid_lion_o.png -text
+artwork/themes/default/device_hfsraid_o.png -text
+artwork/themes/default/device_hfsraid_sl.png -text
+artwork/themes/default/device_hfsraid_sl_o.png -text
+artwork/themes/default/device_hfsraid_tiger.png -text
+artwork/themes/default/device_hfsraid_tiger_o.png -text
+artwork/themes/default/device_ntfs.png -text
+artwork/themes/default/device_ntfs_o.png -text
+artwork/themes/default/device_openbsd.png -text
+artwork/themes/default/device_openbsd_o.png -text
+artwork/themes/default/device_scroll_next.png -text
+artwork/themes/default/device_scroll_prev.png -text
+artwork/themes/default/device_selection.png -text
+artwork/themes/default/font_console.png -text
+artwork/themes/default/font_small.png -text
+artwork/themes/default/logo.png -text
+artwork/themes/default/menu_boot.png -text
+artwork/themes/default/menu_help.png -text
+artwork/themes/default/menu_ignore_caches.png -text
+artwork/themes/default/menu_ignore_caches_disabled.png -text
+artwork/themes/default/menu_memory_info.png -text
+artwork/themes/default/menu_selection.png -text
+artwork/themes/default/menu_single_user.png -text
+artwork/themes/default/menu_single_user_disabled.png -text
+artwork/themes/default/menu_verbose.png -text
+artwork/themes/default/menu_verbose_disabled.png -text
+artwork/themes/default/menu_video_info.png -text
+artwork/themes/default/progress_bar.png -text
+artwork/themes/default/progress_bar_background.png -text
+artwork/themes/default/text_scroll_next.png -text
+artwork/themes/default/text_scroll_prev.png -text
 artwork/themes/default/theme.plist -text
-artwork/themes/default/thumb.png -text svneol=unset#image/png
+artwork/themes/default/thumb.png -text
 artwork/themes/embed/background.png -text svneol=unset#image/png
 artwork/themes/embed/boot.png -text svneol=unset#image/png
 artwork/themes/embed/device_cdrom.png -text svneol=unset#image/png
