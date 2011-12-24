@@ -617,6 +617,7 @@ i386/include/i386/types.h -text
 i386/include/i386/user_ldt.h -text
 i386/include/i386/vmparam.h -text
 i386/include/inttypes.h -text
+i386/include/klibc/compiler.h -text
 i386/include/libkern/OSAtomic.h -text
 i386/include/libkern/OSByteOrder.h -text
 i386/include/libkern/OSCacheControl.h -text
@@ -892,6 +893,9 @@ i386/include/ufs/ufs/ufs_extern.h -text
 i386/include/ufs/ufs/ufsmount.h -text
 i386/include/unistd.h -text
 i386/include/unwind.h -text
+i386/klibc/LICENSE -text
+i386/klibc/Makefile -text
+i386/klibc/strlcpy.c -text
 i386/libsa/Cconfig -text
 i386/libsa/Makefile -text
 i386/libsa/efi_tables.c -text
