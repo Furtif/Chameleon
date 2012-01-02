@@ -9,6 +9,8 @@ Chameleon.xcodeproj/xcuserdata
 /build
 i386/modules/module_includes
 /obj
+package/Resources/zh-CN.lproj
+package/Resources/zh-TW.lproj
 /revision
 /sym
 /vers.h
