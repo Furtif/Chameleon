@@ -1472,10 +1472,11 @@ Modules/package/Resources/zh_TW.lproj/Description.html -text
 Modules/package/Resources/zh_TW.lproj/License.rtf -text
 Modules/package/Resources/zh_TW.lproj/Localizable.strings -text
 Modules/package/Resources/zh_TW.lproj/Welcome.rtfd/TXT.rtf -text
+Modules/package/Scripts.templates/InstallerLog/InstallLog.sh -text
+Modules/package/Scripts.templates/Post/postinstall -text
+Modules/package/Scripts.templates/Pre/preinstall -text
 Modules/package/Scripts/Main/ESPpostinstall -text
 Modules/package/Scripts/Main/Standardpostinstall -text
-Modules/package/Scripts/Main/postinstall -text
-Modules/package/Scripts/Main/preinstall -text
 Modules/package/Scripts/Sub/CheckDiskMicrocode.sh -text
 Modules/package/Scripts/Sub/CheckFatType.sh -text
 Modules/package/Scripts/Sub/CheckGRUBLinuxLoader.sh -text
@@ -1483,7 +1484,6 @@ Modules/package/Scripts/Sub/CheckPartitionScheme.sh -text
 Modules/package/Scripts/Sub/CheckPreviousChameleon.sh -text
 Modules/package/Scripts/Sub/CheckProceed.sh -text
 Modules/package/Scripts/Sub/CheckWindowsDiskSignature.sh -text
-Modules/package/Scripts/Sub/InstallLog.sh -text
 Modules/package/Scripts/Sub/MountESP.sh -text
 Modules/package/Scripts/Sub/SetActivePartition.sh -text
 Modules/package/Scripts/Sub/UnMountEFIvolumes.sh -text
@@ -2952,10 +2952,11 @@ Trunk/package/Resources/zh_TW.lproj/Description.html -text
 Trunk/package/Resources/zh_TW.lproj/License.rtf -text
 Trunk/package/Resources/zh_TW.lproj/Localizable.strings -text
 Trunk/package/Resources/zh_TW.lproj/Welcome.rtfd/TXT.rtf -text
+Trunk/package/Scripts.templates/InstallerLog/InstallLog.sh -text
+Trunk/package/Scripts.templates/Post/postinstall -text
+Trunk/package/Scripts.templates/Pre/preinstall -text
 Trunk/package/Scripts/Main/ESPpostinstall -text
 Trunk/package/Scripts/Main/Standardpostinstall -text
-Trunk/package/Scripts/Main/postinstall -text
-Trunk/package/Scripts/Main/preinstall -text
 Trunk/package/Scripts/Sub/CheckDiskMicrocode.sh -text
 Trunk/package/Scripts/Sub/CheckFatType.sh -text
 Trunk/package/Scripts/Sub/CheckGRUBLinuxLoader.sh -text
@@ -2963,7 +2964,6 @@ Trunk/package/Scripts/Sub/CheckPartitionScheme.sh -text
 Trunk/package/Scripts/Sub/CheckPreviousChameleon.sh -text
 Trunk/package/Scripts/Sub/CheckProceed.sh -text
 Trunk/package/Scripts/Sub/CheckWindowsDiskSignature.sh -text
-Trunk/package/Scripts/Sub/InstallLog.sh -text
 Trunk/package/Scripts/Sub/MountESP.sh -text
 Trunk/package/Scripts/Sub/SetActivePartition.sh -text
 Trunk/package/Scripts/Sub/UnMountEFIvolumes.sh -text
