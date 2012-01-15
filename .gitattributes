@@ -1375,8 +1375,12 @@ package/Resources/zh_TW.lproj/Description.html -text
 package/Resources/zh_TW.lproj/License.rtf -text
 package/Resources/zh_TW.lproj/Localizable.strings -text
 package/Resources/zh_TW.lproj/Welcome.rtfd/TXT.rtf -text
+package/Scripts.templates/AddOption/postinstall -text
+package/Scripts.templates/InstallModule/postinstall -text
+package/Scripts.templates/InstallTheme/postinstall -text
 package/Scripts.templates/InstallerLog/InstallLog.sh -text
 package/Scripts.templates/Post/postinstall -text
+package/Scripts.templates/Pre/clean_bootplist.pl -text
 package/Scripts.templates/Pre/preinstall -text
 package/Scripts/Main/ESPpostinstall -text
 package/Scripts/Main/Standardpostinstall -text
