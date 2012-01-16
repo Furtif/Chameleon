@@ -1472,8 +1472,12 @@ Modules/package/Resources/zh_TW.lproj/Description.html -text
 Modules/package/Resources/zh_TW.lproj/License.rtf -text
 Modules/package/Resources/zh_TW.lproj/Localizable.strings -text
 Modules/package/Resources/zh_TW.lproj/Welcome.rtfd/TXT.rtf -text
+Modules/package/Scripts.templates/AddOption/postinstall -text
+Modules/package/Scripts.templates/InstallModule/postinstall -text
+Modules/package/Scripts.templates/InstallTheme/postinstall -text
 Modules/package/Scripts.templates/InstallerLog/InstallLog.sh -text
 Modules/package/Scripts.templates/Post/postinstall -text
+Modules/package/Scripts.templates/Pre/clean_bootplist.pl -text
 Modules/package/Scripts.templates/Pre/preinstall -text
 Modules/package/Scripts/Main/ESPpostinstall -text
 Modules/package/Scripts/Main/Standardpostinstall -text
@@ -2952,8 +2956,12 @@ Trunk/package/Resources/zh_TW.lproj/Description.html -text
 Trunk/package/Resources/zh_TW.lproj/License.rtf -text
 Trunk/package/Resources/zh_TW.lproj/Localizable.strings -text
 Trunk/package/Resources/zh_TW.lproj/Welcome.rtfd/TXT.rtf -text
+Trunk/package/Scripts.templates/AddOption/postinstall -text
+Trunk/package/Scripts.templates/InstallModule/postinstall -text
+Trunk/package/Scripts.templates/InstallTheme/postinstall -text
 Trunk/package/Scripts.templates/InstallerLog/InstallLog.sh -text
 Trunk/package/Scripts.templates/Post/postinstall -text
+Trunk/package/Scripts.templates/Pre/clean_bootplist.pl -text
 Trunk/package/Scripts.templates/Pre/preinstall -text
 Trunk/package/Scripts/Main/ESPpostinstall -text
 Trunk/package/Scripts/Main/Standardpostinstall -text
