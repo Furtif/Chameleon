@@ -2963,6 +2963,7 @@ Trunk/package/Scripts.templates/InstallerLog/InstallLog.sh -text
 Trunk/package/Scripts.templates/Post/postinstall -text
 Trunk/package/Scripts.templates/Pre/clean_bootplist.pl -text
 Trunk/package/Scripts.templates/Pre/preinstall -text
+Trunk/package/Scripts.templates/UnMount/UnMountEFIvolumes.sh -text
 Trunk/package/Scripts/Main/ESPpostinstall -text
 Trunk/package/Scripts/Main/Standardpostinstall -text
 Trunk/package/Scripts/Sub/CheckDiskMicrocode.sh -text
@@ -2974,7 +2975,6 @@ Trunk/package/Scripts/Sub/CheckProceed.sh -text
 Trunk/package/Scripts/Sub/CheckWindowsDiskSignature.sh -text
 Trunk/package/Scripts/Sub/MountESP.sh -text
 Trunk/package/Scripts/Sub/SetActivePartition.sh -text
-Trunk/package/Scripts/Sub/UnMountEFIvolumes.sh -text
 Trunk/package/Scripts/Sub/WriteChameleonStage0.sh -text
 Trunk/package/Scripts/Sub/WriteChameleonStage1.sh -text
 Trunk/package/Scripts/Sub/WriteChameleonStage2.sh -text
