@@ -1275,6 +1275,11 @@ package/Resources/bs.lproj/Description.html -text
 package/Resources/bs.lproj/License.rtf -text
 package/Resources/bs.lproj/Localizable.strings -text
 package/Resources/bs.lproj/Welcome.rtfd/TXT.rtf -text
+package/Resources/ca.lproj/Conclusion.rtfd/TXT.rtf -text
+package/Resources/ca.lproj/Description.html -text
+package/Resources/ca.lproj/License.rtf -text
+package/Resources/ca.lproj/Localizable.strings -text
+package/Resources/ca.lproj/Welcome.rtfd/TXT.rtf -text
 package/Resources/de.lproj/Conclusion.rtfd/TXT.rtf -text
 package/Resources/de.lproj/Description.html -text
 package/Resources/de.lproj/License.rtf -text
