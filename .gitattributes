@@ -42,6 +42,10 @@ Modules/artwork/themes/bullet/progress_bar_background.png -text
 Modules/artwork/themes/bullet/text_scroll_next.png -text
 Modules/artwork/themes/bullet/text_scroll_prev.png -text
 Modules/artwork/themes/bullet/theme.plist -text
+Modules/artwork/themes/default/Device_hfsplus_ml.png -text
+Modules/artwork/themes/default/Device_hfsplus_ml_o.png -text
+Modules/artwork/themes/default/Device_hfsraid_ml.png -text
+Modules/artwork/themes/default/Device_hfsraid_ml_o.png -text
 Modules/artwork/themes/default/background.png -text
 Modules/artwork/themes/default/boot.png -text
 Modules/artwork/themes/default/device_befs.png -text
@@ -1545,6 +1549,10 @@ Trunk/artwork/themes/bullet/progress_bar_background.png -text
 Trunk/artwork/themes/bullet/text_scroll_next.png -text
 Trunk/artwork/themes/bullet/text_scroll_prev.png -text
 Trunk/artwork/themes/bullet/theme.plist -text
+Trunk/artwork/themes/default/Device_hfsplus_ml.png -text
+Trunk/artwork/themes/default/Device_hfsplus_ml_o.png -text
+Trunk/artwork/themes/default/Device_hfsraid_ml.png -text
+Trunk/artwork/themes/default/Device_hfsraid_ml_o.png -text
 Trunk/artwork/themes/default/background.png -text
 Trunk/artwork/themes/default/boot.png -text
 Trunk/artwork/themes/default/device_befs.png -text
