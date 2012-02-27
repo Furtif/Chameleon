@@ -1261,8 +1261,6 @@ package/OptionalSettings/Resolution.txt -text
 package/OptionalSettings/Video.txt -text
 package/Resources.source/ConvertResourcesTextFile.pl -text
 package/Resources.source/License.rtf -text
-package/Resources.source/Package%20Installer%20Resource%20Text%20-%20Sheet1.tsv -text
-package/Resources.source/ResourcesSourceFile.txt -text
 package/Resources.source/background.tiff -text
 package/Scripts.templates/AddOption/postinstall -text
 package/Scripts.templates/Conclusion/Conclusion.rtfd/TXT.rtf -text
