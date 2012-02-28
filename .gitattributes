@@ -1360,6 +1360,11 @@ package/Resources/pt-PT.lproj/Description.html -text
 package/Resources/pt-PT.lproj/License.rtf -text
 package/Resources/pt-PT.lproj/Localizable.strings -text svneol=unset#unset
 package/Resources/pt-PT.lproj/Welcome.rtfd/TXT.rtf -text
+package/Resources/ro.lproj/Conclusion.rtfd/TXT.rtf -text
+package/Resources/ro.lproj/Description.html -text
+package/Resources/ro.lproj/License.rtf -text
+package/Resources/ro.lproj/Localizable.strings -text
+package/Resources/ro.lproj/Welcome.rtfd/TXT.rtf -text
 package/Resources/ru.lproj/Conclusion.rtfd/TXT.rtf -text
 package/Resources/ru.lproj/Description.html -text
 package/Resources/ru.lproj/License.rtf -text
