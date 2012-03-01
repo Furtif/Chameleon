@@ -272,11 +272,8 @@ i386/boot2/drivers.h -text
 i386/boot2/failedboot.h -text
 i386/boot2/graphics.c -text
 i386/boot2/graphics.h -text
-i386/boot2/lzss.c -text
 i386/boot2/mboot.c -text
 i386/boot2/mboot.h -text
-i386/boot2/modules.c -text
-i386/boot2/modules.h -text
 i386/boot2/multiboot.h -text
 i386/boot2/options.c -text
 i386/boot2/options.h -text
@@ -293,6 +290,7 @@ i386/libsa/divdi3.c -text
 i386/libsa/efi_tables.c -text
 i386/libsa/efi_tables.h -text
 i386/libsa/libsa.h -text
+i386/libsa/lzss.c -text
 i386/libsa/memory.h -text
 i386/libsa/moddi3.c -text
 i386/libsa/prf.c -text
@@ -361,6 +359,8 @@ i386/libsaio/libsaio.h -text
 i386/libsaio/load.c -text
 i386/libsaio/md5c.c -text
 i386/libsaio/misc.c -text
+i386/libsaio/modules.c -text
+i386/libsaio/modules.h -text
 i386/libsaio/msdos.c -text
 i386/libsaio/msdos.h -text
 i386/libsaio/msdos_private.h -text
@@ -393,6 +393,11 @@ i386/libsaio/ufs.c -text
 i386/libsaio/ufs.h -text
 i386/libsaio/ufs_byteorder.c -text
 i386/libsaio/ufs_byteorder.h -text
+i386/libsaio/utarray.h -text
+i386/libsaio/uterror.c -text
+i386/libsaio/uthash.h -text
+i386/libsaio/utlist.h -text
+i386/libsaio/utstring.h -text
 i386/libsaio/vbe.c -text
 i386/libsaio/vbe.h -text
 i386/libsaio/xml.c -text
