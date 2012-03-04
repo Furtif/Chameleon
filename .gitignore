@@ -11,6 +11,7 @@ i386/modules/module_includes
 /obj
 package/Resources/zh-CN.lproj
 package/Resources/zh-TW.lproj
+package/po/*.mo
 /revision
 /sym
 /vers.h
