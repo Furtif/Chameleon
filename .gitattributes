@@ -1517,6 +1517,7 @@ Trunk/MEMTEST86_LICENSE -text
 Trunk/Make.rules -text
 Trunk/Makefile -text
 Trunk/README -text
+Trunk/README.translators -text
 Trunk/TODO -text
 Trunk/artwork/themes/bullet/background.png -text
 Trunk/artwork/themes/bullet/boot.png -text
@@ -2964,6 +2965,12 @@ Trunk/package/Resources.old/zh_TW.lproj/Description.html -text
 Trunk/package/Resources.old/zh_TW.lproj/License.rtf -text
 Trunk/package/Resources.old/zh_TW.lproj/Localizable.strings -text
 Trunk/package/Resources.old/zh_TW.lproj/Welcome.rtfd/TXT.rtf -text
+Trunk/package/Resources/common/License.rtf -text
+Trunk/package/Resources/distribution/background.tiff -text
+Trunk/package/Resources/templates/Conclusion.html -text
+Trunk/package/Resources/templates/Description.html -text
+Trunk/package/Resources/templates/Localizable.strings -text
+Trunk/package/Resources/templates/Welcome.html -text
 Trunk/package/Scripts.templates/AddOption/postinstall -text
 Trunk/package/Scripts.templates/InstallModule/postinstall -text
 Trunk/package/Scripts.templates/InstallTheme/postinstall -text
@@ -2971,7 +2978,6 @@ Trunk/package/Scripts.templates/InstallerLog/InstallLog.sh -text
 Trunk/package/Scripts.templates/Post/postinstall -text
 Trunk/package/Scripts.templates/Pre/clean_bootplist.pl -text
 Trunk/package/Scripts.templates/Pre/preinstall -text
-Trunk/package/Scripts.templates/UnMount/UnMountEFIvolumes.sh -text
 Trunk/package/Scripts/Main/ESPpostinstall -text
 Trunk/package/Scripts/Main/Standardpostinstall -text
 Trunk/package/Scripts/Sub/CheckDiskMicrocode.sh -text
@@ -2983,10 +2989,12 @@ Trunk/package/Scripts/Sub/CheckProceed.sh -text
 Trunk/package/Scripts/Sub/CheckWindowsDiskSignature.sh -text
 Trunk/package/Scripts/Sub/MountESP.sh -text
 Trunk/package/Scripts/Sub/SetActivePartition.sh -text
+Trunk/package/Scripts/Sub/UnMountEFIvolumes.sh -text
 Trunk/package/Scripts/Sub/WriteChameleonStage0.sh -text
 Trunk/package/Scripts/Sub/WriteChameleonStage1.sh -text
 Trunk/package/Scripts/Sub/WriteChameleonStage2.sh -text
 Trunk/package/Scripts/Sub/patch -text
+Trunk/package/bin/clean_po_headers.sh -text
 Trunk/package/bin/po4a/COPYING -text
 Trunk/package/bin/po4a/MANIFEST -text
 Trunk/package/bin/po4a/NEWS -text
@@ -3057,8 +3065,4 @@ Trunk/package/po/zh_TW.po -text
 Trunk/package/po4a-chameleon.cfg -text
 Trunk/package/slimpkg.sh -text
 Trunk/package/smbios.plist -text
-Trunk/translation/resources/Description.html -text
-Trunk/translation/resources/License.rtf -text
-Trunk/translation/resources/Localizable.strings -text
-Trunk/translation/resources/styles.css -text
 Trunk/version -text
