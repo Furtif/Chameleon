@@ -290,7 +290,6 @@ i386/libsa/divdi3.c -text
 i386/libsa/efi_tables.c -text
 i386/libsa/efi_tables.h -text
 i386/libsa/libsa.h -text
-i386/libsa/lzss.c -text
 i386/libsa/memory.h -text
 i386/libsa/moddi3.c -text
 i386/libsa/prf.c -text
@@ -305,6 +304,8 @@ i386/libsa/strtol.c -text
 i386/libsa/udivdi3.c -text
 i386/libsa/umoddi3.c -text
 i386/libsa/zalloc.c -text
+i386/libsaio/CoreHash.c -text
+i386/libsaio/CoreHash.h -text
 i386/libsaio/Makefile -text
 i386/libsaio/SMBIOS.h -text
 i386/libsaio/acpi.h -text
@@ -357,6 +358,7 @@ i386/libsaio/internal_modules.h -text
 i386/libsaio/io_inline.h -text
 i386/libsaio/libsaio.h -text
 i386/libsaio/load.c -text
+i386/libsaio/lzss.c -text
 i386/libsaio/md5c.c -text
 i386/libsaio/misc.c -text
 i386/libsaio/modules.c -text
