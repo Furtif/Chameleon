@@ -397,7 +397,8 @@ i386/libsaio/io_inline.h -text
 i386/libsaio/libsaio.h -text
 i386/libsaio/load.c -text
 i386/libsaio/lzss.c -text
-i386/libsaio/md5c.c -text
+i386/libsaio/md5.c -text
+i386/libsaio/md5.h -text
 i386/libsaio/misc.c -text
 i386/libsaio/modules.c -text
 i386/libsaio/modules.h -text
@@ -636,3 +637,4 @@ package/buildpkg -text
 package/fdisk -text
 package/smbios.plist -text
 /version -text
+/xcode3_sym.zip -text
