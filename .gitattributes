@@ -2476,6 +2476,7 @@ Trunk/i386/libsaio/hpet.h -text
 Trunk/i386/libsaio/io_inline.h -text
 Trunk/i386/libsaio/libsaio.h -text
 Trunk/i386/libsaio/load.c -text
+Trunk/i386/libsaio/lzss.c -text
 Trunk/i386/libsaio/md5c.c -text
 Trunk/i386/libsaio/memvendors.h -text
 Trunk/i386/libsaio/misc.c -text
