@@ -1,0 +1,13 @@
+Release/.config*
+Release/Chameleon.xcodeproj/*.mode*
+Release/Chameleon.xcodeproj/*.pbxuser
+Release/Chameleon.xcodeproj/project.xcworkspace
+Release/Chameleon.xcodeproj/xcuserdata
+Release/auto.conf
+Release/autoconf.h
+Release/autoconf.inc
+Release/build
+Release/i386/modules/module_includes
+Release/obj
+Release/revision
+Release/sym
