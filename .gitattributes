@@ -335,7 +335,6 @@ i386/libsa/printf.c -text
 i386/libsa/qdivrem.c -text
 i386/libsa/qsort.c -text
 i386/libsa/quad.h -text
-i386/libsa/rand.c -text
 i386/libsa/setjmp.s -text
 i386/libsa/string.c -text
 i386/libsa/strtol.c -text
@@ -351,7 +350,7 @@ i386/libsaio/acpi_tools.c -text
 i386/libsaio/acpi_tools.h -text
 i386/libsaio/allocate.c -text
 i386/libsaio/apic.h -text
-i386/libsaio/arc4random.c -text
+i386/libsaio/arc4random-fbsd.c -text
 i386/libsaio/asm.s -text
 i386/libsaio/befs.c -text
 i386/libsaio/befs.h -text
@@ -392,8 +391,8 @@ i386/libsaio/hfs.h -text
 i386/libsaio/hfs_CaseTables.h -text
 i386/libsaio/hfs_compare.c -text
 i386/libsaio/intel_acpi.h -text
-i386/libsaio/internal_modules.h -text
 i386/libsaio/io_inline.h -text
+i386/libsaio/lib.c -text
 i386/libsaio/libsaio.h -text
 i386/libsaio/load.c -text
 i386/libsaio/lzss.c -text
@@ -420,6 +419,7 @@ i386/libsaio/platform.c -text
 i386/libsaio/platform.h -text
 i386/libsaio/ppm.h -text
 i386/libsaio/ppmsetup.h -text
+i386/libsaio/rtc.c -text
 i386/libsaio/saio_internal.h -text
 i386/libsaio/saio_types.h -text
 i386/libsaio/sl.h -text
@@ -430,6 +430,7 @@ i386/libsaio/stack_protector.c -text
 i386/libsaio/stringTable.c -text
 i386/libsaio/sys.c -text
 i386/libsaio/table.c -text
+i386/libsaio/time.c -text
 i386/libsaio/ufs.c -text
 i386/libsaio/ufs.h -text
 i386/libsaio/ufs_byteorder.c -text
@@ -437,8 +438,6 @@ i386/libsaio/ufs_byteorder.h -text
 i386/libsaio/utarray.h -text
 i386/libsaio/uterror.c -text
 i386/libsaio/uthash.h -text
-i386/libsaio/utlist.h -text
-i386/libsaio/utstring.h -text
 i386/libsaio/vbe.c -text
 i386/libsaio/vbe.h -text
 i386/libsaio/xml.c -text
@@ -579,6 +578,11 @@ i386/util/WKdmDecompress.c -text
 i386/util/amlsgn.m -text
 i386/util/bdmesg.c -text
 i386/util/machOconv.c -text
+i386/util/rand-fbsd.c -text
+i386/util/random-fbsd.c -text
+i386/util/smbios-fbsd.c -text
+i386/util/utlist.h -text
+i386/util/utstring.h -text
 package/Distribution -text
 package/Kexts/AHCIPortInjector.kext/Contents/Info.plist -text
 package/Kexts/ATAPortInjector.kext/Contents/Info.plist -text
