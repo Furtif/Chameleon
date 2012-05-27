@@ -2432,7 +2432,7 @@ Trunk/i386/libsaio/aml_generator.c -text
 Trunk/i386/libsaio/aml_generator.h -text
 Trunk/i386/libsaio/asm.s -text
 Trunk/i386/libsaio/ati.c -text
-Trunk/i386/libsaio/ati_reg.h -text
+Trunk/i386/libsaio/ati.h -text
 Trunk/i386/libsaio/befs.c -text
 Trunk/i386/libsaio/befs.h -text
 Trunk/i386/libsaio/bios.h -text
@@ -2476,7 +2476,6 @@ Trunk/i386/libsaio/hpet.h -text
 Trunk/i386/libsaio/io_inline.h -text
 Trunk/i386/libsaio/libsaio.h -text
 Trunk/i386/libsaio/load.c -text
-Trunk/i386/libsaio/lzss.c -text
 Trunk/i386/libsaio/md5c.c -text
 Trunk/i386/libsaio/memvendors.h -text
 Trunk/i386/libsaio/misc.c -text
