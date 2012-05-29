@@ -350,7 +350,6 @@ i386/libsa/efi_tables.h -text
 i386/libsa/libsa.h -text
 i386/libsa/memory.h -text
 i386/libsa/moddi3.c -text
-i386/libsa/prf.c -text
 i386/libsa/printf.c -text
 i386/libsa/qdivrem.c -text
 i386/libsa/qsort.c -text
