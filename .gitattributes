@@ -945,6 +945,8 @@ i386/libsaio/disk.h -text
 i386/libsaio/dram_controllers.c -text
 i386/libsaio/dram_controllers.h -text
 i386/libsaio/efi.h -text
+i386/libsaio/exfat.c -text
+i386/libsaio/exfat.h -text
 i386/libsaio/ext2fs.c -text
 i386/libsaio/ext2fs.h -text
 i386/libsaio/fake_efi.c -text
