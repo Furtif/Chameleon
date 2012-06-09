@@ -62,6 +62,8 @@ artwork/themes/default/device_hfsplus_leo.png -text
 artwork/themes/default/device_hfsplus_leo_o.png -text
 artwork/themes/default/device_hfsplus_lion.png -text
 artwork/themes/default/device_hfsplus_lion_o.png -text
+artwork/themes/default/device_hfsplus_ml.png -text
+artwork/themes/default/device_hfsplus_ml_o.png -text
 artwork/themes/default/device_hfsplus_o.png -text
 artwork/themes/default/device_hfsplus_sl.png -text
 artwork/themes/default/device_hfsplus_sl_o.png -text
@@ -72,6 +74,8 @@ artwork/themes/default/device_hfsraid_leo.png -text
 artwork/themes/default/device_hfsraid_leo_o.png -text
 artwork/themes/default/device_hfsraid_lion.png -text
 artwork/themes/default/device_hfsraid_lion_o.png -text
+artwork/themes/default/device_hfsraid_ml.png -text
+artwork/themes/default/device_hfsraid_ml_o.png -text
 artwork/themes/default/device_hfsraid_o.png -text
 artwork/themes/default/device_hfsraid_sl.png -text
 artwork/themes/default/device_hfsraid_sl_o.png -text
