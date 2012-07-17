@@ -305,6 +305,7 @@ doc/Users_Guide0.5.pdf -text
 doc/archive/UsersGuide-v0.2.pdf -text
 doc/archive/Users_Guide0.4.pdf -text
 doc/archive/Users_Guide_v0.3.pdf -text
+doc/com.apple.Boot.example.plist -text
 doc/themeinfo.png -text
 i386/MakeInc.dir -text
 i386/MakePaths.dir -text
