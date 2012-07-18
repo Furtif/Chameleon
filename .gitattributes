@@ -1042,6 +1042,9 @@ i386/modules/Resolution/Resolution.c -text
 i386/modules/Resolution/edid.c -text
 i386/modules/Resolution/include/edid.h -text
 i386/modules/Resolution/shortatombios.h -text
+i386/modules/Sata/Cconfig -text
+i386/modules/Sata/Makefile -text
+i386/modules/Sata/Sata.c -text
 i386/modules/include/modules -text
 i386/modules/klibc/Cconfig -text
 i386/modules/klibc/LICENSE -text
