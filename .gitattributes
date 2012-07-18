@@ -187,6 +187,7 @@ doc/Users_Guide0.5.pdf -text svneol=unset#unset
 doc/archive/UsersGuide-v0.2.pdf -text svneol=unset#unset
 doc/archive/Users_Guide0.4.pdf -text svneol=unset#unset
 doc/archive/Users_Guide_v0.3.pdf -text svneol=unset#unset
+doc/org.chameleon.Boot.nvidia.plist -text
 doc/themeinfo.png -text svneol=unset#image/png
 i386/Cconfig -text
 i386/Makefile -text
@@ -982,6 +983,8 @@ i386/libsaio/ntfs.h -text
 i386/libsaio/ntfs_private.h -text
 i386/libsaio/nvidia.c -text
 i386/libsaio/nvidia.h -text
+i386/libsaio/nvidia_helper.c -text
+i386/libsaio/nvidia_helper.h -text
 i386/libsaio/openbsd.c -text
 i386/libsaio/openbsd.h -text
 i386/libsaio/pci.c -text
