@@ -1696,6 +1696,7 @@ Trunk/doc/Users_Guide0.5.pdf -text
 Trunk/doc/archive/UsersGuide-v0.2.pdf -text
 Trunk/doc/archive/Users_Guide0.4.pdf -text
 Trunk/doc/archive/Users_Guide_v0.3.pdf -text
+Trunk/doc/org.chameleon.Boot.nvidia.plist -text
 Trunk/doc/themeinfo.png -text
 Trunk/i386/Cconfig -text
 Trunk/i386/Makefile -text
@@ -2491,6 +2492,8 @@ Trunk/i386/libsaio/ntfs.h -text
 Trunk/i386/libsaio/ntfs_private.h -text
 Trunk/i386/libsaio/nvidia.c -text
 Trunk/i386/libsaio/nvidia.h -text
+Trunk/i386/libsaio/nvidia_helper.c -text
+Trunk/i386/libsaio/nvidia_helper.h -text
 Trunk/i386/libsaio/openbsd.c -text
 Trunk/i386/libsaio/openbsd.h -text
 Trunk/i386/libsaio/pci.c -text
