@@ -2554,6 +2554,9 @@ Trunk/i386/modules/Resolution/Resolution.c -text
 Trunk/i386/modules/Resolution/edid.c -text
 Trunk/i386/modules/Resolution/include/edid.h -text
 Trunk/i386/modules/Resolution/shortatombios.h -text
+Trunk/i386/modules/Sata/Cconfig -text
+Trunk/i386/modules/Sata/Makefile -text
+Trunk/i386/modules/Sata/Sata.c -text
 Trunk/i386/modules/include/modules -text
 Trunk/i386/modules/klibc/Cconfig -text
 Trunk/i386/modules/klibc/LICENSE -text
