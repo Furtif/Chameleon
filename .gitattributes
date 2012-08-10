@@ -286,6 +286,8 @@ artwork/themes/legacy/progress_bar_background.png -text
 artwork/themes/legacy/text_scroll_next.png -text
 artwork/themes/legacy/text_scroll_prev.png -text
 artwork/themes/legacy/theme.plist -text
+bin/ld_classic -text
+bin/ld_classic.1 -text
 /coding_standards.txt -text
 doc/BootHelp.txt -text
 doc/ModuleHelp.txt -text
@@ -598,6 +600,7 @@ i386/util/WKdmDecompress.c -text
 i386/util/amlsgn.m -text
 i386/util/bdmesg.c -text
 i386/util/machOconv.c -text
+i386/util/md.c -text
 i386/util/rand-fbsd.c -text
 i386/util/random-fbsd.c -text
 i386/util/smbios-fbsd.c -text
