@@ -169,6 +169,8 @@ artwork/themes/legacy/progress_bar_background.png -text svneol=unset#image/png
 artwork/themes/legacy/text_scroll_next.png -text svneol=unset#image/png
 artwork/themes/legacy/text_scroll_prev.png -text svneol=unset#image/png
 artwork/themes/legacy/theme.plist -text
+bin/ld_classic -text
+bin/ld_classic.1 -text
 /coding_standards.txt -text
 doc/BootHelp.txt -text
 doc/README -text
@@ -1015,6 +1017,10 @@ i386/libsaio/vbe.c -text
 i386/libsaio/vbe.h -text
 i386/libsaio/xml.c -text
 i386/libsaio/xml.h -text
+i386/md/Cconfig -text
+i386/md/Makefile -text
+i386/md/md.1 -text
+i386/md/md.c -text
 i386/modules/AcpiCodec/ACPICodec.c -text
 i386/modules/AcpiCodec/Cconfig -text
 i386/modules/AcpiCodec/Makefile -text
