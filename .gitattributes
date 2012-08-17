@@ -331,6 +331,7 @@ i386/boot2/boot2.s -text
 i386/boot2/drivers.c -text
 i386/boot2/drivers.h -text
 i386/boot2/failedboot.h -text
+i386/boot2/fake_crt.c -text
 i386/boot2/graphics.c -text
 i386/boot2/graphics.h -text
 i386/boot2/mboot.c -text
