@@ -2526,10 +2526,6 @@ Trunk/i386/libsaio/vbe.c -text
 Trunk/i386/libsaio/vbe.h -text
 Trunk/i386/libsaio/xml.c -text
 Trunk/i386/libsaio/xml.h -text
-Trunk/i386/md/Cconfig -text
-Trunk/i386/md/Makefile -text
-Trunk/i386/md/md.1 -text
-Trunk/i386/md/md.c -text
 Trunk/i386/modules/AcpiCodec/ACPICodec.c -text
 Trunk/i386/modules/AcpiCodec/Cconfig -text
 Trunk/i386/modules/AcpiCodec/Makefile -text
