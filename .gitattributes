@@ -2547,6 +2547,9 @@ Trunk/i386/modules/Cconfig -text
 Trunk/i386/modules/HelloWorld/Cconfig -text
 Trunk/i386/modules/HelloWorld/HelloWorld.cpp -text
 Trunk/i386/modules/HelloWorld/Makefile -text
+Trunk/i386/modules/KernelPatcher/Cconfig -text
+Trunk/i386/modules/KernelPatcher/KernelPatcher.dylib -text
+Trunk/i386/modules/KernelPatcher/Makefile -text
 Trunk/i386/modules/Keylayout/Cconfig -text
 Trunk/i386/modules/Keylayout/Keylayout.c -text
 Trunk/i386/modules/Keylayout/Keylayout.h -text
@@ -2791,6 +2794,7 @@ Trunk/i386/util/fdisk/user.h -text
 Trunk/i386/util/fdisk/util.h -text
 Trunk/i386/util/machOconv.c -text
 Trunk/i386/util/openUp.c -text
+Trunk/i386/util/segsize.c -text
 Trunk/package/Changes.txt -text
 Trunk/package/Distribution -text
 Trunk/package/Icons/Icon.zip -text
