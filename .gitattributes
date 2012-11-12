@@ -420,6 +420,7 @@ i386/libsaio/fake_efi.h -text
 i386/libsaio/fdisk.h -text
 i386/libsaio/freebsd.c -text
 i386/libsaio/freebsd.h -text
+i386/libsaio/gen_uuid-uuid.c -text
 i386/libsaio/hfs.c -text
 i386/libsaio/hfs.h -text
 i386/libsaio/hfs_CaseTables.h -text
@@ -445,6 +446,7 @@ i386/libsaio/ntfs.h -text
 i386/libsaio/ntfs_private.h -text
 i386/libsaio/openbsd.c -text
 i386/libsaio/openbsd.h -text
+i386/libsaio/pack.c -text
 i386/libsaio/pci.c -text
 i386/libsaio/pci.h -text
 i386/libsaio/pci_root.c -text
@@ -469,9 +471,12 @@ i386/libsaio/ufs.c -text
 i386/libsaio/ufs.h -text
 i386/libsaio/ufs_byteorder.c -text
 i386/libsaio/ufs_byteorder.h -text
+i386/libsaio/unpack.c -text
 i386/libsaio/utarray.h -text
 i386/libsaio/uterror.c -text
 i386/libsaio/uthash.h -text
+i386/libsaio/uuid.h -text
+i386/libsaio/uuidP.h -text
 i386/libsaio/vbe.c -text
 i386/libsaio/vbe.h -text
 i386/libsaio/xml.c -text
