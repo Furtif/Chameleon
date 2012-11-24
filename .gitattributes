@@ -1564,6 +1564,8 @@ Trunk/artwork/themes/default/device_freebsd.png -text
 Trunk/artwork/themes/default/device_freebsd_o.png -text
 Trunk/artwork/themes/default/device_generic.png -text
 Trunk/artwork/themes/default/device_generic_o.png -text
+Trunk/artwork/themes/default/device_hfsfusion_ml.png -text
+Trunk/artwork/themes/default/device_hfsfusion_ml_o.png -text
 Trunk/artwork/themes/default/device_hfsplus.png -text
 Trunk/artwork/themes/default/device_hfsplus_leo.png -text
 Trunk/artwork/themes/default/device_hfsplus_leo_o.png -text
@@ -2997,7 +2999,7 @@ Trunk/package/Resources.old/zh_TW.lproj/License.rtf -text
 Trunk/package/Resources.old/zh_TW.lproj/Localizable.strings -text
 Trunk/package/Resources.old/zh_TW.lproj/Welcome.rtfd/TXT.rtf -text
 Trunk/package/Resources/common/License.rtf -text
-Trunk/package/Resources/distribution/background.tif -text
+Trunk/package/Resources/distribution/background -text
 Trunk/package/Resources/templates/Conclusion.html -text
 Trunk/package/Resources/templates/Description.html -text
 Trunk/package/Resources/templates/Localizable.strings -text
