@@ -11,8 +11,3 @@ Modules/obj
 Modules/revision
 Modules/sym
 Modules/vers.h
-Trunk/Chameleon.xcodeproj/*.mode*
-Trunk/Chameleon.xcodeproj/*.pbxuser
-Trunk/Chameleon.xcodeproj/project.xcworkspace
-Trunk/Chameleon.xcodeproj/xcuserdata
-Trunk/package/po/*.mo
