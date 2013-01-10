@@ -472,7 +472,6 @@ i386/libsaio/ufs_byteorder.c -text
 i386/libsaio/ufs_byteorder.h -text
 i386/libsaio/unpack.c -text
 i386/libsaio/utarray.h -text
-i386/libsaio/uterror.c -text
 i386/libsaio/uthash.h -text
 i386/libsaio/utlist.h -text
 i386/libsaio/utstring.h -text
