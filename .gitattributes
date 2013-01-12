@@ -927,6 +927,7 @@ i386/libsaio/aml_generator.h -text
 i386/libsaio/asm.s -text
 i386/libsaio/ati.c -text
 i386/libsaio/ati_reg.h -text
+i386/libsaio/base64-decode.c -text
 i386/libsaio/befs.c -text
 i386/libsaio/befs.h -text
 i386/libsaio/bios.h -text
