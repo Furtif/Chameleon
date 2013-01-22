@@ -1034,6 +1034,9 @@ i386/modules/AcpiCodec/include/intel_acpi.h -text
 i386/modules/AcpiCodec/include/ppm.h -text
 i386/modules/AcpiCodec/include/ppmsetup.h -text
 i386/modules/Cconfig -text
+i386/modules/FileNVRAM/Cconfig -text
+i386/modules/FileNVRAM/FileNVRAM.dylib -text
+i386/modules/FileNVRAM/Makefile -text
 i386/modules/HelloWorld/Cconfig -text
 i386/modules/HelloWorld/HelloWorld.cpp -text
 i386/modules/HelloWorld/Makefile -text
