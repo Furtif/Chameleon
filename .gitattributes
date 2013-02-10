@@ -613,6 +613,7 @@ i386/modules/Libefi/efiString.c -text
 i386/modules/Libeg/Makefile -text
 i386/modules/Libeg/PngFile.c -text
 i386/modules/Libeg/PngFile.h -text
+i386/modules/Libeg/README -text
 i386/modules/Libeg/__libeg_init.c -text
 i386/modules/Libeg/art.h -text
 i386/modules/Libeg/egImageView.c -text
@@ -626,6 +627,8 @@ i386/modules/Libeg/egtext.c -text
 i386/modules/Libeg/egview.c -text
 i386/modules/Libeg/libeg.h -text
 i386/modules/Libeg/libegint.h -text
+i386/modules/Libeg/memcpy.c -text
+i386/modules/Libeg/memcpy.h -text
 i386/modules/Libeg/tryme.c -text
 i386/modules/Libpng/Makefile -text
 i386/modules/Libpng/PngFile.c -text
