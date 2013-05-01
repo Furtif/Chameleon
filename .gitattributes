@@ -1499,6 +1499,7 @@ package/builddmg.sh -text
 package/buildpkg.sh -text
 package/po/ar.po -text
 package/po/bg.po -text
+package/po/br.po -text
 package/po/bs.po -text
 package/po/ca.po -text
 package/po/chameleon.pot -text
@@ -1518,8 +1519,7 @@ package/po/ko.po -text
 package/po/mk.po -text
 package/po/nl.po -text
 package/po/pl.po -text
-package/po/pt-BR.po -text
-package/po/pt-PT.po -text
+package/po/pt.po -text
 package/po/ro.po -text
 package/po/ru.po -text
 package/po/sr.po -text
