@@ -1,1 +1,18 @@
 * text=auto !eol
+/APPLE_LICENSE -text
+/BLOCKERS -text
+/CHANGES -text
+/CREDITS -text
+/Cconfig -text
+/GPL_V2_LICENSE -text
+/MEMTEST86_LICENSE -text
+/Make.rules -text
+/Makefile -text
+/README -text
+/README.translators -text
+/TODO -text
+/auto.conf -text
+/autoconf.h -text
+/autoconf.inc -text
+/coding_standards.txt -text
+/version -text
