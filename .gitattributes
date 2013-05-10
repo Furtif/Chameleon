@@ -1042,6 +1042,10 @@ i386/modules/FileNVRAM/Makefile -text
 i386/modules/FileNVRAM/NEWS -text
 i386/modules/FileNVRAM/README -text
 i386/modules/FileNVRAM/include/FileNVRAM.h -text
+i386/modules/HDAEnabler/Cconfig -text
+i386/modules/HDAEnabler/HDAEnabler.dylib -text
+i386/modules/HDAEnabler/Makefile -text
+i386/modules/HDAEnabler/Readme.txt -text
 i386/modules/HelloWorld/Cconfig -text
 i386/modules/HelloWorld/HelloWorld.cpp -text
 i386/modules/HelloWorld/Makefile -text
@@ -1296,8 +1300,11 @@ i386/util/segsize.c -text
 package/Changes.txt -text
 package/Distribution -text
 package/Icons/pkg.zip -text svneol=unset#unset
+package/OptionalSettings/Audio.txt -text
 package/OptionalSettings/Control.txt -text
 package/OptionalSettings/General.txt -text
+package/OptionalSettings/HDAULayout.txt -text
+package/OptionalSettings/HDEFLayout.txt -text
 package/OptionalSettings/KernelFlags.txt -text
 package/OptionalSettings/PowerManagement.txt -text
 package/OptionalSettings/Resolution.txt -text
