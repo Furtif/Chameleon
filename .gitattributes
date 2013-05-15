@@ -1043,6 +1043,7 @@ i386/modules/FileNVRAM/NEWS -text
 i386/modules/FileNVRAM/README -text
 i386/modules/FileNVRAM/include/FileNVRAM.h -text
 i386/modules/HDAEnabler/Cconfig -text
+i386/modules/HDAEnabler/HDAEnabler.dylib -text
 i386/modules/HDAEnabler/Makefile -text
 i386/modules/HDAEnabler/Readme.txt -text
 i386/modules/HelloWorld/Cconfig -text
