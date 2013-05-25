@@ -1,8 +1,4 @@
 Modules/.config*
-Modules/Chameleon.xcodeproj/*.mode*
-Modules/Chameleon.xcodeproj/*.pbxuser
-Modules/Chameleon.xcodeproj/project.xcworkspace
-Modules/Chameleon.xcodeproj/xcuserdata
 Modules/auto.conf
 Modules/autoconf.h
 Modules/autoconf.inc
