@@ -1,9 +1,0 @@
-Modules/.config*
-Modules/auto.conf
-Modules/autoconf.h
-Modules/autoconf.inc
-Modules/build
-Modules/obj
-Modules/revision
-Modules/sym
-Modules/vers.h
