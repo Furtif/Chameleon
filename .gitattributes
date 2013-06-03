@@ -1506,7 +1506,6 @@ package/builddmg.sh -text
 package/buildpkg.sh -text
 package/po/ar.po -text
 package/po/bg.po -text
-package/po/br.po -text
 package/po/bs.po -text
 package/po/ca.po -text
 package/po/chameleon.pot -text
