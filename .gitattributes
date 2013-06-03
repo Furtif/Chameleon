@@ -1526,13 +1526,13 @@ package/po/ko.po -text
 package/po/mk.po -text
 package/po/nl.po -text
 package/po/pl.po -text
+package/po/pt-BR.po -text
 package/po/pt.po -text
-package/po/pt_BR.po -text
 package/po/ro.po -text
 package/po/ru.po -text
 package/po/sr.po -text
-package/po/zh_CN.po -text
-package/po/zh_TW.po -text
+package/po/zh-Hans-CN.po -text
+package/po/zh-Hant-TW.po -text
 package/po4a-chameleon.cfg -text
 package/slimpkg.sh -text
 package/smbios.plist -text
