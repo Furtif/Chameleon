@@ -57,11 +57,15 @@ artwork/themes/default/device_freebsd.png -text
 artwork/themes/default/device_freebsd_o.png -text
 artwork/themes/default/device_generic.png -text
 artwork/themes/default/device_generic_o.png -text
+artwork/themes/default/device_hfsfusion_mav.png -text
+artwork/themes/default/device_hfsfusion_mav_o.png -text
 artwork/themes/default/device_hfsplus.png -text
 artwork/themes/default/device_hfsplus_leo.png -text
 artwork/themes/default/device_hfsplus_leo_o.png -text
 artwork/themes/default/device_hfsplus_lion.png -text
 artwork/themes/default/device_hfsplus_lion_o.png -text
+artwork/themes/default/device_hfsplus_mav.png -text
+artwork/themes/default/device_hfsplus_mav_o.png -text
 artwork/themes/default/device_hfsplus_ml.png -text
 artwork/themes/default/device_hfsplus_ml_o.png -text
 artwork/themes/default/device_hfsplus_o.png -text
@@ -74,6 +78,8 @@ artwork/themes/default/device_hfsraid_leo.png -text
 artwork/themes/default/device_hfsraid_leo_o.png -text
 artwork/themes/default/device_hfsraid_lion.png -text
 artwork/themes/default/device_hfsraid_lion_o.png -text
+artwork/themes/default/device_hfsraid_mav.png -text
+artwork/themes/default/device_hfsraid_mav_o.png -text
 artwork/themes/default/device_hfsraid_ml.png -text
 artwork/themes/default/device_hfsraid_ml_o.png -text
 artwork/themes/default/device_hfsraid_o.png -text
