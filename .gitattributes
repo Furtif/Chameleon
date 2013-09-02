@@ -1311,6 +1311,8 @@ package/OptionalSettings/Control.txt -text
 package/OptionalSettings/General.txt -text
 package/OptionalSettings/HDAULayout.txt -text
 package/OptionalSettings/HDEFLayout.txt -text
+package/OptionalSettings/IntelAzul.txt -text
+package/OptionalSettings/IntelCapri.txt -text
 package/OptionalSettings/KernelFlags.txt -text
 package/OptionalSettings/PowerManagement.txt -text
 package/OptionalSettings/Resolution.txt -text
