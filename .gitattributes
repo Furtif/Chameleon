@@ -969,6 +969,8 @@ i386/libsaio/freebsd.c -text
 i386/libsaio/freebsd.h -text
 i386/libsaio/gma.c -text
 i386/libsaio/gma.h -text
+i386/libsaio/hda.c -text
+i386/libsaio/hda.h -text
 i386/libsaio/hfs.c -text
 i386/libsaio/hfs.h -text
 i386/libsaio/hfs_CaseTables.h -text
