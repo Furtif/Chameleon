@@ -1058,7 +1058,11 @@ i386/modules/HelloWorld/Cconfig -text
 i386/modules/HelloWorld/HelloWorld.cpp -text
 i386/modules/HelloWorld/Makefile -text
 i386/modules/KernelPatcher/Cconfig -text
+i386/modules/KernelPatcher/KernelPatcher.dylib -text
+i386/modules/KernelPatcher/LICENSE -text
 i386/modules/KernelPatcher/Makefile -text
+i386/modules/KernelPatcher/NEWS -text
+i386/modules/KernelPatcher/README -text
 i386/modules/Keylayout/Cconfig -text
 i386/modules/Keylayout/Keylayout.c -text
 i386/modules/Keylayout/Keylayout.h -text
