@@ -969,6 +969,8 @@ i386/libsaio/freebsd.c -text
 i386/libsaio/freebsd.h -text
 i386/libsaio/gma.c -text
 i386/libsaio/gma.h -text
+i386/libsaio/hda.c -text
+i386/libsaio/hda.h -text
 i386/libsaio/hfs.c -text
 i386/libsaio/hfs.h -text
 i386/libsaio/hfs_CaseTables.h -text
@@ -1057,7 +1059,10 @@ i386/modules/HelloWorld/HelloWorld.cpp -text
 i386/modules/HelloWorld/Makefile -text
 i386/modules/KernelPatcher/Cconfig -text
 i386/modules/KernelPatcher/KernelPatcher.dylib -text
+i386/modules/KernelPatcher/LICENSE -text
 i386/modules/KernelPatcher/Makefile -text
+i386/modules/KernelPatcher/NEWS -text
+i386/modules/KernelPatcher/README -text
 i386/modules/Keylayout/Cconfig -text
 i386/modules/Keylayout/Keylayout.c -text
 i386/modules/Keylayout/Keylayout.h -text
@@ -1311,6 +1316,8 @@ package/OptionalSettings/Control.txt -text
 package/OptionalSettings/General.txt -text
 package/OptionalSettings/HDAULayout.txt -text
 package/OptionalSettings/HDEFLayout.txt -text
+package/OptionalSettings/IntelAzul.txt -text
+package/OptionalSettings/IntelCapri.txt -text
 package/OptionalSettings/KernelFlags.txt -text
 package/OptionalSettings/PowerManagement.txt -text
 package/OptionalSettings/Resolution.txt -text
