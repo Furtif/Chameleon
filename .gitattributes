@@ -988,6 +988,8 @@ Enoch/i386/libsaio/msdos.h -text
 Enoch/i386/libsaio/msdos_private.h -text
 Enoch/i386/libsaio/nbp.c -text
 Enoch/i386/libsaio/nbp_cmd.h -text
+Enoch/i386/libsaio/networking.c -text
+Enoch/i386/libsaio/networking.h -text
 Enoch/i386/libsaio/ntfs.c -text
 Enoch/i386/libsaio/ntfs.h -text
 Enoch/i386/libsaio/ntfs_private.h -text
@@ -1449,6 +1451,7 @@ Enoch/package/Resources.old/zh_TW.lproj/License.rtf -text
 Enoch/package/Resources.old/zh_TW.lproj/Localizable.strings -text
 Enoch/package/Resources.old/zh_TW.lproj/Welcome.rtfd/TXT.rtf -text
 Enoch/package/Resources/common/License.rtf -text
+Enoch/package/Resources/distribution/background -text
 Enoch/package/Resources/distribution/background.tiff -text svneol=unset#image/tiff
 Enoch/package/Resources/templates/Conclusion.html -text
 Enoch/package/Resources/templates/Description.html -text
