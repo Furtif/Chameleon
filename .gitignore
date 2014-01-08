@@ -1,0 +1,17 @@
+Enoch/.config*
+Enoch/Chameleon.xcodeproj/*.mode*
+Enoch/Chameleon.xcodeproj/*.pbxuser
+Enoch/Chameleon.xcodeproj/project.xcworkspace
+Enoch/Chameleon.xcodeproj/xcuserdata
+Enoch/auto.conf
+Enoch/autoconf.h
+Enoch/autoconf.inc
+Enoch/build
+Enoch/i386/modules/module_includes
+Enoch/obj
+Enoch/package/Resources/zh-CN.lproj
+Enoch/package/Resources/zh-TW.lproj
+Enoch/package/po/*.mo
+Enoch/revision
+Enoch/sym
+Enoch/vers.h
