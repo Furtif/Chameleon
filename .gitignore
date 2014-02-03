@@ -3,6 +3,7 @@ Chameleon.xcodeproj/*.mode*
 Chameleon.xcodeproj/*.pbxuser
 Chameleon.xcodeproj/project.xcworkspace
 Chameleon.xcodeproj/xcuserdata
+/Keymaps
 /auto.conf
 /autoconf.h
 /autoconf.inc
