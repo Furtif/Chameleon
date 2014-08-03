@@ -1,5 +1,4 @@
 * text=auto !eol
-/.config -text
 /APPLE_LICENSE -text
 /BLOCKERS -text
 /CHANGES -text
@@ -182,9 +181,6 @@ artwork/themes/legacy/progress_bar_background.png -text
 artwork/themes/legacy/text_scroll_next.png -text
 artwork/themes/legacy/text_scroll_prev.png -text
 artwork/themes/legacy/theme.plist -text
-/auto.conf -text
-/autoconf.h -text
-/autoconf.inc -text
 /coding_standards.txt -text
 doc/BootHelp.txt -text
 doc/README -text
@@ -1534,5 +1530,4 @@ package/po/zh_TW.po -text
 package/po4a-chameleon.cfg -text
 package/slimpkg.sh -text
 package/smbios.plist -text
-/revision -text
 /version -text
