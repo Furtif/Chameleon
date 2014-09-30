@@ -229,6 +229,7 @@ i386/boot2/graphics.h -text
 i386/boot2/gui.c -text
 i386/boot2/gui.h -text
 i386/boot2/lzss.c -text
+i386/boot2/lzvn.c -text
 i386/boot2/mboot.c -text
 i386/boot2/mboot.h -text
 i386/boot2/modules.c -text
