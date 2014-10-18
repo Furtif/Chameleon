@@ -6,7 +6,14 @@
 /Cconfig -text
 Chameleon.xcodeproj/project.pbxproj -text
 /Chimera[!!-~]3.0.1[!!-~]Changes.txt -text
+/Chimera[!!-~]4.0.0[!!-~]Changes.txt -text
 /GPL_V2_LICENSE -text
+Keymaps/mac-de.lyt -text
+Keymaps/mac-es.lyt -text
+Keymaps/mac-fr.lyt -text
+Keymaps/mac-it.lyt -text
+Keymaps/mac-se.lyt -text
+Keymaps/pc-fr.lyt -text
 /MEMTEST86_LICENSE -text
 /Make.rules -text
 /Makefile -text
@@ -230,6 +237,7 @@ i386/boot2/graphics.h -text
 i386/boot2/gui.c -text
 i386/boot2/gui.h -text
 i386/boot2/lzss.c -text
+i386/boot2/lzvn.c -text
 i386/boot2/mboot.c -text
 i386/boot2/mboot.h -text
 i386/boot2/modules.c -text
