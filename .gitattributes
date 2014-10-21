@@ -73,6 +73,8 @@ artwork/themes/default/device_hfsplus_sl.png -text
 artwork/themes/default/device_hfsplus_sl_o.png -text
 artwork/themes/default/device_hfsplus_tiger.png -text
 artwork/themes/default/device_hfsplus_tiger_o.png -text
+artwork/themes/default/device_hfsplus_yos.png -text
+artwork/themes/default/device_hfsplus_yos_o.png -text
 artwork/themes/default/device_hfsraid.png -text
 artwork/themes/default/device_hfsraid_leo.png -text
 artwork/themes/default/device_hfsraid_leo_o.png -text
@@ -87,6 +89,8 @@ artwork/themes/default/device_hfsraid_sl.png -text
 artwork/themes/default/device_hfsraid_sl_o.png -text
 artwork/themes/default/device_hfsraid_tiger.png -text
 artwork/themes/default/device_hfsraid_tiger_o.png -text
+artwork/themes/default/device_hfsraid_yos.png -text
+artwork/themes/default/device_hfsraid_yos_o.png -text
 artwork/themes/default/device_ntfs.png -text
 artwork/themes/default/device_ntfs_o.png -text
 artwork/themes/default/device_openbsd.png -text
