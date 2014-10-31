@@ -38,10 +38,14 @@ Enoch/artwork/themes/default/device_hfsplus_mav_o.png -text
 Enoch/artwork/themes/default/device_hfsplus_ml.png -text
 Enoch/artwork/themes/default/device_hfsplus_ml_o.png -text
 Enoch/artwork/themes/default/device_hfsplus_o.png -text
+Enoch/artwork/themes/default/device_hfsplus_recovery.png -text
+Enoch/artwork/themes/default/device_hfsplus_recovery_o.png -text
 Enoch/artwork/themes/default/device_hfsplus_sl.png -text
 Enoch/artwork/themes/default/device_hfsplus_sl_o.png -text
 Enoch/artwork/themes/default/device_hfsplus_tiger.png -text
 Enoch/artwork/themes/default/device_hfsplus_tiger_o.png -text
+Enoch/artwork/themes/default/device_hfsplus_yos.png -text
+Enoch/artwork/themes/default/device_hfsplus_yos_o.png -text
 Enoch/artwork/themes/default/device_hfsraid.png -text
 Enoch/artwork/themes/default/device_hfsraid_leo.png -text
 Enoch/artwork/themes/default/device_hfsraid_leo_o.png -text
@@ -56,6 +60,8 @@ Enoch/artwork/themes/default/device_hfsraid_sl.png -text
 Enoch/artwork/themes/default/device_hfsraid_sl_o.png -text
 Enoch/artwork/themes/default/device_hfsraid_tiger.png -text
 Enoch/artwork/themes/default/device_hfsraid_tiger_o.png -text
+Enoch/artwork/themes/default/device_hfsraid_yos.png -text
+Enoch/artwork/themes/default/device_hfsraid_yos_o.png -text
 Enoch/artwork/themes/default/device_ntfs.png -text
 Enoch/artwork/themes/default/device_ntfs_o.png -text
 Enoch/artwork/themes/default/device_openbsd.png -text
@@ -137,6 +143,7 @@ Enoch/i386/boot2/graphics.h -text
 Enoch/i386/boot2/gui.c -text
 Enoch/i386/boot2/gui.h -text
 Enoch/i386/boot2/lzss.c -text
+Enoch/i386/boot2/lzvn.c -text
 Enoch/i386/boot2/mboot.c -text
 Enoch/i386/boot2/mboot.h -text
 Enoch/i386/boot2/modules.c -text
