@@ -931,6 +931,8 @@ Enoch/i386/libsaio/smbios_getters.c -text
 Enoch/i386/libsaio/smbios_getters.h -text
 Enoch/i386/libsaio/spd.c -text
 Enoch/i386/libsaio/spd.h -text
+Enoch/i386/libsaio/state_generator.c -text
+Enoch/i386/libsaio/state_generator.h -text
 Enoch/i386/libsaio/stringTable.c -text
 Enoch/i386/libsaio/sys.c -text
 Enoch/i386/libsaio/table.c -text
