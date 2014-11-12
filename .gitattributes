@@ -69,10 +69,14 @@ artwork/themes/default/device_hfsplus_mav_o.png -text
 artwork/themes/default/device_hfsplus_ml.png -text
 artwork/themes/default/device_hfsplus_ml_o.png -text
 artwork/themes/default/device_hfsplus_o.png -text
+artwork/themes/default/device_hfsplus_recovery.png -text
+artwork/themes/default/device_hfsplus_recovery_o.png -text
 artwork/themes/default/device_hfsplus_sl.png -text
 artwork/themes/default/device_hfsplus_sl_o.png -text
 artwork/themes/default/device_hfsplus_tiger.png -text
 artwork/themes/default/device_hfsplus_tiger_o.png -text
+artwork/themes/default/device_hfsplus_yos.png -text
+artwork/themes/default/device_hfsplus_yos_o.png -text
 artwork/themes/default/device_hfsraid.png -text
 artwork/themes/default/device_hfsraid_leo.png -text
 artwork/themes/default/device_hfsraid_leo_o.png -text
@@ -87,6 +91,8 @@ artwork/themes/default/device_hfsraid_sl.png -text
 artwork/themes/default/device_hfsraid_sl_o.png -text
 artwork/themes/default/device_hfsraid_tiger.png -text
 artwork/themes/default/device_hfsraid_tiger_o.png -text
+artwork/themes/default/device_hfsraid_yos.png -text
+artwork/themes/default/device_hfsraid_yos_o.png -text
 artwork/themes/default/device_ntfs.png -text
 artwork/themes/default/device_ntfs_o.png -text
 artwork/themes/default/device_openbsd.png -text
@@ -229,6 +235,7 @@ i386/boot2/graphics.h -text
 i386/boot2/gui.c -text
 i386/boot2/gui.h -text
 i386/boot2/lzss.c -text
+i386/boot2/lzvn.c -text
 i386/boot2/mboot.c -text
 i386/boot2/mboot.h -text
 i386/boot2/modules.c -text
@@ -1322,132 +1329,6 @@ package/OptionalSettings/KernelFlags.txt -text
 package/OptionalSettings/PowerManagement.txt -text
 package/OptionalSettings/Resolution.txt -text
 package/OptionalSettings/Video.txt -text
-package/Resources.old/ar.lproj/Conclusion.rtfd/TXT.rtf -text
-package/Resources.old/ar.lproj/Description.html -text
-package/Resources.old/ar.lproj/License.rtf -text
-package/Resources.old/ar.lproj/Localizable.strings -text
-package/Resources.old/ar.lproj/Welcome.rtfd/TXT.rtf -text
-package/Resources.old/background.tiff -text svneol=unset#image/tiff
-package/Resources.old/bg.lproj/Conclusion.rtfd/TXT.rtf -text
-package/Resources.old/bg.lproj/Description.html -text
-package/Resources.old/bg.lproj/License.rtf -text
-package/Resources.old/bg.lproj/Localizable.strings -text
-package/Resources.old/bg.lproj/Welcome.rtfd/TXT.rtf -text
-package/Resources.old/bs.lproj/Conclusion.rtfd/TXT.rtf -text
-package/Resources.old/bs.lproj/Description.html -text
-package/Resources.old/bs.lproj/License.rtf -text
-package/Resources.old/bs.lproj/Localizable.strings -text
-package/Resources.old/bs.lproj/Welcome.rtfd/TXT.rtf -text
-package/Resources.old/ca.lproj/Conclusion.rtfd/TXT.rtf -text
-package/Resources.old/ca.lproj/Description.html -text
-package/Resources.old/ca.lproj/License.rtf -text
-package/Resources.old/ca.lproj/Localizable.strings -text
-package/Resources.old/ca.lproj/Welcome.rtfd/TXT.rtf -text
-package/Resources.old/de.lproj/Conclusion.rtfd/TXT.rtf -text
-package/Resources.old/de.lproj/Description.html -text
-package/Resources.old/de.lproj/License.rtf -text
-package/Resources.old/de.lproj/Localizable.strings -text svneol=unset#unset
-package/Resources.old/de.lproj/Welcome.rtfd/TXT.rtf -text
-package/Resources.old/el.lproj/Conclusion.rtfd/TXT.rtf -text
-package/Resources.old/el.lproj/Description.html -text
-package/Resources.old/el.lproj/License.rtf -text
-package/Resources.old/el.lproj/Localizable.strings -text
-package/Resources.old/el.lproj/Welcome.rtfd/TXT.rtf -text
-package/Resources.old/en.lproj/Conclusion.rtfd/TXT.rtf -text
-package/Resources.old/en.lproj/Description.html -text
-package/Resources.old/en.lproj/License.rtf -text
-package/Resources.old/en.lproj/Localizable.strings -text svneol=unset#unset
-package/Resources.old/en.lproj/Welcome.rtfd/TXT.rtf -text
-package/Resources.old/es.lproj/Conclusion.rtfd/TXT.rtf -text
-package/Resources.old/es.lproj/Description.html -text
-package/Resources.old/es.lproj/License.rtf -text
-package/Resources.old/es.lproj/Localizable.strings -text svneol=unset#unset
-package/Resources.old/es.lproj/Welcome.rtfd/TXT.rtf -text
-package/Resources.old/fr.lproj/Conclusion.rtfd/TXT.rtf -text
-package/Resources.old/fr.lproj/Description.html -text
-package/Resources.old/fr.lproj/License.rtf -text
-package/Resources.old/fr.lproj/Localizable.strings -text svneol=unset#unset
-package/Resources.old/fr.lproj/Welcome.rtfd/TXT.rtf -text
-package/Resources.old/he.lproj/Conclusion.rtfd/TXT.rtf -text
-package/Resources.old/he.lproj/Description.html -text
-package/Resources.old/he.lproj/License.rtf -text
-package/Resources.old/he.lproj/Localizable.strings -text
-package/Resources.old/he.lproj/Welcome.rtfd/TXT.rtf -text
-package/Resources.old/hr.lproj/Conclusion.rtfd/TXT.rtf -text
-package/Resources.old/hr.lproj/Description.html -text
-package/Resources.old/hr.lproj/License.rtf -text
-package/Resources.old/hr.lproj/Localizable.strings -text
-package/Resources.old/hr.lproj/Welcome.rtfd/TXT.rtf -text
-package/Resources.old/id.lproj/Conclusion.rtfd/TXT.rtf -text
-package/Resources.old/id.lproj/Description.html -text
-package/Resources.old/id.lproj/License.rtf -text
-package/Resources.old/id.lproj/Localizable.strings -text svneol=unset#unset
-package/Resources.old/id.lproj/Welcome.rtfd/TXT.rtf -text
-package/Resources.old/it.lproj/Conclusion.rtfd/TXT.rtf -text
-package/Resources.old/it.lproj/Description.html -text
-package/Resources.old/it.lproj/License.rtf -text
-package/Resources.old/it.lproj/Localizable.strings -text svneol=unset#unset
-package/Resources.old/it.lproj/Welcome.rtfd/TXT.rtf -text
-package/Resources.old/ja.lproj/Conclusion.rtfd/TXT.rtf -text
-package/Resources.old/ja.lproj/Description.html -text
-package/Resources.old/ja.lproj/License.rtf -text
-package/Resources.old/ja.lproj/Localizable.strings -text
-package/Resources.old/ja.lproj/Welcome.rtfd/TXT.rtf -text
-package/Resources.old/ko.lproj/Conclusion.rtfd/TXT.rtf -text
-package/Resources.old/ko.lproj/Description.html -text
-package/Resources.old/ko.lproj/License.rtf -text
-package/Resources.old/ko.lproj/Localizable.strings -text
-package/Resources.old/ko.lproj/Welcome.rtfd/TXT.rtf -text
-package/Resources.old/mk.lproj/Conclusion.rtfd/TXT.rtf -text
-package/Resources.old/mk.lproj/Description.html -text
-package/Resources.old/mk.lproj/License.rtf -text
-package/Resources.old/mk.lproj/Localizable.strings -text
-package/Resources.old/mk.lproj/Welcome.rtfd/TXT.rtf -text
-package/Resources.old/nl.lproj/Conclusion.rtfd/TXT.rtf -text
-package/Resources.old/nl.lproj/Description.html -text
-package/Resources.old/nl.lproj/License.rtf -text
-package/Resources.old/nl.lproj/Localizable.strings -text
-package/Resources.old/nl.lproj/Welcome.rtfd/TXT.rtf -text
-package/Resources.old/pl.lproj/Conclusion.rtfd/TXT.rtf -text
-package/Resources.old/pl.lproj/Description.html -text
-package/Resources.old/pl.lproj/License.rtf -text
-package/Resources.old/pl.lproj/Localizable.strings -text svneol=unset#unset
-package/Resources.old/pl.lproj/Welcome.rtfd/TXT.rtf -text
-package/Resources.old/pt-BR.lproj/Conclusion.rtfd/TXT.rtf -text
-package/Resources.old/pt-BR.lproj/Description.html -text
-package/Resources.old/pt-BR.lproj/License.rtf -text
-package/Resources.old/pt-BR.lproj/Localizable.strings -text svneol=unset#unset
-package/Resources.old/pt-BR.lproj/Welcome.rtfd/TXT.rtf -text
-package/Resources.old/pt-PT.lproj/Conclusion.rtfd/TXT.rtf -text
-package/Resources.old/pt-PT.lproj/Description.html -text
-package/Resources.old/pt-PT.lproj/License.rtf -text
-package/Resources.old/pt-PT.lproj/Localizable.strings -text svneol=unset#unset
-package/Resources.old/pt-PT.lproj/Welcome.rtfd/TXT.rtf -text
-package/Resources.old/ro.lproj/Conclusion.rtfd/TXT.rtf -text
-package/Resources.old/ro.lproj/Description.html -text
-package/Resources.old/ro.lproj/License.rtf -text
-package/Resources.old/ro.lproj/Localizable.strings -text
-package/Resources.old/ro.lproj/Welcome.rtfd/TXT.rtf -text
-package/Resources.old/ru.lproj/Conclusion.rtfd/TXT.rtf -text
-package/Resources.old/ru.lproj/Description.html -text
-package/Resources.old/ru.lproj/License.rtf -text
-package/Resources.old/ru.lproj/Localizable.strings -text
-package/Resources.old/ru.lproj/Welcome.rtfd/TXT.rtf -text
-package/Resources.old/sr.lproj/Conclusion.rtfd/TXT.rtf -text
-package/Resources.old/sr.lproj/Description.html -text
-package/Resources.old/sr.lproj/License.rtf -text
-package/Resources.old/sr.lproj/Localizable.strings -text svneol=unset#unset
-package/Resources.old/sr.lproj/Welcome.rtfd/TXT.rtf -text
-package/Resources.old/zh_CN.lproj/Conclusion.rtfd/TXT.rtf -text
-package/Resources.old/zh_CN.lproj/Description.html -text
-package/Resources.old/zh_CN.lproj/License.rtf -text
-package/Resources.old/zh_CN.lproj/Localizable.strings -text
-package/Resources.old/zh_CN.lproj/Welcome.rtfd/TXT.rtf -text
-package/Resources.old/zh_TW.lproj/Conclusion.rtfd/TXT.rtf -text
-package/Resources.old/zh_TW.lproj/Description.html -text
-package/Resources.old/zh_TW.lproj/License.rtf -text
-package/Resources.old/zh_TW.lproj/Localizable.strings -text
-package/Resources.old/zh_TW.lproj/Welcome.rtfd/TXT.rtf -text
 package/Resources/common/License.rtf -text
 package/Resources/distribution/background.tiff -text svneol=unset#image/tiff
 package/Resources/templates/Conclusion.html -text
