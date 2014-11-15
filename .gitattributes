@@ -1021,6 +1021,8 @@ i386/libsaio/smbios_getters.c -text
 i386/libsaio/smbios_getters.h -text
 i386/libsaio/spd.c -text
 i386/libsaio/spd.h -text
+i386/libsaio/state_generator.c -text
+i386/libsaio/state_generator.h -text
 i386/libsaio/stringTable.c -text
 i386/libsaio/sys.c -text
 i386/libsaio/table.c -text
