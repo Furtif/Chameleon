@@ -118,6 +118,7 @@ Enoch/i386/boot0/Makefile -text
 Enoch/i386/boot0/boot0.s -text
 Enoch/i386/boot0/boot0hfs.s -text
 Enoch/i386/boot0/boot0md.s -text
+Enoch/i386/boot0/boot0xg.s -text
 Enoch/i386/boot0/chain0.s -text
 Enoch/i386/boot1/Cconfig -text
 Enoch/i386/boot1/Makefile -text
@@ -126,6 +127,7 @@ Enoch/i386/boot1/boot1f32.s -text
 Enoch/i386/boot1/boot1h.s -text
 Enoch/i386/boot1/boot1he.s -text
 Enoch/i386/boot1/boot1hp.s -text
+Enoch/i386/boot1/boot1x.s -text
 Enoch/i386/boot2/Cconfig -text
 Enoch/i386/boot2/IOHibernatePrivate.h -text
 Enoch/i386/boot2/Makefile -text
@@ -1203,6 +1205,9 @@ Enoch/i386/modules/uClibcxx/vector.cpp -text
 Enoch/i386/util/Cconfig -text
 Enoch/i386/util/Makefile -text
 Enoch/i386/util/bdmesg.c -text
+Enoch/i386/util/boot1-install/Cconfig -text
+Enoch/i386/util/boot1-install/Makefile -text
+Enoch/i386/util/boot1-install/boot1-install.c -text
 Enoch/i386/util/dyldsymboltool.c -text
 Enoch/i386/util/fdisk/Cconfig -text
 Enoch/i386/util/fdisk/Makefile -text
