@@ -115,10 +115,10 @@ Enoch/i386/Cconfig -text
 Enoch/i386/Makefile -text
 Enoch/i386/boot0/Cconfig -text
 Enoch/i386/boot0/Makefile -text
+Enoch/i386/boot0/boot0.old -text
 Enoch/i386/boot0/boot0.s -text
 Enoch/i386/boot0/boot0hfs.s -text
 Enoch/i386/boot0/boot0md.s -text
-Enoch/i386/boot0/boot0xg.s -text
 Enoch/i386/boot0/chain0.s -text
 Enoch/i386/boot1/Cconfig -text
 Enoch/i386/boot1/Makefile -text
