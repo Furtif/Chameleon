@@ -228,6 +228,7 @@ i386/boot2/boot.c -text
 i386/boot2/boot.h -text
 i386/boot2/boot2.s -text
 i386/boot2/drivers.c -text
+i386/boot2/failedboot.h -text
 i386/boot2/graphic_utils.c -text
 i386/boot2/graphic_utils.h -text
 i386/boot2/graphics.c -text
@@ -1021,6 +1022,8 @@ i386/libsaio/smbios_getters.c -text
 i386/libsaio/smbios_getters.h -text
 i386/libsaio/spd.c -text
 i386/libsaio/spd.h -text
+i386/libsaio/state_generator.c -text
+i386/libsaio/state_generator.h -text
 i386/libsaio/stringTable.c -text
 i386/libsaio/sys.c -text
 i386/libsaio/table.c -text
