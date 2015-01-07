@@ -1233,6 +1233,7 @@ Enoch/i386/util/fdisk/user.h -text
 Enoch/i386/util/fdisk/util.h -text
 Enoch/i386/util/machOconv.c -text
 Enoch/i386/util/openUp.c -text
+Enoch/i386/util/sectorsize.c -text
 Enoch/i386/util/segsize.c -text
 Enoch/package/Changes.txt -text
 Enoch/package/Distribution -text
