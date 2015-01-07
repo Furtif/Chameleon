@@ -1321,6 +1321,7 @@ i386/util/fdisk/user.h -text
 i386/util/fdisk/util.h -text
 i386/util/machOconv.c -text
 i386/util/openUp.c -text
+i386/util/sectorsize.c -text
 i386/util/segsize.c -text
 package/Changes.txt -text
 package/Distribution -text
