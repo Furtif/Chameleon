@@ -832,6 +832,7 @@ Enoch/i386/libsa/Makefile -text
 Enoch/i386/libsa/efi_tables.c -text
 Enoch/i386/libsa/efi_tables.h -text
 Enoch/i386/libsa/error.c -text
+Enoch/i386/libsa/interrupts.c -text
 Enoch/i386/libsa/libsa.h -text
 Enoch/i386/libsa/memory.h -text
 Enoch/i386/libsa/prf.c -text
