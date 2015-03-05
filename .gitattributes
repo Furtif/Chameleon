@@ -922,6 +922,7 @@ i386/libsa/Makefile -text
 i386/libsa/efi_tables.c -text
 i386/libsa/efi_tables.h -text
 i386/libsa/error.c -text
+i386/libsa/interrupts.c -text
 i386/libsa/libsa.h -text
 i386/libsa/memory.h -text
 i386/libsa/prf.c -text
