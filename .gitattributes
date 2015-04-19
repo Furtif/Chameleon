@@ -1353,6 +1353,9 @@ package/Scripts.templates/Pre/preinstall -text
 package/Scripts/Main/BootNO -text
 package/Scripts/Main/BootYES -text
 package/Scripts/Main/ESPpostinstall -text
+package/Scripts/Main/SkipActivePartition -text
+package/Scripts/Main/SkipStage0 -text
+package/Scripts/Main/SkipStage1 -text
 package/Scripts/Main/Standardpostinstall -text
 package/bin/clean_po_headers.sh -text
 package/bin/po4a/COPYING -text
