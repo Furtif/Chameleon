@@ -1265,6 +1265,9 @@ Enoch/package/Scripts.templates/Pre/preinstall -text
 Enoch/package/Scripts/Main/BootNO -text
 Enoch/package/Scripts/Main/BootYES -text
 Enoch/package/Scripts/Main/ESPpostinstall -text
+Enoch/package/Scripts/Main/SkipActivePartition -text
+Enoch/package/Scripts/Main/SkipStage0 -text
+Enoch/package/Scripts/Main/SkipStage1 -text
 Enoch/package/Scripts/Main/Standardpostinstall -text
 Enoch/package/bin/clean_po_headers.sh -text
 Enoch/package/bin/po4a/COPYING -text
