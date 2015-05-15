@@ -998,6 +998,8 @@ i386/libsaio/msdos.h -text
 i386/libsaio/msdos_private.h -text
 i386/libsaio/nbp.c -text
 i386/libsaio/nbp_cmd.h -text
+i386/libsaio/networking.c -text
+i386/libsaio/networking.h -text
 i386/libsaio/ntfs.c -text
 i386/libsaio/ntfs.h -text
 i386/libsaio/ntfs_private.h -text
