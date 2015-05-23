@@ -1245,6 +1245,7 @@ Enoch/package/OptionalSettings/General.txt -text
 Enoch/package/OptionalSettings/HDAULayout.txt -text
 Enoch/package/OptionalSettings/HDEFLayout.txt -text
 Enoch/package/OptionalSettings/IntelAzul.txt -text
+Enoch/package/OptionalSettings/IntelBdw.txt -text
 Enoch/package/OptionalSettings/IntelCapri.txt -text
 Enoch/package/OptionalSettings/KernelFlags.txt -text
 Enoch/package/OptionalSettings/PowerManagement.txt -text
