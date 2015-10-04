@@ -1,16 +1,26 @@
 * text=auto !eol
+/.cproject -text
+.launch_configuration/Copy[!!-~]Boot0[!!-~]Boot1[!!-~]Boot2.launch -text
+.launch_configuration/Copy[!!-~]Boot2.launch -text
+.launch_configuration/Debug[!!-~]Chameleon[!!-~]in[!!-~]VMWare[!!-~](no[!!-~]build).launch -text
+.launch_configuration/Start[!!-~]VMWare[!!-~](no[!!-~]build).launch -text
+/.project -text
+.settings/language.settings.xml -text
 /APPLE_LICENSE -text
 /BLOCKERS -text
 /CHANGES -text
 /CREDITS -text
 /Cconfig -text
 Chameleon.xcodeproj/project.pbxproj -text
+/CopyChameleonBoot0Boot1Boot2 -text
+/CopyChameleonBoot2 -text
 /GPL_V2_LICENSE -text
 /MEMTEST86_LICENSE -text
 /Make.rules -text
 /Makefile -text
 /README -text
 /README.translators -text
+/StartVMWare -text
 /TODO -text
 artwork/themes/bullet/background.png -text svneol=unset#image/png
 artwork/themes/bullet/boot.png -text svneol=unset#image/png
@@ -195,6 +205,7 @@ doc/archive/Users_Guide0.4.pdf -text svneol=unset#unset
 doc/archive/Users_Guide_v0.3.pdf -text svneol=unset#unset
 doc/org.chameleon.Boot.nvidia.plist -text
 doc/themeinfo.png -text svneol=unset#image/png
+/gdbinit -text
 i386/Cconfig -text
 i386/Makefile -text
 i386/boot0/Cconfig -text
