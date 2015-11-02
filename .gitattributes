@@ -1247,22 +1247,26 @@ Enoch/package/Distribution -text
 Enoch/package/Icons/pkg.zip -text svneol=unset#unset
 Enoch/package/OptionalSettings/Audio.txt -text
 Enoch/package/OptionalSettings/Control.txt -text
+Enoch/package/OptionalSettings/CrsActiveConfig.txt -text
 Enoch/package/OptionalSettings/General.txt -text
 Enoch/package/OptionalSettings/HDAULayout.txt -text
 Enoch/package/OptionalSettings/HDEFLayout.txt -text
 Enoch/package/OptionalSettings/IntelAzul.txt -text
 Enoch/package/OptionalSettings/IntelBdw.txt -text
 Enoch/package/OptionalSettings/IntelCapri.txt -text
+Enoch/package/OptionalSettings/IntelSkl.txt -text
 Enoch/package/OptionalSettings/KernelFlags.txt -text
 Enoch/package/OptionalSettings/PowerManagement.txt -text
 Enoch/package/OptionalSettings/Resolution.txt -text
 Enoch/package/OptionalSettings/Video.txt -text
+Enoch/package/Patches/kernelPatcher.txt -text
 Enoch/package/Resources/common/License.rtf -text
 Enoch/package/Resources/distribution/background -text
 Enoch/package/Resources/templates/Conclusion.html -text
 Enoch/package/Resources/templates/Description.html -text
 Enoch/package/Resources/templates/Localizable.strings -text
 Enoch/package/Resources/templates/Welcome.html -text
+Enoch/package/Scripts.templates/AddKernelOption/postinstall -text
 Enoch/package/Scripts.templates/AddOption/postinstall -text
 Enoch/package/Scripts.templates/CleanOptions/clean_bootplist.pl -text
 Enoch/package/Scripts.templates/InstallModule/postinstall -text
@@ -1284,6 +1288,7 @@ Enoch/package/bin/po4a/README -text
 Enoch/package/bin/po4a/README.maintainers -text
 Enoch/package/bin/po4a/README.tests -text
 Enoch/package/bin/po4a/README.translators -text
+Enoch/package/bin/po4a/lib/Locale/Po4a/AsciiDoc.pm -text
 Enoch/package/bin/po4a/lib/Locale/Po4a/BibTeX.pm -text
 Enoch/package/bin/po4a/lib/Locale/Po4a/Chooser.pm -text
 Enoch/package/bin/po4a/lib/Locale/Po4a/Common.pm -text
