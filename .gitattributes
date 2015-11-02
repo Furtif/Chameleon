@@ -1339,22 +1339,26 @@ package/Distribution -text
 package/Icons/pkg.zip -text svneol=unset#unset
 package/OptionalSettings/Audio.txt -text
 package/OptionalSettings/Control.txt -text
+package/OptionalSettings/CrsActiveConfig.txt -text
 package/OptionalSettings/General.txt -text
 package/OptionalSettings/HDAULayout.txt -text
 package/OptionalSettings/HDEFLayout.txt -text
 package/OptionalSettings/IntelAzul.txt -text
 package/OptionalSettings/IntelBdw.txt -text
 package/OptionalSettings/IntelCapri.txt -text
+package/OptionalSettings/IntelSkl.txt -text
 package/OptionalSettings/KernelFlags.txt -text
 package/OptionalSettings/PowerManagement.txt -text
 package/OptionalSettings/Resolution.txt -text
 package/OptionalSettings/Video.txt -text
+package/Patches/kernelPatcher.txt -text
 package/Resources/common/License.rtf -text
 package/Resources/distribution/background.tiff -text svneol=unset#image/tiff
 package/Resources/templates/Conclusion.html -text
 package/Resources/templates/Description.html -text
 package/Resources/templates/Localizable.strings -text
 package/Resources/templates/Welcome.html -text
+package/Scripts.templates/AddKernelOption/postinstall -text
 package/Scripts.templates/AddOption/postinstall -text
 package/Scripts.templates/CleanOptions/clean_bootplist.pl -text
 package/Scripts.templates/InstallModule/postinstall -text
@@ -1376,6 +1380,7 @@ package/bin/po4a/README -text
 package/bin/po4a/README.maintainers -text
 package/bin/po4a/README.tests -text
 package/bin/po4a/README.translators -text
+package/bin/po4a/lib/Locale/Po4a/AsciiDoc.pm -text
 package/bin/po4a/lib/Locale/Po4a/BibTeX.pm -text
 package/bin/po4a/lib/Locale/Po4a/Chooser.pm -text
 package/bin/po4a/lib/Locale/Po4a/Common.pm -text
