@@ -57,9 +57,15 @@ artwork/themes/default/device_freebsd.png -text
 artwork/themes/default/device_freebsd_o.png -text
 artwork/themes/default/device_generic.png -text
 artwork/themes/default/device_generic_o.png -text
+artwork/themes/default/device_hfsfusion_cap.png -text
+artwork/themes/default/device_hfsfusion_cap_o.png -text
 artwork/themes/default/device_hfsfusion_mav.png -text
 artwork/themes/default/device_hfsfusion_mav_o.png -text
+artwork/themes/default/device_hfsfusion_yos.png -text
+artwork/themes/default/device_hfsfusion_yos_o.png -text
 artwork/themes/default/device_hfsplus.png -text
+artwork/themes/default/device_hfsplus_cap.png -text
+artwork/themes/default/device_hfsplus_cap_o.png -text
 artwork/themes/default/device_hfsplus_leo.png -text
 artwork/themes/default/device_hfsplus_leo_o.png -text
 artwork/themes/default/device_hfsplus_lion.png -text
@@ -78,6 +84,8 @@ artwork/themes/default/device_hfsplus_tiger_o.png -text
 artwork/themes/default/device_hfsplus_yos.png -text
 artwork/themes/default/device_hfsplus_yos_o.png -text
 artwork/themes/default/device_hfsraid.png -text
+artwork/themes/default/device_hfsraid_cap.png -text
+artwork/themes/default/device_hfsraid_cap_o.png -text
 artwork/themes/default/device_hfsraid_leo.png -text
 artwork/themes/default/device_hfsraid_leo_o.png -text
 artwork/themes/default/device_hfsraid_lion.png -text
@@ -997,6 +1005,8 @@ i386/libsaio/msdos.h -text
 i386/libsaio/msdos_private.h -text
 i386/libsaio/nbp.c -text
 i386/libsaio/nbp_cmd.h -text
+i386/libsaio/networking.c -text
+i386/libsaio/networking.h -text
 i386/libsaio/ntfs.c -text
 i386/libsaio/ntfs.h -text
 i386/libsaio/ntfs_private.h -text
@@ -1328,21 +1338,26 @@ package/Distribution -text
 package/Icons/pkg.zip -text svneol=unset#unset
 package/OptionalSettings/Audio.txt -text
 package/OptionalSettings/Control.txt -text
+package/OptionalSettings/CrsActiveConfig.txt -text
 package/OptionalSettings/General.txt -text
 package/OptionalSettings/HDAULayout.txt -text
 package/OptionalSettings/HDEFLayout.txt -text
 package/OptionalSettings/IntelAzul.txt -text
+package/OptionalSettings/IntelBdw.txt -text
 package/OptionalSettings/IntelCapri.txt -text
+package/OptionalSettings/IntelSkl.txt -text
 package/OptionalSettings/KernelFlags.txt -text
 package/OptionalSettings/PowerManagement.txt -text
 package/OptionalSettings/Resolution.txt -text
 package/OptionalSettings/Video.txt -text
+package/Patches/kernelPatcher.txt -text
 package/Resources/common/License.rtf -text
 package/Resources/distribution/background.tiff -text svneol=unset#image/tiff
 package/Resources/templates/Conclusion.html -text
 package/Resources/templates/Description.html -text
 package/Resources/templates/Localizable.strings -text
 package/Resources/templates/Welcome.html -text
+package/Scripts.templates/AddKernelOption/postinstall -text
 package/Scripts.templates/AddOption/postinstall -text
 package/Scripts.templates/CleanOptions/clean_bootplist.pl -text
 package/Scripts.templates/InstallModule/postinstall -text
@@ -1352,6 +1367,9 @@ package/Scripts.templates/Pre/preinstall -text
 package/Scripts/Main/BootNO -text
 package/Scripts/Main/BootYES -text
 package/Scripts/Main/ESPpostinstall -text
+package/Scripts/Main/SkipActivePartition -text
+package/Scripts/Main/SkipStage0 -text
+package/Scripts/Main/SkipStage1 -text
 package/Scripts/Main/Standardpostinstall -text
 package/bin/clean_po_headers.sh -text
 package/bin/po4a/COPYING -text
@@ -1361,6 +1379,7 @@ package/bin/po4a/README -text
 package/bin/po4a/README.maintainers -text
 package/bin/po4a/README.tests -text
 package/bin/po4a/README.translators -text
+package/bin/po4a/lib/Locale/Po4a/AsciiDoc.pm -text
 package/bin/po4a/lib/Locale/Po4a/BibTeX.pm -text
 package/bin/po4a/lib/Locale/Po4a/Chooser.pm -text
 package/bin/po4a/lib/Locale/Po4a/Common.pm -text
