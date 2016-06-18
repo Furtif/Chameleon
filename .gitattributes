@@ -30,6 +30,8 @@ Enoch/artwork/themes/default/device_hfsfusion_cap.png -text
 Enoch/artwork/themes/default/device_hfsfusion_cap_o.png -text
 Enoch/artwork/themes/default/device_hfsfusion_mav.png -text
 Enoch/artwork/themes/default/device_hfsfusion_mav_o.png -text
+Enoch/artwork/themes/default/device_hfsfusion_sie.png -text
+Enoch/artwork/themes/default/device_hfsfusion_sie_o.png -text
 Enoch/artwork/themes/default/device_hfsfusion_yos.png -text
 Enoch/artwork/themes/default/device_hfsfusion_yos_o.png -text
 Enoch/artwork/themes/default/device_hfsplus.png -text
@@ -46,6 +48,8 @@ Enoch/artwork/themes/default/device_hfsplus_ml_o.png -text
 Enoch/artwork/themes/default/device_hfsplus_o.png -text
 Enoch/artwork/themes/default/device_hfsplus_recovery.png -text
 Enoch/artwork/themes/default/device_hfsplus_recovery_o.png -text
+Enoch/artwork/themes/default/device_hfsplus_sie.png -text
+Enoch/artwork/themes/default/device_hfsplus_sie_o.png -text
 Enoch/artwork/themes/default/device_hfsplus_sl.png -text
 Enoch/artwork/themes/default/device_hfsplus_sl_o.png -text
 Enoch/artwork/themes/default/device_hfsplus_tiger.png -text
@@ -64,6 +68,8 @@ Enoch/artwork/themes/default/device_hfsraid_mav_o.png -text
 Enoch/artwork/themes/default/device_hfsraid_ml.png -text
 Enoch/artwork/themes/default/device_hfsraid_ml_o.png -text
 Enoch/artwork/themes/default/device_hfsraid_o.png -text
+Enoch/artwork/themes/default/device_hfsraid_sie.png -text
+Enoch/artwork/themes/default/device_hfsraid_sie_o.png -text
 Enoch/artwork/themes/default/device_hfsraid_sl.png -text
 Enoch/artwork/themes/default/device_hfsraid_sl_o.png -text
 Enoch/artwork/themes/default/device_hfsraid_tiger.png -text
