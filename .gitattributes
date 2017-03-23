@@ -4,7 +4,7 @@ Enoch/BLOCKERS -text
 Enoch/CHANGES -text
 Enoch/CREDITS -text
 Enoch/Cconfig -text
-Enoch/Chameleon.xcodeproj/project.pbxproj -text
+Enoch/Enoch.xcodeproj/project.pbxproj -text
 Enoch/GPL_V2_LICENSE -text
 Enoch/MEMTEST86_LICENSE -text
 Enoch/Make.rules -text
@@ -151,6 +151,7 @@ Enoch/i386/boot2/bmdecompress.c -text
 Enoch/i386/boot2/boot.c -text
 Enoch/i386/boot2/boot.h -text
 Enoch/i386/boot2/boot2.s -text
+Enoch/i386/boot2/config.h -text
 Enoch/i386/boot2/drivers.c -text
 Enoch/i386/boot2/graphic_utils.c -text
 Enoch/i386/boot2/graphic_utils.h -text
