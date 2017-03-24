@@ -243,6 +243,7 @@ i386/boot2/bmdecompress.c -text
 i386/boot2/boot.c -text
 i386/boot2/boot.h -text
 i386/boot2/boot2.s -text
+i386/boot2/config.h -text
 i386/boot2/drivers.c -text
 i386/boot2/graphic_utils.c -text
 i386/boot2/graphic_utils.h -text
