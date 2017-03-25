@@ -141,6 +141,8 @@ Enoch/i386/boot1/boot1he.s -text
 Enoch/i386/boot1/boot1hp.s -text
 Enoch/i386/boot1/boot1x.s -text
 Enoch/i386/boot2/Cconfig -text
+Enoch/i386/boot2/FakeSMC.h -text
+Enoch/i386/boot2/FakeSMCInfo.plist.h -text
 Enoch/i386/boot2/IOHibernatePrivate.h -text
 Enoch/i386/boot2/Makefile -text
 Enoch/i386/boot2/WKdm.h -text
