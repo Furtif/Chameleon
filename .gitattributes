@@ -870,6 +870,8 @@ Enoch/i386/libsaio/ati_reg.h -text
 Enoch/i386/libsaio/base64-decode.c -text
 Enoch/i386/libsaio/befs.c -text
 Enoch/i386/libsaio/befs.h -text
+Enoch/i386/libsaio/binaryPatcher.c -text
+Enoch/i386/libsaio/binaryPatcher.h -text
 Enoch/i386/libsaio/bios.h -text
 Enoch/i386/libsaio/bios.s -text
 Enoch/i386/libsaio/biosfn.c -text
