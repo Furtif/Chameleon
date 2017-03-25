@@ -159,6 +159,8 @@ Enoch/i386/boot2/graphics.c -text
 Enoch/i386/boot2/graphics.h -text
 Enoch/i386/boot2/gui.c -text
 Enoch/i386/boot2/gui.h -text
+Enoch/i386/boot2/kernel_patcher_internal.c -text
+Enoch/i386/boot2/kernel_patcher_internal.h -text
 Enoch/i386/boot2/lzss.c -text
 Enoch/i386/boot2/lzvn.c -text
 Enoch/i386/boot2/mboot.c -text
@@ -174,6 +176,8 @@ Enoch/i386/boot2/prompt.c -text
 Enoch/i386/boot2/ramdisk.c -text
 Enoch/i386/boot2/ramdisk.h -text
 Enoch/i386/boot2/resume.c -text
+Enoch/i386/boot2/sse3_5_patcher.h -text
+Enoch/i386/boot2/sse3_patcher.h -text
 Enoch/i386/cdboot/Makefile -text
 Enoch/i386/cdboot/cdboot.s -text
 Enoch/i386/cdboot/cdboothdd.s -text
