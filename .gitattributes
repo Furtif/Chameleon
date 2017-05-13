@@ -1262,7 +1262,7 @@ Enoch/package/Distribution -text
 Enoch/package/Icons/pkg.zip -text svneol=unset#unset
 Enoch/package/OptionalSettings/Audio.txt -text
 Enoch/package/OptionalSettings/Control.txt -text
-Enoch/package/OptionalSettings/CrsActiveConfig.txt -text
+Enoch/package/OptionalSettings/CsrActiveConfig.txt -text
 Enoch/package/OptionalSettings/General.txt -text
 Enoch/package/OptionalSettings/HDAULayout.txt -text
 Enoch/package/OptionalSettings/HDEFLayout.txt -text
