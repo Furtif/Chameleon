@@ -908,6 +908,8 @@ Enoch/i386/libsaio/fake_efi.h -text
 Enoch/i386/libsaio/fdisk.h -text
 Enoch/i386/libsaio/freebsd.c -text
 Enoch/i386/libsaio/freebsd.h -text
+Enoch/i386/libsaio/gfx_helper.c -text
+Enoch/i386/libsaio/gfx_helper.h -text
 Enoch/i386/libsaio/gma.c -text
 Enoch/i386/libsaio/gma.h -text
 Enoch/i386/libsaio/hda.c -text
@@ -936,8 +938,6 @@ Enoch/i386/libsaio/ntfs.h -text
 Enoch/i386/libsaio/ntfs_private.h -text
 Enoch/i386/libsaio/nvidia.c -text
 Enoch/i386/libsaio/nvidia.h -text
-Enoch/i386/libsaio/nvidia_helper.c -text
-Enoch/i386/libsaio/nvidia_helper.h -text
 Enoch/i386/libsaio/openbsd.c -text
 Enoch/i386/libsaio/openbsd.h -text
 Enoch/i386/libsaio/pci.c -text
