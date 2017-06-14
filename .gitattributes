@@ -992,6 +992,8 @@ i386/libsaio/fake_efi.h -text
 i386/libsaio/fdisk.h -text
 i386/libsaio/freebsd.c -text
 i386/libsaio/freebsd.h -text
+i386/libsaio/gfx_helper.c -text
+i386/libsaio/gfx_helper.h -text
 i386/libsaio/gma.c -text
 i386/libsaio/gma.h -text
 i386/libsaio/hda.c -text
@@ -1020,8 +1022,6 @@ i386/libsaio/ntfs.h -text
 i386/libsaio/ntfs_private.h -text
 i386/libsaio/nvidia.c -text
 i386/libsaio/nvidia.h -text
-i386/libsaio/nvidia_helper.c -text
-i386/libsaio/nvidia_helper.h -text
 i386/libsaio/openbsd.c -text
 i386/libsaio/openbsd.h -text
 i386/libsaio/pci.c -text
@@ -1346,7 +1346,7 @@ package/Distribution -text
 package/Icons/pkg.zip -text svneol=unset#unset
 package/OptionalSettings/Audio.txt -text
 package/OptionalSettings/Control.txt -text
-package/OptionalSettings/CrsActiveConfig.txt -text
+package/OptionalSettings/CsrActiveConfig.txt -text
 package/OptionalSettings/General.txt -text
 package/OptionalSettings/HDAULayout.txt -text
 package/OptionalSettings/HDEFLayout.txt -text
