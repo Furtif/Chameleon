@@ -59,6 +59,8 @@ artwork/themes/default/device_generic.png -text
 artwork/themes/default/device_generic_o.png -text
 artwork/themes/default/device_hfsfusion_cap.png -text
 artwork/themes/default/device_hfsfusion_cap_o.png -text
+artwork/themes/default/device_hfsfusion_hsi.png -text
+artwork/themes/default/device_hfsfusion_hsi_o.png -text
 artwork/themes/default/device_hfsfusion_mav.png -text
 artwork/themes/default/device_hfsfusion_mav_o.png -text
 artwork/themes/default/device_hfsfusion_sie.png -text
@@ -68,6 +70,8 @@ artwork/themes/default/device_hfsfusion_yos_o.png -text
 artwork/themes/default/device_hfsplus.png -text
 artwork/themes/default/device_hfsplus_cap.png -text
 artwork/themes/default/device_hfsplus_cap_o.png -text
+artwork/themes/default/device_hfsplus_hsi.png -text
+artwork/themes/default/device_hfsplus_hsi_o.png -text
 artwork/themes/default/device_hfsplus_leo.png -text
 artwork/themes/default/device_hfsplus_leo_o.png -text
 artwork/themes/default/device_hfsplus_lion.png -text
@@ -90,6 +94,8 @@ artwork/themes/default/device_hfsplus_yos_o.png -text
 artwork/themes/default/device_hfsraid.png -text
 artwork/themes/default/device_hfsraid_cap.png -text
 artwork/themes/default/device_hfsraid_cap_o.png -text
+artwork/themes/default/device_hfsraid_hsi.png -text
+artwork/themes/default/device_hfsraid_hsi_o.png -text
 artwork/themes/default/device_hfsraid_leo.png -text
 artwork/themes/default/device_hfsraid_leo_o.png -text
 artwork/themes/default/device_hfsraid_lion.png -text
